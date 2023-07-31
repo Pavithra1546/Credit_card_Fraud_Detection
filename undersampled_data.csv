@@ -1,0 +1,1745 @@
+User,Card,Year,Month,Day,Amount,UseChip,MerchantName,MerchantCity,MerchantState,Zip,MCC,target
+1750.0,0.0,2015.0,7.0,16.0,$21.42,Swipe Transaction,Lukass Theaters,Tiffin,OH,44883.0,7832.0,No
+1959.0,1.0,2016.0,5.0,5.0,$76.99,Chip Transaction,Jadens Wholesale,Lancaster,CA,93535.0,5300.0,No
+182.0,2.0,2012.0,11.0,23.0,$2.19,Swipe Transaction,Supermarket Chain 3,Houston,TX,77096.0,5411.0,No
+458.0,2.0,2019.0,5.0,15.0,$45.73,Chip Transaction,Supermarket Chain 3,Flint,MI,48532.0,5411.0,No
+1949.0,0.0,2018.0,1.0,4.0,$1.25,Chip Transaction,Convenience Store Chain 1,Brooklyn,NY,11213.0,5499.0,No
+899.0,1.0,2004.0,7.0,17.0,$100.00,Swipe Transaction,Money Transfer Company 1,Atlanta,GA,30349.0,4829.0,No
+168.0,1.0,2005.0,9.0,15.0,$103.04,Swipe Transaction,Pharmacy Company 1,Minneapolis,MN,55407.0,5912.0,No
+282.0,1.0,2016.0,12.0,16.0,$147.80,Chip Transaction,Pharmacy Company 1,Denver,CO,80220.0,5912.0,No
+1167.0,5.0,2009.0,8.0,25.0,$84.41,Swipe Transaction,Taylor Caldwell Grocery,Caldwell,TX,77836.0,5411.0,No
+362.0,0.0,2013.0,10.0,7.0,$45.29,Swipe Transaction,Solomons Home Materials,Brooklyn,NY,11213.0,5211.0,No
+591.0,3.0,2015.0,9.0,3.0,$34.24,Chip Transaction,Gutierrez Family Clothing,Whiteriver,AZ,85941.0,5651.0,No
+1113.0,4.0,2007.0,11.0,21.0,$9.45,Swipe Transaction,Ishaans Limousine,Erie,PA,16505.0,4121.0,No
+732.0,2.0,2018.0,5.0,20.0,$433.18,Online Transaction,Online Casino 3,ONLINE,CA,51694.67689524219,7801.0,No
+1075.0,5.0,2014.0,3.0,8.0,$89.03,Swipe Transaction,Pharmacy Company 1,Amherst,OH,44001.0,5912.0,No
+1216.0,3.0,2005.0,3.0,1.0,$27.19,Swipe Transaction,Vending Machine Product 2,Houston,TX,77076.0,5499.0,No
+95.0,2.0,2012.0,2.0,8.0,$22.26,Swipe Transaction,Wholesale Club 1,Arlington,TX,76014.0,5300.0,No
+56.0,3.0,2009.0,12.0,15.0,$36.50,Swipe Transaction,Moore Gulf Shores Apothecary,Gulf Shores,AL,36547.0,5912.0,No
+141.0,1.0,2003.0,4.0,30.0,$93.42,Swipe Transaction,Home Improvement Store 1,Paris,France,51694.67689524219,5211.0,No
+1135.0,0.0,2014.0,9.0,14.0,$4.59,Swipe Transaction,Braun Shirley Market,Shirley,NY,11967.0,5411.0,No
+1195.0,0.0,2017.0,2.0,4.0,$160.43,Chip Transaction,Ramirez Roswell Water,Roswell,NM,88201.0,4900.0,No
+1129.0,0.0,2017.0,11.0,4.0,$1.18,Chip Transaction,Supermarket Chain 2,Hemlock,MI,48626.0,5411.0,No
+220.0,2.0,2015.0,8.0,9.0,$24.00,Online Transaction,Online Retailer 2,ONLINE,CA,51694.67689524219,5311.0,No
+1933.0,4.0,2019.0,6.0,14.0,$41.75,Chip Transaction,Discount Store 1,Carrboro,NC,27510.0,5310.0,No
+1664.0,5.0,2016.0,7.0,23.0,$23.93,Swipe Transaction,Movie Theater Chain 1,Roann,IN,46974.0,7832.0,No
+899.0,1.0,2012.0,11.0,12.0,$197.70,Swipe Transaction,Taylor Podiatrists,Atlanta,GA,30344.0,8049.0,No
+1752.0,0.0,2011.0,6.0,28.0,$0.23,Swipe Transaction,Convenience Store Chain 3,Owatonna,MN,55060.0,5499.0,No
+475.0,4.0,2015.0,1.0,11.0,$0.76,Chip Transaction,Bookstore Company 1,Irvine,CA,92614.0,5942.0,No
+70.0,0.0,2009.0,12.0,21.0,$11.55,Swipe Transaction,Restaurant Chain 1,Post Falls,ID,83854.0,5812.0,No
+1567.0,2.0,2017.0,6.0,9.0,$14.59,Chip Transaction,Lilys Foods,Chino,CA,91710.0,5411.0,No
+693.0,0.0,2019.0,9.0,14.0,$127.41,Chip Transaction,Supermarket Chain 2,Fort Lauderdale,FL,33301.0,5411.0,No
+816.0,5.0,2000.0,7.0,28.0,$20.14,Swipe Transaction,Butler Wholesale,Lawrenceville,GA,30043.0,5300.0,No
+56.0,1.0,2013.0,1.0,24.0,$32.13,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+920.0,0.0,2009.0,6.0,25.0,$6.21,Swipe Transaction,Convenience Store Chain 1,Fort Smith,AR,72904.0,5499.0,No
+1804.0,0.0,2016.0,11.0,13.0,$43.68,Chip Transaction,Auto Service Company 1,Winthrop,ME,4364.0,7538.0,No
+706.0,3.0,2004.0,10.0,22.0,$22.10,Swipe Transaction,Wholesale Club 1,Los Angeles,CA,90023.0,5300.0,No
+1744.0,0.0,2019.0,1.0,18.0,$210.24,Online Transaction,Insurance Company 11,ONLINE,CA,51694.67689524219,6300.0,No
+1450.0,0.0,2015.0,7.0,29.0,$3.27,Swipe Transaction,Restaurant Chain 5,Fresno,CA,93720.0,5812.0,No
+740.0,5.0,2012.0,11.0,11.0,$25.96,Swipe Transaction,Fernandez Bar,Melville,NY,11747.0,5813.0,No
+47.0,1.0,2008.0,1.0,19.0,$13.11,Swipe Transaction,Parker Fine Foods,Anderson,SC,29626.0,5411.0,No
+358.0,3.0,2005.0,5.0,3.0,$47.08,Swipe Transaction,Fast Food Chain 1,Saint Paul,MN,55113.0,5814.0,No
+323.0,0.0,2010.0,7.0,27.0,$22.94,Swipe Transaction,Fast Food Chain 3,Columbus,OH,43201.0,5814.0,No
+401.0,4.0,2010.0,1.0,30.0,$26.17,Swipe Transaction,Hardware Store 2,Youngstown,OH,44511.0,5251.0,No
+1333.0,4.0,2013.0,5.0,16.0,$5.81,Swipe Transaction,Fast Food Chain 1,Alvin,TX,77511.0,5814.0,No
+175.0,1.0,2012.0,9.0,26.0,$23.15,Swipe Transaction,Fast Food Chain 16,Jesup,GA,31545.0,5814.0,No
+545.0,0.0,2017.0,6.0,17.0,$29.13,Chip Transaction,Torres Foods,Fremont,NE,68025.0,5411.0,No
+101.0,0.0,2013.0,2.0,10.0,$12.23,Swipe Transaction,Supermarket Chain 2,Alameda,CA,94501.0,5411.0,No
+38.0,0.0,2011.0,1.0,14.0,$0.98,Swipe Transaction,Bookstore Company 1,Carlsbad,CA,92009.0,5942.0,No
+1202.0,4.0,2019.0,3.0,14.0,$67.52,Chip Transaction,Supermarket Chain 3,Spiro,OK,74959.0,5411.0,No
+591.0,1.0,2009.0,11.0,19.0,$35.13,Swipe Transaction,Movie Theater Chain 3,Flagstaff,AZ,86001.0,7832.0,No
+913.0,3.0,1998.0,1.0,15.0,$72.28,Swipe Transaction,Fast Food Chain 10,Ellicott City,MD,21043.0,5814.0,No
+180.0,2.0,2001.0,3.0,10.0,$101.87,Swipe Transaction,Department Store 2,Titusville,FL,32780.0,5311.0,No
+35.0,0.0,2012.0,12.0,23.0,$13.07,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+839.0,0.0,2017.0,5.0,15.0,$72.80,Swipe Transaction,Carter Pharmacy,Mexico City,Mexico,51694.67689524219,5912.0,No
+1304.0,1.0,2010.0,12.0,24.0,$1.50,Swipe Transaction,Consolidated Foods,Marietta,GA,30068.0,5411.0,No
+261.0,0.0,2015.0,5.0,16.0,$27.71,Chip Transaction,Delivery Company 2,Moorhead,MN,56560.0,4214.0,No
+575.0,0.0,2011.0,7.0,10.0,$34.85,Swipe Transaction,Mylahs Grocery,Whitehouse Station,NJ,8889.0,5411.0,No
+1696.0,1.0,2020.0,2.0,21.0,$13.15,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+813.0,1.0,2012.0,7.0,17.0,$61.96,Swipe Transaction,Discount Store 1,West Fargo,ND,58078.0,5310.0,No
+435.0,0.0,2018.0,8.0,24.0,$105.73,Chip Transaction,Restaurant Chain 11,Fayetteville,NC,28306.0,5812.0,No
+197.0,4.0,2012.0,4.0,21.0,$11.32,Swipe Transaction,Wholesale Club 1,Columbus,IN,47201.0,5300.0,No
+24.0,0.0,2017.0,7.0,10.0,$9.85,Chip Transaction,Samirs Taunton Theaters,Taunton,MA,2780.0,7832.0,No
+385.0,0.0,2007.0,12.0,26.0,$239.46,Swipe Transaction,Rail Company 1,Manassas,VA,20110.0,4112.0,No
+389.0,5.0,2007.0,8.0,14.0,$49.43,Online Transaction,Auto Toll Provider 7,ONLINE,CA,51694.67689524219,4784.0,No
+1682.0,4.0,2011.0,9.0,8.0,$548.96,Swipe Transaction,Hotel and Resort Company 8,Rancho Cucamonga,CA,91730.0,3596.0,No
+1594.0,0.0,2014.0,1.0,7.0,$62.26,Swipe Transaction,Cristians Market,Concord,NC,28027.0,5411.0,No
+611.0,0.0,2002.0,10.0,21.0,$35.59,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1458.0,0.0,2020.0,1.0,16.0,$36.57,Chip Transaction,Nelson Car Service,Olathe,KS,66062.0,4121.0,No
+705.0,4.0,2019.0,1.0,24.0,$22.40,Chip Transaction,Supermarket Chain 2,Hamilton,OH,45011.0,5411.0,No
+648.0,2.0,2016.0,11.0,28.0,$77.62,Chip Transaction,Supermarket Chain 3,San Jose,CA,95124.0,5411.0,No
+574.0,3.0,2007.0,7.0,15.0,$55.70,Swipe Transaction,Maeves Eats,Littleton,CO,80130.0,5812.0,No
+974.0,0.0,2013.0,11.0,18.0,$3.10,Swipe Transaction,Giulianas Hallandale Supermarket,Hallandale,FL,33009.0,5411.0,No
+244.0,1.0,2011.0,1.0,12.0,$80.00,Swipe Transaction,Money Transfer Company 1,Cherry Point,NC,28533.0,4829.0,No
+1335.0,0.0,2019.0,6.0,13.0,$48.48,Chip Transaction,Restaurant Chain 5,Morgan Hill,CA,95037.0,5812.0,No
+300.0,4.0,2007.0,9.0,17.0,$23.92,Swipe Transaction,Torres Ale House,Freeport,NY,11520.0,5813.0,No
+508.0,0.0,2019.0,5.0,9.0,$50.14,Swipe Transaction,Clothing Store 2,Clarkston,MI,48346.0,5651.0,No
+1474.0,0.0,2019.0,10.0,24.0,$21.94,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+1006.0,5.0,2018.0,8.0,31.0,$189.22,Chip Transaction,Supermarket Chain 3,Newport Beach,CA,92660.0,5411.0,No
+1750.0,0.0,2016.0,12.0,11.0,$7.53,Swipe Transaction,Supermarket Chain 2,Tiffin,OH,44883.0,5411.0,No
+1278.0,4.0,2002.0,8.0,3.0,$183.57,Online Transaction,Travel Booking Company 1,ONLINE,CA,51694.67689524219,4722.0,No
+37.0,3.0,2009.0,2.0,18.0,$46.04,Swipe Transaction,Convenience Store Chain 1,Cincinnati,OH,45255.0,5499.0,No
+478.0,3.0,2015.0,3.0,5.0,$52.14,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+611.0,0.0,2017.0,2.0,8.0,$163.43,Chip Transaction,Car Rental Company 6,Manitowoc,WI,54220.0,3395.0,No
+1138.0,0.0,2004.0,5.0,23.0,$10.62,Swipe Transaction,Restaurant Chain 8,Marlborough,MA,1752.0,5812.0,No
+751.0,0.0,2016.0,9.0,4.0,$65.84,Chip Transaction,Auto Service Company 6,Spokane,WA,99223.0,7538.0,No
+956.0,1.0,2010.0,1.0,20.0,$49.03,Swipe Transaction,Crafts Store 1,San Jose,CA,95111.0,5970.0,No
+1913.0,0.0,2012.0,1.0,17.0,$56.55,Swipe Transaction,Restaurant Chain 1,Lancaster,SC,29720.0,5812.0,No
+1079.0,0.0,2013.0,8.0,24.0,$3.51,Swipe Transaction,Fast Food Chain 1,Coram,NY,11727.0,5814.0,No
+1547.0,4.0,2014.0,5.0,18.0,$0.43,Swipe Transaction,Gas Station Company 3,West Bend,WI,53095.0,5541.0,No
+1491.0,3.0,2010.0,5.0,24.0,$94.30,Swipe Transaction,Jakes Water,Buffalo,NY,14226.0,4900.0,No
+433.0,2.0,2012.0,10.0,23.0,$1.36,Swipe Transaction,Convenience Store Chain 1,Davis,CA,95616.0,5499.0,No
+1196.0,0.0,2006.0,4.0,16.0,$27.00,Swipe Transaction,Clothing Store 2,Sacramento,CA,95838.0,5651.0,No
+1876.0,2.0,2015.0,2.0,17.0,$4.37,Chip Transaction,Ward Gourmet Supplies,Sabillasville,MD,21780.0,5411.0,No
+531.0,3.0,2007.0,12.0,20.0,$3.93,Swipe Transaction,Pharmacy Company 4,Loveland,CO,80537.0,5912.0,No
+1278.0,5.0,2014.0,3.0,6.0,$165.91,Swipe Transaction,Phone Service Provider 2,Rio Rancho,NM,87144.0,4814.0,No
+1287.0,0.0,2016.0,10.0,25.0,$40.50,Chip Transaction,Vending Machine Product 2,Hendersonville,NC,28791.0,5499.0,No
+772.0,4.0,2011.0,8.0,5.0,$72.47,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1247.0,0.0,2012.0,11.0,24.0,$232.38,Online Transaction,Phone Service Provider 4,ONLINE,CA,51694.67689524219,4814.0,No
+864.0,0.0,2019.0,10.0,18.0,$8.39,Chip Transaction,Zendayas Bar,Lynn,MA,1905.0,5813.0,No
+1385.0,4.0,2010.0,7.0,6.0,$1.34,Swipe Transaction,Supermarket Chain 3,Rock Hill,SC,29732.0,5411.0,No
+1183.0,0.0,2019.0,10.0,3.0,$37.38,Chip Transaction,Department Store 8,Lake Orion,MI,48362.0,5311.0,No
+1079.0,0.0,2009.0,9.0,17.0,$1.46,Swipe Transaction,Convenience Store Chain 1,Coram,NY,11727.0,5499.0,No
+124.0,0.0,2014.0,7.0,18.0,$79.80,Swipe Transaction,Ezras Market,Brooklyn,NY,11220.0,5411.0,No
+188.0,2.0,2012.0,5.0,21.0,$18.03,Swipe Transaction,Zaviers Fine Foods,West Mifflin,PA,15122.0,5411.0,No
+1739.0,3.0,2008.0,6.0,13.0,$84.32,Swipe Transaction,Supermarket Chain 3,Woodside,NY,11377.0,5411.0,No
+82.0,3.0,2017.0,8.0,21.0,$30.15,Chip Transaction,Ronnies Beaver Eats,Beaver,PA,15009.0,5812.0,No
+150.0,3.0,2004.0,4.0,9.0,$31.37,Swipe Transaction,Green Bar,Pflugerville,TX,78660.0,5813.0,No
+143.0,1.0,2007.0,8.0,27.0,$53.28,Swipe Transaction,Moore Gourmet Supplies,Wilson,NC,27893.0,5411.0,No
+255.0,0.0,2013.0,5.0,15.0,$110.79,Swipe Transaction,Car Rental Company 2,Baltimore,MD,21218.0,3389.0,No
+1603.0,0.0,2000.0,9.0,13.0,$56.22,Swipe Transaction,Gas Station Company 4,La Grange,TX,78945.0,5541.0,No
+1783.0,0.0,2012.0,11.0,8.0,$36.71,Swipe Transaction,Movie Theater Chain 2,Stockbridge,GA,30281.0,7832.0,No
+188.0,0.0,2019.0,12.0,6.0,$16.79,Swipe Transaction,Aylins Pharmacy,West Mifflin,PA,15122.0,5912.0,No
+1931.0,0.0,2006.0,12.0,31.0,$5.54,Swipe Transaction,Merkel Apothecary,Hobart,IN,46342.0,5912.0,No
+1638.0,6.0,2015.0,9.0,16.0,$122.05,Chip Transaction,Clothing Store 3,Schererville,IN,46375.0,5651.0,No
+885.0,1.0,2011.0,7.0,30.0,$169.29,Swipe Transaction,King Plumbing,Waipahu,HI,96797.0,1711.0,No
+1610.0,0.0,2018.0,8.0,25.0,$1.71,Swipe Transaction,Supermarket Chain 3,Northport,AL,35475.0,5411.0,No
+132.0,1.0,2019.0,6.0,4.0,$6.35,Chip Transaction,Lauryns Supermarket,Haverhill,MA,1832.0,5411.0,No
+1980.0,2.0,2013.0,1.0,5.0,$56.61,Swipe Transaction,Fast Food Chain 2,Deville,LA,71328.0,5814.0,No
+1721.0,3.0,2008.0,10.0,4.0,$61.43,Swipe Transaction,Auto Service Company 6,Fulda,MN,56131.0,7538.0,No
+311.0,1.0,2015.0,10.0,19.0,$14.92,Chip Transaction,Mariams Kinston Theaters,Kinston,NC,28501.0,7832.0,No
+1666.0,0.0,2015.0,1.0,9.0,$80.00,Chip Transaction,Money Transfer Company 1,Anaheim,CA,92801.0,4829.0,No
+1150.0,1.0,2014.0,12.0,21.0,$9.68,Swipe Transaction,Reed Saint Louis Supermarket,Saint Louis,MO,63114.0,5411.0,No
+617.0,0.0,2015.0,7.0,15.0,$30.31,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+370.0,4.0,2014.0,11.0,29.0,$33.32,Swipe Transaction,Auto Service Company 12,King George,VA,22485.0,7538.0,No
+1202.0,4.0,2009.0,10.0,19.0,$110.98,Swipe Transaction,Lewis Seminole Water,Seminole,OK,74868.0,4900.0,No
+1804.0,2.0,2008.0,12.0,21.0,$2.01,Swipe Transaction,Convenience Store Chain 1,South China,ME,4358.0,5499.0,No
+718.0,1.0,2016.0,1.0,26.0,$57.33,Chip Transaction,Jaylas Gourmet Supplies,Bedford,IA,50833.0,5411.0,No
+1325.0,0.0,2006.0,5.0,4.0,$66.83,Swipe Transaction,Wholesale Club 1,Little River,SC,29566.0,5300.0,No
+1358.0,2.0,2016.0,4.0,14.0,$13.77,Chip Transaction,Convenience Store Chain 1,Oxnard,CA,93033.0,5499.0,No
+111.0,0.0,2013.0,7.0,14.0,$13.77,Swipe Transaction,Supermarket Chain 2,Lakewood,WA,98498.0,5411.0,No
+1895.0,1.0,2005.0,1.0,6.0,$44.15,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1579.0,0.0,2017.0,7.0,30.0,$126.63,Chip Transaction,Zaviers Grocery,Woodbridge,NJ,7095.0,5411.0,No
+662.0,2.0,2010.0,4.0,8.0,$49.18,Swipe Transaction,Department Store 8,Fort Worth,TX,76179.0,5311.0,No
+630.0,0.0,2008.0,2.0,9.0,$70.73,Swipe Transaction,Wholesale Club 1,Fort Benton,MT,59442.0,5300.0,No
+1961.0,3.0,2016.0,11.0,4.0,$7.40,Chip Transaction,Denvers Package Store,Oak Park,CA,91377.0,5921.0,No
+374.0,0.0,1998.0,10.0,11.0,$0.19,Swipe Transaction,Convenience Store Chain 3,Grand Rapids,MI,49508.0,5499.0,No
+961.0,0.0,2010.0,6.0,6.0,$19.17,Swipe Transaction,Restaurant Chain 5,Chapel Hill,NC,27516.0,5812.0,No
+1078.0,1.0,2011.0,2.0,3.0,$15.24,Swipe Transaction,Pharmacy Company 3,Mayfield,NY,12117.0,5912.0,No
+1603.0,0.0,2012.0,12.0,19.0,$73.22,Swipe Transaction,Phone Service Provider 2,Lubbock,TX,79413.0,4814.0,No
+1763.0,3.0,2006.0,7.0,12.0,$389.25,Swipe Transaction,Ariahs Legal Services,Aurora,IL,60506.0,8111.0,No
+718.0,1.0,2017.0,12.0,2.0,$11.09,Chip Transaction,Supermarket Chain 3,Mount Ayr,IA,50854.0,5411.0,No
+1487.0,3.0,2007.0,8.0,1.0,$13.32,Swipe Transaction,Gas Station Company 1,Hewitt,NJ,7421.0,5541.0,No
+387.0,1.0,2018.0,5.0,3.0,$6.32,Chip Transaction,Department Store 3,Santa Ana,CA,92704.0,5311.0,No
+336.0,3.0,2018.0,4.0,15.0,$30.22,Chip Transaction,Movie Theater Chain 1,Eagle Mountain,UT,84005.0,7832.0,No
+1574.0,4.0,2007.0,5.0,9.0,$77.19,Swipe Transaction,Convenience Store Chain 1,Appleton,WI,54915.0,5499.0,No
+1765.0,0.0,2016.0,8.0,30.0,$11.09,Chip Transaction,Gas Station Company 1,Washington,IN,47501.0,5541.0,No
+1930.0,3.0,2007.0,12.0,14.0,$83.36,Swipe Transaction,Clothing Store 1,Hillsboro,OH,45133.0,5651.0,No
+291.0,1.0,2012.0,10.0,29.0,$95.98,Swipe Transaction,Supermarket Chain 2,Atlanta,GA,30305.0,5411.0,No
+1382.0,1.0,2008.0,1.0,14.0,$87.36,Swipe Transaction,Car Rental Company 7,Muleshoe,TX,79347.0,3390.0,No
+21.0,1.0,2005.0,11.0,18.0,$24.75,Swipe Transaction,Clothing Store 2,Renton,WA,98055.0,5651.0,No
+1439.0,2.0,2015.0,12.0,2.0,$0.52,Swipe Transaction,Convenience Store Chain 1,Redwood City,CA,94062.0,5499.0,No
+1520.0,2.0,2014.0,10.0,6.0,$110.13,Swipe Transaction,Sanchez Chic Boutique,Saint Louis,MO,63125.0,5621.0,No
+47.0,4.0,2016.0,2.0,5.0,$12.42,Swipe Transaction,Department Store 6,Due West,SC,29639.0,5311.0,No
+1876.0,1.0,2017.0,1.0,18.0,$1.71,Chip Transaction,Ward Gourmet Supplies,Sabillasville,MD,21780.0,5411.0,No
+1611.0,0.0,2001.0,6.0,18.0,$49.54,Swipe Transaction,Phone Service Provider 2,Buffalo,NY,14216.0,4814.0,No
+292.0,1.0,2009.0,11.0,22.0,$62.23,Swipe Transaction,Gas Station Company 1,Jacksonville,FL,32225.0,5541.0,No
+440.0,2.0,2019.0,9.0,4.0,$267.41,Chip Transaction,Car Rental Company 4,Milwaukee,WI,53218.0,3405.0,No
+1233.0,4.0,2019.0,8.0,12.0,$34.36,Chip Transaction,Fast Food Chain 5,Springfield,MO,65804.0,5814.0,No
+126.0,0.0,2016.0,6.0,12.0,$44.81,Chip Transaction,Movie Theater Chain 2,Lawton,OK,73507.0,7832.0,No
+1746.0,3.0,2017.0,8.0,26.0,$15.12,Chip Transaction,Fast Food Chain 1,San Diego,CA,92128.0,5814.0,No
+279.0,2.0,2015.0,8.0,30.0,$29.94,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1861.0,4.0,2013.0,11.0,26.0,$10.82,Swipe Transaction,Pharmacy Company 2,Wichita,KS,67217.0,5912.0,No
+1643.0,0.0,2017.0,3.0,15.0,$59.69,Chip Transaction,Casons Pharmacy,Erlanger,KY,41018.0,5912.0,No
+1633.0,0.0,2019.0,7.0,26.0,$18.52,Chip Transaction,Pharmacy Company 1,Lorain,OH,44052.0,5912.0,No
+1517.0,2.0,2011.0,5.0,17.0,$25.76,Swipe Transaction,Cohens Bar,Orwigsburg,PA,17961.0,5813.0,No
+1502.0,3.0,2016.0,9.0,1.0,$116.81,Online Transaction,Ticket Seller 1,ONLINE,CA,51694.67689524219,7922.0,No
+327.0,0.0,2015.0,1.0,15.0,$2.22,Swipe Transaction,Bookstore Company 1,Los Angeles,CA,90037.0,5942.0,No
+1046.0,6.0,2016.0,2.0,13.0,$1.78,Chip Transaction,Hadlees Apothecary,Akron,OH,44301.0,5912.0,No
+1616.0,2.0,2010.0,6.0,19.0,$24.36,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1874.0,0.0,2009.0,12.0,4.0,$9.33,Swipe Transaction,Supermarket Chain 2,La Jolla,CA,92037.0,5411.0,No
+1925.0,4.0,2017.0,8.0,27.0,$52.82,Chip Transaction,Everetts Diner,Houston,TX,77082.0,5812.0,No
+1628.0,1.0,2013.0,8.0,24.0,$46.30,Swipe Transaction,Quentins Norwood Home Supplies,Norwood,MA,2062.0,5211.0,No
+1395.0,1.0,2016.0,3.0,22.0,$2.62,Chip Transaction,Karlies Supermarket,Lincoln,NE,68504.0,5411.0,No
+1307.0,0.0,2019.0,1.0,25.0,$3.19,Chip Transaction,Supermarket Chain 2,Huntington,IN,46750.0,5411.0,No
+927.0,0.0,2019.0,3.0,3.0,$11.70,Chip Transaction,Wholesale Club 1,Oskaloosa,IA,52577.0,5300.0,No
+1475.0,4.0,2005.0,7.0,4.0,$19.53,Swipe Transaction,Supermarket Chain 1,Windermere,FL,34786.0,5411.0,No
+1306.0,6.0,2019.0,7.0,4.0,$5.70,Chip Transaction,Pharmacy Company 1,Dallas,TX,75243.0,5912.0,No
+1351.0,3.0,2013.0,11.0,1.0,$82.79,Swipe Transaction,Department Store 2,Greenleaf,WI,54126.0,5311.0,No
+973.0,1.0,2011.0,8.0,27.0,$46.67,Online Transaction,Auto Toll Provider 6,ONLINE,CA,51694.67689524219,4784.0,No
+1751.0,1.0,2004.0,12.0,30.0,$51.72,Online Transaction,Electric Utility 1,ONLINE,CA,51694.67689524219,4900.0,No
+1721.0,4.0,2019.0,3.0,5.0,$45.74,Chip Transaction,Movie Theater Chain 3,Mountain Lake,MN,56159.0,7832.0,No
+1560.0,0.0,2015.0,11.0,30.0,$11.07,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,No
+1037.0,2.0,2014.0,5.0,16.0,$14.72,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1062.0,3.0,2015.0,12.0,2.0,$5.94,Chip Transaction,Supermarket Chain 3,Miami,FL,33147.0,5411.0,No
+1663.0,2.0,2010.0,10.0,1.0,$25.65,Swipe Transaction,Gas Station Company 1,Magna,UT,84044.0,5541.0,No
+903.0,4.0,2018.0,9.0,10.0,$11.06,Chip Transaction,Gas Station Company 2,Gardena,CA,90247.0,5541.0,No
+429.0,0.0,2012.0,11.0,17.0,$4.48,Swipe Transaction,Ramirez Spirits,Bradenton,FL,34207.0,5921.0,No
+759.0,0.0,2005.0,10.0,20.0,$87.49,Swipe Transaction,Bookstore Company 1,Philadelphia,PA,19111.0,5942.0,No
+1075.0,4.0,2017.0,8.0,11.0,$6.59,Chip Transaction,Darwins Diner,Amherst,OH,44001.0,5812.0,No
+1006.0,6.0,2013.0,8.0,22.0,$7.05,Swipe Transaction,Bookstore Company 1,Rancho Santa Margarita,CA,92688.0,5942.0,No
+1781.0,6.0,2014.0,7.0,15.0,$7.43,Swipe Transaction,Gas Station Company 2,San Diego,CA,92116.0,5541.0,No
+1040.0,4.0,2013.0,9.0,1.0,$27.63,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+1889.0,3.0,2018.0,6.0,25.0,$77.14,Chip Transaction,Bellissimas Market,Calumet City,IL,60409.0,5411.0,No
+1832.0,0.0,2019.0,11.0,6.0,$8.11,Chip Transaction,Lilyanas Bar,Stanton,CA,90680.0,5813.0,No
+29.0,0.0,2014.0,12.0,28.0,$31.85,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+699.0,2.0,2006.0,5.0,17.0,$34.34,Swipe Transaction,Schmidt Cottonwood Theaters,Cottonwood,AZ,86326.0,7832.0,No
+667.0,1.0,2020.0,1.0,19.0,$23.06,Chip Transaction,Delivery Company 3,Bowie,MD,20720.0,9402.0,No
+1616.0,2.0,2011.0,1.0,8.0,$9.18,Swipe Transaction,Gas Station Company 7,Powhatan,VA,23139.0,5541.0,No
+1034.0,1.0,2018.0,9.0,27.0,$16.29,Chip Transaction,Supermarket Chain 3,Roy,UT,84067.0,5411.0,No
+1327.0,5.0,2010.0,9.0,28.0,$10.23,Swipe Transaction,Davids Restaurant,Lilburn,GA,30047.0,5812.0,No
+276.0,3.0,2019.0,9.0,1.0,$7.38,Chip Transaction,Brycens Broussard Wine and Liquor,Broussard,LA,70518.0,5921.0,No
+389.0,5.0,2004.0,7.0,6.0,$36.33,Online Transaction,Auto Toll Provider 7,ONLINE,CA,51694.67689524219,4784.0,No
+85.0,0.0,2011.0,1.0,4.0,$33.81,Swipe Transaction,Burns Restaurant,Brea,CA,92821.0,5812.0,No
+143.0,1.0,2008.0,12.0,26.0,$2.47,Swipe Transaction,Arianas Wilson Rx,Wilson,NC,27893.0,5912.0,No
+182.0,1.0,2012.0,5.0,23.0,$26.99,Online Transaction,Auto Toll Provider 6,ONLINE,CA,51694.67689524219,4784.0,No
+694.0,1.0,2018.0,10.0,3.0,$111.12,Chip Transaction,Convenience Store Chain 1,Las Vegas,NV,89117.0,5499.0,No
+1028.0,1.0,2019.0,4.0,6.0,$70.02,Chip Transaction,Supermarket Chain 5,Jackson,KY,41339.0,5411.0,No
+477.0,1.0,2007.0,2.0,25.0,$78.52,Swipe Transaction,Commuter Rail System 11,Clearfield,UT,84015.0,4111.0,No
+1285.0,1.0,2013.0,6.0,9.0,$5.68,Swipe Transaction,Reed Florists,Sheridan,IN,46069.0,5193.0,No
+501.0,3.0,2018.0,9.0,13.0,$10.17,Chip Transaction,Ezekiels Drugs,Perry,OK,73077.0,5912.0,No
+1119.0,0.0,2017.0,12.0,4.0,$154.26,Chip Transaction,Foster Municipal Water,New Buffalo,MI,49117.0,4900.0,No
+1628.0,4.0,2002.0,1.0,29.0,$40.91,Swipe Transaction,Quentins Norwood Home Supplies,Norwood,MA,2062.0,5211.0,No
+1418.0,1.0,2016.0,5.0,15.0,$87.89,Chip Transaction,Annalises Saint Cloud Gourmet Supplies,Saint Cloud,MN,56301.0,5411.0,No
+1571.0,2.0,2008.0,9.0,16.0,$47.95,Swipe Transaction,Evelyns Drugs,Chandler,AZ,85225.0,5912.0,No
+1399.0,1.0,2010.0,7.0,4.0,$60.00,Swipe Transaction,Money Transfer Company 1,Vancouver,WA,98682.0,4829.0,No
+985.0,4.0,2006.0,7.0,5.0,$3.72,Swipe Transaction,Supermarket Chain 2,Muncie,IN,47302.0,5411.0,No
+1073.0,0.0,2009.0,5.0,24.0,$81.31,Swipe Transaction,Department Store 1,Rocky River,OH,44116.0,5311.0,No
+1959.0,0.0,2018.0,4.0,10.0,$46.05,Online Transaction,Auto Toll Provider 2,ONLINE,CA,51694.67689524219,4784.0,No
+1988.0,0.0,2008.0,6.0,17.0,$13.46,Swipe Transaction,Miller Market,Isanti,MN,55040.0,5411.0,No
+558.0,4.0,2019.0,7.0,14.0,$71.40,Swipe Transaction,Fast Food Chain 8,Fairfield,PA,17320.0,5814.0,No
+1676.0,0.0,2007.0,9.0,11.0,$25.26,Swipe Transaction,Robinson Wholesale,Topeka,KS,66608.0,5300.0,No
+1488.0,0.0,2011.0,5.0,5.0,$91.04,Online Transaction,Electric Utility 1,ONLINE,CA,51694.67689524219,4900.0,No
+675.0,1.0,2011.0,10.0,6.0,$3.06,Swipe Transaction,Supermarket Chain 3,Cibolo,TX,78108.0,5411.0,No
+1106.0,2.0,2004.0,10.0,11.0,$2.72,Swipe Transaction,Tristans Eats,Pierce City,MO,65723.0,5812.0,No
+1417.0,0.0,2017.0,3.0,17.0,$89.08,Chip Transaction,Pharmacy Company 4,Greeneville,TN,37743.0,5912.0,No
+385.0,0.0,2014.0,6.0,7.0,$22.36,Swipe Transaction,Gao Car Service,Washington,DC,20019.0,4121.0,No
+436.0,0.0,2017.0,3.0,22.0,$103.33,Chip Transaction,Foster Dentists,Manhattan,IL,60442.0,8021.0,No
+1895.0,0.0,2003.0,7.0,16.0,$65.32,Online Transaction,Auto Toll Provider 4,ONLINE,CA,51694.67689524219,4784.0,No
+705.0,5.0,2018.0,8.0,20.0,$32.29,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1114.0,1.0,2016.0,2.0,23.0,$5.79,Chip Transaction,Delivery Company 1,Louisville,KY,40213.0,4214.0,No
+141.0,0.0,2015.0,11.0,26.0,$23.20,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1934.0,3.0,2003.0,1.0,3.0,$204.43,Swipe Transaction,Car Rental Company 3,Peru,IN,46970.0,3387.0,No
+1599.0,0.0,2012.0,3.0,27.0,$27.30,Swipe Transaction,Auto Service Company 6,Plains,GA,31780.0,7538.0,No
+896.0,1.0,2015.0,5.0,31.0,$59.10,Chip Transaction,Pharmacy Company 1,Novi,MI,48374.0,5912.0,No
+1059.0,4.0,2008.0,6.0,26.0,$7.24,Swipe Transaction,Pharmacy Company 1,Meadville,PA,16335.0,5912.0,No
+785.0,1.0,2007.0,10.0,30.0,$6.30,Swipe Transaction,Delivery Company 1,Goose Creek,SC,29445.0,4214.0,No
+1007.0,0.0,2011.0,9.0,28.0,$16.90,Swipe Transaction,Fletchers Bar,San Bernardino,CA,92405.0,5813.0,No
+689.0,4.0,2016.0,7.0,26.0,$1.54,Chip Transaction,Lonsdale Market,Indianapolis,IN,46250.0,5411.0,No
+193.0,1.0,2014.0,1.0,17.0,$31.49,Swipe Transaction,Gas Station Company 4,Fresno,CA,93728.0,5541.0,No
+50.0,0.0,2017.0,2.0,6.0,$4.57,Chip Transaction,Restaurant Chain 4,Cincinnati,OH,45212.0,5812.0,No
+1246.0,3.0,2008.0,3.0,19.0,$18.89,Swipe Transaction,Wholesale Club 1,Lakewood,CA,90713.0,5300.0,No
+1676.0,4.0,2016.0,11.0,17.0,$3.34,Chip Transaction,Bookstore Company 1,Topeka,KS,66614.0,5942.0,No
+1846.0,0.0,2018.0,7.0,31.0,$100.00,Chip Transaction,Money Transfer Company 1,Livonia,MI,48154.0,4829.0,No
+1707.0,2.0,2009.0,3.0,15.0,$36.27,Swipe Transaction,Wholesale Club 1,Libertyville,IL,60048.0,5300.0,No
+1740.0,6.0,2012.0,2.0,16.0,$12.78,Swipe Transaction,Roman Market,Greentown,IN,46936.0,5411.0,No
+589.0,0.0,2016.0,10.0,5.0,$458.16,Chip Transaction,Ronnies Insurance,Gilbert,AZ,85233.0,6300.0,No
+1725.0,0.0,2015.0,10.0,30.0,$168.78,Online Transaction,Electric Utility 3,ONLINE,CA,51694.67689524219,4900.0,No
+1554.0,0.0,2004.0,7.0,11.0,$131.33,Swipe Transaction,Hotel and Resort Company 1,Denver,CO,80218.0,3509.0,No
+1348.0,3.0,2011.0,8.0,21.0,$36.64,Swipe Transaction,Clothing Store 4,Toronto,Canada,51694.67689524219,5651.0,No
+1483.0,1.0,2011.0,7.0,3.0,$46.43,Online Transaction,Travel Booking Company 2,ONLINE,CA,51694.67689524219,4722.0,No
+324.0,0.0,2011.0,3.0,21.0,$15.69,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,No
+765.0,1.0,2019.0,5.0,21.0,$86.14,Swipe Transaction,Hotel and Resort Company 1,Moreno Valley,CA,92557.0,3509.0,No
+1718.0,0.0,2012.0,6.0,10.0,$36.70,Swipe Transaction,Supermarket Chain 1,Grand Junction,CO,81504.0,5411.0,No
+878.0,1.0,2004.0,11.0,1.0,$119.68,Swipe Transaction,Wholesale Club 1,Baltimore,MD,21216.0,5300.0,No
+76.0,0.0,2019.0,4.0,27.0,$127.81,Chip Transaction,Acme Medical,Saint Joseph,MO,64501.0,8099.0,No
+77.0,2.0,2013.0,4.0,11.0,$40.06,Swipe Transaction,Gas Station Company 3,Ellenton,FL,34222.0,5541.0,No
+821.0,0.0,2015.0,2.0,11.0,$19.45,Swipe Transaction,Alexandras Drugs,Rexburg,ID,83440.0,5912.0,No
+1656.0,0.0,2011.0,1.0,5.0,$214.14,Swipe Transaction,Miguels Municipal Water,Mesa,AZ,85209.0,4900.0,No
+188.0,1.0,2010.0,8.0,21.0,$51.31,Swipe Transaction,Wholesale Club 1,Verona,PA,15147.0,5300.0,No
+238.0,1.0,2012.0,7.0,22.0,$12.06,Swipe Transaction,Gomez Spirits,Staten Island,NY,10304.0,5921.0,No
+1554.0,1.0,2020.0,2.0,6.0,$46.86,Chip Transaction,Richardson Ale House,Irvine,CA,92620.0,5813.0,No
+502.0,1.0,2010.0,1.0,1.0,$115.93,Swipe Transaction,Supermarket Chain 4,Silver Spring,MD,20907.0,5411.0,No
+755.0,0.0,2019.0,1.0,9.0,$84.43,Chip Transaction,Lee Municipal Water,Santa Clara,CA,95051.0,4900.0,No
+870.0,0.0,2002.0,1.0,28.0,$1.06,Swipe Transaction,Convenience Store Chain 1,Braddock,PA,15104.0,5499.0,No
+658.0,1.0,2011.0,6.0,16.0,$17.95,Swipe Transaction,Serenitys Bar,Leesville,LA,71446.0,5813.0,No
+941.0,3.0,2003.0,1.0,21.0,$23.16,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+1625.0,4.0,2004.0,8.0,15.0,$4.85,Swipe Transaction,Fast Food Chain 10,Savannah,GA,31401.0,5814.0,No
+1073.0,1.0,2016.0,11.0,29.0,$67.23,Swipe Transaction,Louies Eats,Rocky River,OH,44116.0,5812.0,No
+1806.0,2.0,2009.0,3.0,1.0,$15.52,Swipe Transaction,Wholesale Club 1,Arlington,TX,76014.0,5300.0,No
+1108.0,0.0,2010.0,8.0,30.0,$9.02,Swipe Transaction,Lee Foods,Orange Beach,AL,36561.0,5411.0,No
+1044.0,1.0,2005.0,7.0,21.0,$41.85,Swipe Transaction,Gas Station Company 5,Richmond,VA,23237.0,5541.0,No
+1725.0,0.0,2011.0,10.0,3.0,$41.34,Swipe Transaction,Fast Food Chain 2,Folsom,CA,95630.0,5814.0,No
+1715.0,3.0,2010.0,12.0,24.0,$36.61,Swipe Transaction,Amys Lexington Diner,Lexington,NC,27295.0,5812.0,No
+684.0,1.0,2011.0,4.0,22.0,$46.29,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1071.0,1.0,2017.0,11.0,12.0,$9.13,Chip Transaction,Amalgamated Ale House,Rio de Janeiro,Brazil,51694.67689524219,5813.0,No
+450.0,0.0,2014.0,12.0,10.0,$58.48,Swipe Transaction,Gas Station Company 3,Balch Springs,TX,75180.0,5541.0,No
+1724.0,2.0,2011.0,11.0,15.0,$4.13,Swipe Transaction,Kharis Foods,Sayville,NY,11782.0,5411.0,No
+727.0,4.0,2002.0,3.0,19.0,$66.92,Swipe Transaction,Wholesale Club 1,Sacramento,CA,95822.0,5300.0,No
+1501.0,3.0,2000.0,1.0,7.0,$48.92,Swipe Transaction,Convenience Store Chain 3,Exira,IA,50076.0,5499.0,No
+254.0,3.0,2006.0,3.0,10.0,$74.69,Swipe Transaction,Hill Sports Apparel,Denver,CO,80249.0,5655.0,No
+783.0,3.0,2018.0,6.0,15.0,$24.92,Chip Transaction,Fast Food Chain 2,Reseda,CA,91335.0,5814.0,No
+25.0,2.0,2013.0,3.0,21.0,$4.23,Swipe Transaction,Murphy Gourmet Supplies,Niagara Falls,NY,14301.0,5411.0,No
+714.0,4.0,2008.0,1.0,24.0,$104.12,Swipe Transaction,High End Goods Store 2,Raywick,KY,40060.0,5719.0,No
+1817.0,0.0,2016.0,5.0,23.0,$156.11,Online Transaction,Digital Delivery Company 3,ONLINE,CA,51694.67689524219,4899.0,No
+1447.0,2.0,2017.0,7.0,16.0,$66.48,Chip Transaction,Wholesale Club 1,Molalla,OR,97038.0,5300.0,No
+1000.0,2.0,2016.0,12.0,21.0,$39.28,Swipe Transaction,Pharmacy Company 2,Shawnee On Delaware,PA,18356.0,5912.0,No
+1816.0,0.0,2018.0,4.0,15.0,$63.45,Chip Transaction,Katherines Home Materials,Bothell,WA,98011.0,5211.0,No
+1934.0,3.0,2004.0,7.0,1.0,$1.40,Swipe Transaction,Convenience Store Chain 1,Greentown,IN,46936.0,5499.0,No
+1294.0,0.0,2019.0,12.0,5.0,$72.82,Chip Transaction,Department Store 1,Norfolk,VA,23513.0,5311.0,No
+1861.0,1.0,2003.0,5.0,24.0,$54.46,Online Transaction,Online Casino 6,ONLINE,CA,51694.67689524219,7801.0,No
+1237.0,1.0,2006.0,6.0,22.0,$1.77,Swipe Transaction,Bookstore Company 1,Orlando,FL,32829.0,5942.0,No
+247.0,1.0,2010.0,10.0,23.0,$81.95,Swipe Transaction,Gas Station Company 8,Brighton,TN,38011.0,5541.0,No
+433.0,2.0,2019.0,5.0,31.0,$93.82,Chip Transaction,Mylas Car Repairs,Cool,CA,95614.0,7538.0,No
+74.0,1.0,2008.0,1.0,28.0,$25.96,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+970.0,1.0,2003.0,6.0,29.0,$45.16,Swipe Transaction,Frankies Carrollton Supermarket,Carrollton,MO,64633.0,5411.0,No
+1724.0,1.0,2010.0,8.0,8.0,$68.49,Swipe Transaction,Phoenixs Discount Goods,Sayville,NY,11782.0,5310.0,No
+1023.0,5.0,2011.0,11.0,2.0,$186.45,Swipe Transaction,Rivera Portland Insurance,Portland,OR,97230.0,6300.0,No
+735.0,4.0,2004.0,5.0,28.0,$70.18,Swipe Transaction,Franks Mechanicsville Gourmet Supplies,Mechanicsville,VA,23111.0,5411.0,No
+5.0,1.0,2004.0,4.0,5.0,$80.00,Swipe Transaction,Money Transfer Company 1,Canon City,CO,81212.0,4829.0,No
+1137.0,4.0,2009.0,9.0,25.0,$154.10,Swipe Transaction,Phone Service Provider 2,Lubbock,TX,79413.0,4814.0,No
+804.0,2.0,2014.0,1.0,8.0,$28.82,Swipe Transaction,Bookstore Company 1,Hugo,MN,55038.0,5942.0,No
+1321.0,0.0,2019.0,11.0,11.0,$0.21,Chip Transaction,Convenience Store Chain 1,Gilbert,AZ,85297.0,5499.0,No
+28.0,2.0,2011.0,7.0,10.0,$24.25,Swipe Transaction,Joannas Bar,Littleton,CO,80130.0,5813.0,No
+1972.0,0.0,2015.0,2.0,11.0,$28.23,Swipe Transaction,Phone Service Provider 3,Troy,IL,62294.0,4814.0,No
+1725.0,0.0,2011.0,3.0,3.0,$42.79,Swipe Transaction,Fast Food Chain 2,Folsom,CA,95630.0,5814.0,No
+1346.0,1.0,2010.0,2.0,9.0,$14.01,Swipe Transaction,Restaurant Chain 13,Marrero,LA,70072.0,5812.0,No
+1129.0,2.0,2007.0,6.0,2.0,$32.55,Swipe Transaction,Gutierrez Discount Emporium,Gladwin,MI,48624.0,5310.0,No
+695.0,1.0,2017.0,11.0,6.0,$46.42,Swipe Transaction,Pharmacy Company 1,Polson,MT,59860.0,5912.0,No
+812.0,1.0,2012.0,8.0,14.0,$79.44,Online Transaction,Digital Delivery Company 4,ONLINE,CA,51694.67689524219,4899.0,No
+718.0,4.0,2014.0,5.0,6.0,$39.26,Swipe Transaction,Wholesale Club 1,Remsen,IA,51050.0,5300.0,No
+1406.0,0.0,2016.0,5.0,13.0,$11.17,Chip Transaction,Peterson Wholesale,Monticello,IA,52310.0,5300.0,No
+1643.0,1.0,2010.0,9.0,10.0,$39.79,Swipe Transaction,Movie Theater Chain 1,Greenup,KY,41144.0,7832.0,No
+1327.0,2.0,2014.0,8.0,15.0,$55.16,Swipe Transaction,Barnes Bay Shore Foods,Bay Shore,NY,11706.0,5411.0,No
+920.0,5.0,2010.0,11.0,16.0,$19.74,Swipe Transaction,Auto Service Company 11,Fort Smith,AR,72908.0,7538.0,No
+1672.0,0.0,2020.0,2.0,12.0,$96.57,Chip Transaction,Pharmacy Company 2,Belgrade,MT,59714.0,5912.0,No
+69.0,4.0,2008.0,4.0,4.0,$60.00,Swipe Transaction,Money Transfer Company 1,Charlotte,NC,28227.0,4829.0,No
+259.0,5.0,2008.0,2.0,10.0,$0.99,Swipe Transaction,Convenience Store Chain 1,Farmville,VA,23901.0,5499.0,No
+1695.0,2.0,2005.0,2.0,18.0,$15.52,Swipe Transaction,Delivery Company 2,Alhambra,CA,91801.0,4214.0,No
+1123.0,2.0,2005.0,9.0,16.0,$45.47,Swipe Transaction,Lee Drugs,Kissimmee,FL,34744.0,5912.0,No
+1959.0,1.0,2016.0,10.0,27.0,$99.75,Chip Transaction,Jadens Wholesale,Lancaster,CA,93535.0,5300.0,No
+348.0,2.0,2004.0,11.0,19.0,$140.00,Swipe Transaction,Money Transfer Company 1,Bel Air,MD,21014.0,4829.0,No
+1491.0,1.0,2017.0,5.0,22.0,$77.05,Online Transaction,Clothing Store 5,ONLINE,CA,51694.67689524219,5651.0,No
+624.0,1.0,2018.0,5.0,28.0,$1.79,Chip Transaction,Restaurant Chain 3,Lutz,FL,33559.0,5812.0,No
+1016.0,1.0,2018.0,12.0,24.0,$13.68,Swipe Transaction,Cataleyas Ale House,Baton Rouge,LA,70892.0,5813.0,No
+1459.0,1.0,2006.0,4.0,3.0,$85.66,Swipe Transaction,Pharmacy Company 4,Endicott,NY,13760.0,5912.0,No
+956.0,0.0,2009.0,5.0,28.0,$26.29,Swipe Transaction,Movie Theater Chain 2,San Pablo,CA,94806.0,7832.0,No
+238.0,0.0,2005.0,6.0,1.0,$6.04,Swipe Transaction,Rodriguez Restaurant,Staten Island,NY,10304.0,5812.0,No
+861.0,0.0,2016.0,10.0,4.0,$49.24,Chip Transaction,Restaurant Chain 5,Leominster,MA,1453.0,5812.0,No
+1842.0,1.0,2011.0,3.0,27.0,$2.39,Swipe Transaction,Ryan Fine Foods,Mills River,NC,28759.0,5411.0,No
+1447.0,0.0,2007.0,11.0,24.0,$80.00,Swipe Transaction,Money Transfer Company 1,Lake Oswego,OR,97034.0,4829.0,No
+392.0,1.0,2010.0,7.0,17.0,$33.44,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+76.0,3.0,2016.0,3.0,20.0,$4.12,Chip Transaction,Neufelder Foods,Saint Joseph,MO,64501.0,5411.0,No
+1739.0,3.0,2008.0,4.0,20.0,$8.15,Swipe Transaction,Blaines Diner,Woodside,NY,11377.0,5812.0,No
+1383.0,1.0,2013.0,7.0,16.0,$22.62,Swipe Transaction,Greysons Car Repairs,Cordele,GA,31015.0,7538.0,No
+810.0,0.0,2005.0,9.0,22.0,$13.17,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+642.0,2.0,2020.0,1.0,13.0,$12.99,Chip Transaction,Fast Food Chain 10,Meyersdale,PA,15552.0,5814.0,No
+103.0,4.0,2018.0,5.0,26.0,$17.08,Chip Transaction,Pharmacy Company 2,San Francisco,CA,94121.0,5912.0,No
+1170.0,0.0,2009.0,3.0,10.0,$24.05,Swipe Transaction,Miller Car Service,Charlotte,NC,28269.0,4121.0,No
+713.0,1.0,2019.0,12.0,13.0,$20.01,Swipe Transaction,Delivery Company 3,Burleson,TX,76028.0,9402.0,No
+618.0,3.0,2018.0,2.0,23.0,$15.89,Chip Transaction,Miller Pharmacy,Concord,CA,94518.0,5912.0,No
+1270.0,1.0,2006.0,3.0,17.0,$2.48,Swipe Transaction,Discount Store 4,Pittsburgh,PA,15216.0,5310.0,No
+1729.0,0.0,2006.0,2.0,17.0,$60.94,Swipe Transaction,Wholesale Club 1,Lewiston,ID,83501.0,5300.0,No
+570.0,1.0,2011.0,5.0,24.0,$128.10,Swipe Transaction,Phone Service Provider 3,Santa Ana,CA,92704.0,4814.0,No
+1772.0,3.0,2017.0,12.0,10.0,$46.10,Chip Transaction,Wholesale Club 1,Dover,PA,17315.0,5300.0,No
+1801.0,2.0,2016.0,9.0,19.0,$164.57,Chip Transaction,Hotel and Resort Company 10,San Francisco,CA,94114.0,3780.0,No
+731.0,1.0,2013.0,3.0,22.0,$34.95,Swipe Transaction,Convenience Store Chain 1,Memphis,TN,38106.0,5499.0,No
+1725.0,0.0,2016.0,11.0,3.0,$38.59,Chip Transaction,Restaurant Chain 1,Folsom,CA,95630.0,5812.0,No
+996.0,3.0,2004.0,10.0,7.0,$30.39,Swipe Transaction,Discount Store 1,Mooresville,NC,28115.0,5310.0,No
+783.0,0.0,2006.0,5.0,25.0,$8.58,Swipe Transaction,Consolidated Wholesale,Kenosha,WI,53144.0,5300.0,No
+457.0,0.0,2016.0,5.0,20.0,$21.57,Online Transaction,Online Retailer 2,ONLINE,CA,51694.67689524219,5311.0,No
+862.0,3.0,1999.0,8.0,7.0,$2.62,Swipe Transaction,Gas Station Company 2,Louisville,KY,40299.0,5541.0,No
+309.0,2.0,2014.0,6.0,24.0,$37.56,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+553.0,1.0,2013.0,10.0,19.0,$169.56,Swipe Transaction,Car Rental Company 5,Fayetteville,AR,72703.0,3393.0,No
+275.0,0.0,1998.0,6.0,2.0,$66.60,Swipe Transaction,Commuter Rail System 6,Boston,MA,2266.0,4111.0,No
+731.0,0.0,2015.0,7.0,9.0,$40.78,Chip Transaction,Bookstore Company 1,Germantown,TN,38138.0,5942.0,No
+1129.0,1.0,2005.0,1.0,12.0,$1.09,Swipe Transaction,Pharmacy Company 2,Gladwin,MI,48624.0,5912.0,No
+204.0,3.0,2019.0,2.0,24.0,$2.94,Chip Transaction,Fast Food Chain 2,Columbia,SC,29209.0,5814.0,No
+755.0,2.0,2011.0,8.0,14.0,$120.54,Swipe Transaction,Discount Store 6,Silver Spring,MD,20904.0,5310.0,No
+1983.0,3.0,2008.0,2.0,1.0,$42.44,Online Transaction,Clothing Store 5,ONLINE,CA,51694.67689524219,5651.0,No
+141.0,1.0,2002.0,12.0,1.0,$39.13,Swipe Transaction,Wholesale Club 1,Edison,NJ,8817.0,5300.0,No
+1126.0,0.0,2011.0,7.0,22.0,$17.47,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+1394.0,0.0,2003.0,4.0,1.0,$18.69,Swipe Transaction,Aprils Price Cutters,Ann Arbor,MI,48104.0,5310.0,No
+1956.0,0.0,2013.0,1.0,23.0,$38.98,Swipe Transaction,Kailyns Rolette Supermarket,Rolette,ND,58366.0,5411.0,No
+1937.0,0.0,2018.0,11.0,24.0,$32.33,Chip Transaction,Richardson Car Service,Alpharetta,GA,30005.0,4121.0,No
+1444.0,0.0,2006.0,12.0,25.0,$60.00,Swipe Transaction,Money Transfer Company 1,High Point,NC,27262.0,4829.0,No
+150.0,3.0,2009.0,12.0,6.0,$45.66,Swipe Transaction,Restaurant Chain 7,Pflugerville,TX,78660.0,5812.0,No
+1763.0,0.0,2018.0,4.0,30.0,$146.45,Chip Transaction,Phone Service Provider 1,Aurora,IL,60506.0,4814.0,No
+247.0,2.0,2011.0,1.0,20.0,$52.72,Swipe Transaction,Supermarket Chain 2,Collierville,TN,38017.0,5411.0,No
+1837.0,1.0,2017.0,7.0,6.0,$3.13,Chip Transaction,Restaurant Chain 7,Edgewater,NJ,7020.0,5812.0,No
+1636.0,0.0,2010.0,8.0,7.0,$18.48,Swipe Transaction,Macron Webster Diner,Webster,NY,14580.0,5812.0,No
+1826.0,5.0,2016.0,7.0,26.0,$13.63,Chip Transaction,Delivery Company 1,Astoria,NY,11105.0,4214.0,No
+1834.0,0.0,2007.0,1.0,10.0,$37.05,Swipe Transaction,Gomez Car Service,Brentwood,CA,94513.0,4121.0,No
+387.0,1.0,2018.0,7.0,2.0,$60.00,Chip Transaction,Money Transfer Company 1,Anaheim,CA,92801.0,4829.0,No
+463.0,4.0,2002.0,5.0,12.0,$7.96,Swipe Transaction,Gas Station Company 1,North Tonawanda,NY,14120.0,5541.0,No
+438.0,5.0,2015.0,3.0,17.0,$7.73,Chip Transaction,Supermarket Chain 2,Brooklyn,NY,11221.0,5411.0,No
+1180.0,4.0,2005.0,2.0,2.0,$13.40,Swipe Transaction,Phone Service Provider 3,Kingston,TN,37763.0,4814.0,No
+878.0,1.0,2014.0,8.0,2.0,$12.69,Swipe Transaction,Delivery Company 3,Woodstock,MD,21163.0,9402.0,No
+214.0,1.0,2016.0,11.0,16.0,$5.16,Chip Transaction,Convenience Store Chain 1,Tallahassee,FL,32317.0,5499.0,No
+1028.0,1.0,2014.0,12.0,30.0,$39.17,Swipe Transaction,Vending Machine Product 1,Jackson,KY,41339.0,5499.0,No
+1253.0,0.0,2014.0,5.0,15.0,$79.29,Swipe Transaction,Gas Station Company 2,Orlando,FL,32817.0,5541.0,No
+397.0,4.0,2018.0,12.0,7.0,$130.26,Chip Transaction,Wood Burnet Optical Services,Burnet,TX,78611.0,8043.0,No
+1537.0,2.0,2011.0,12.0,25.0,$5.74,Swipe Transaction,Gas Station Company 2,Palm Coast,FL,32137.0,5541.0,No
+388.0,3.0,2019.0,4.0,5.0,$37.91,Chip Transaction,Wholesale Club 1,Withee,WI,54498.0,5300.0,No
+1180.0,2.0,2005.0,6.0,27.0,$64.51,Swipe Transaction,Wholesale Club 1,Annapolis,MD,21409.0,5300.0,No
+1565.0,1.0,2013.0,12.0,10.0,$44.47,Swipe Transaction,Convenience Store Chain 1,Minneapolis,MN,55401.0,5499.0,No
+1243.0,5.0,2003.0,9.0,19.0,$1.49,Swipe Transaction,Thomas Restaurant,Compton,CA,90222.0,5812.0,No
+472.0,2.0,2011.0,3.0,27.0,$39.27,Swipe Transaction,Hall Wholesale,Fuquay Varina,NC,27526.0,5300.0,No
+1486.0,4.0,2006.0,7.0,28.0,$15.06,Swipe Transaction,Fast Food Chain 2,Mexico City,Mexico,51694.67689524219,5814.0,No
+1629.0,0.0,2014.0,10.0,20.0,$64.19,Swipe Transaction,Demetriuss Female Fashion,Clio,MI,48420.0,5621.0,No
+1118.0,2.0,2020.0,1.0,8.0,$5.82,Chip Transaction,Pharmacy Company 1,Batesville,AR,72501.0,5912.0,No
+1206.0,3.0,2014.0,8.0,19.0,$7.00,Swipe Transaction,Harris Supermarket,Chicago,IL,60659.0,5411.0,No
+495.0,3.0,2009.0,8.0,21.0,$25.64,Swipe Transaction,Restaurant Chain 12,Monroe,NC,28110.0,5812.0,No
+1808.0,2.0,2016.0,11.0,17.0,$9.33,Chip Transaction,Cosmetics Store 1,Ocean View,HI,96737.0,5977.0,No
+583.0,0.0,2005.0,12.0,27.0,$35.48,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+1014.0,0.0,2009.0,10.0,8.0,$72.69,Swipe Transaction,Phone Service Provider 3,Saint Ignatius,MT,59865.0,4814.0,No
+1288.0,3.0,2013.0,11.0,16.0,$48.76,Swipe Transaction,Jairos Family Clothing,Richmond Hill,GA,31324.0,5651.0,No
+404.0,3.0,2015.0,5.0,20.0,$41.37,Swipe Transaction,Wholesale Club 1,San Antonio,TX,78232.0,5300.0,No
+389.0,3.0,2017.0,9.0,20.0,$38.48,Chip Transaction,Department Store 5,Vancouver,WA,98684.0,5311.0,No
+1070.0,1.0,2012.0,3.0,23.0,$27.33,Swipe Transaction,Kaidens Auto Repair,Brownsville,TX,78521.0,7538.0,No
+757.0,0.0,2010.0,1.0,15.0,$27.63,Swipe Transaction,Wholesale Club 1,Fort Worth,TX,76133.0,5300.0,No
+656.0,0.0,2016.0,10.0,25.0,$15.43,Chip Transaction,Clays Grocery,Cumberland City,TN,37050.0,5411.0,No
+660.0,2.0,2002.0,7.0,29.0,$64.38,Swipe Transaction,Restaurant Chain 2,Eden,NY,14057.0,5812.0,No
+1928.0,3.0,1999.0,12.0,30.0,$0.65,Swipe Transaction,Walker Restaurant,Victorville,CA,92392.0,5812.0,No
+1304.0,0.0,2016.0,9.0,6.0,$0.82,Swipe Transaction,Fast Food Chain 2,Dearborn,MI,48126.0,5814.0,No
+1156.0,3.0,2007.0,4.0,17.0,$147.12,Swipe Transaction,Adams Topeka Municipal Water,Topeka,KS,66619.0,4900.0,No
+1023.0,4.0,2012.0,4.0,12.0,$11.22,Swipe Transaction,Elyses Restaurant,Portland,OR,97230.0,5812.0,No
+1514.0,2.0,2005.0,3.0,18.0,$4.92,Swipe Transaction,Vending Machine Product 1,Folsom,CA,95630.0,5499.0,No
+1071.0,2.0,2016.0,3.0,6.0,$42.20,Chip Transaction,Liliths Home Supplies,Oviedo,FL,32765.0,5211.0,No
+1253.0,0.0,2014.0,10.0,29.0,$50.67,Swipe Transaction,Sages Resort and Casino,Orlando,FL,32811.0,7995.0,No
+878.0,1.0,2014.0,7.0,7.0,$180.00,Swipe Transaction,Money Transfer Company 1,White Marsh,MD,21162.0,4829.0,No
+1622.0,1.0,2016.0,4.0,26.0,$1.91,Swipe Transaction,Vending Machine Product 1,Olathe,CO,81425.0,5499.0,No
+722.0,3.0,2010.0,4.0,10.0,$7.78,Swipe Transaction,Wright Grocery,Toledo,OH,43605.0,5411.0,No
+1478.0,3.0,2004.0,1.0,19.0,$37.83,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1236.0,1.0,2017.0,8.0,7.0,$187.89,Chip Transaction,Robinson Medical Group,Beachwood,OH,44122.0,8011.0,No
+1184.0,4.0,2016.0,8.0,26.0,$160.00,Chip Transaction,Money Transfer Company 1,Reno,NV,89523.0,4829.0,No
+1486.0,2.0,2014.0,4.0,21.0,$28.66,Swipe Transaction,Remingtons Car Service,Farmingdale,ME,4344.0,4121.0,No
+1517.0,3.0,2015.0,1.0,27.0,$12.71,Chip Transaction,Supermarket Chain 2,Corpus Christi,TX,78418.0,5411.0,No
+1557.0,2.0,2008.0,12.0,18.0,$2.41,Swipe Transaction,Hardware Store 1,Strasburg,VA,22657.0,5251.0,No
+167.0,3.0,2007.0,6.0,25.0,$6.83,Swipe Transaction,Aris Restaurant,Payson,AZ,85541.0,5812.0,No
+1358.0,2.0,2016.0,9.0,24.0,$37.12,Chip Transaction,Hughes Auto Repair,Oxnard,CA,93033.0,7538.0,No
+1935.0,0.0,2000.0,9.0,18.0,$222.70,Swipe Transaction,Gray Podiatrists,Plymouth Meeting,PA,19462.0,8049.0,No
+735.0,1.0,2019.0,7.0,6.0,$52.63,Chip Transaction,Franks Mechanicsville Gourmet Supplies,Mechanicsville,VA,23111.0,5411.0,No
+943.0,0.0,2015.0,9.0,15.0,$18.57,Chip Transaction,Kodas Martinizers,Yonkers,NY,10705.0,7210.0,No
+1026.0,0.0,2012.0,1.0,17.0,$6.50,Swipe Transaction,Convenience Store Chain 1,Chatsworth,CA,91311.0,5499.0,No
+1767.0,0.0,2004.0,11.0,6.0,$30.99,Swipe Transaction,Brentleys Ale House,Henderson,TN,38340.0,5813.0,No
+540.0,4.0,2009.0,10.0,6.0,$27.22,Swipe Transaction,Movie Theater Chain 1,Sacramento,CA,95824.0,7832.0,No
+1127.0,0.0,2007.0,7.0,26.0,$1.53,Swipe Transaction,Supermarket Chain 2,Omaha,NE,68106.0,5411.0,No
+816.0,0.0,2017.0,6.0,29.0,$25.54,Chip Transaction,Itzels Discount Emporium,Lawrenceville,GA,30043.0,5310.0,No
+1974.0,5.0,2012.0,1.0,12.0,$16.72,Swipe Transaction,Gas Station Company 11,Indianapolis,IN,46220.0,5541.0,No
+2.0,0.0,2009.0,6.0,12.0,$41.37,Swipe Transaction,Bookstore Company 1,Philadelphia,PA,19111.0,5942.0,No
+684.0,1.0,2011.0,12.0,22.0,$80.87,Swipe Transaction,Supermarket Chain 8,Annapolis,MD,21401.0,5411.0,No
+408.0,0.0,2011.0,2.0,27.0,$16.23,Swipe Transaction,Delivery Company 2,Westwood,MA,2090.0,4214.0,No
+750.0,2.0,2011.0,2.0,10.0,$84.29,Swipe Transaction,Wholesale Club 1,Modesto,CA,95355.0,5300.0,No
+550.0,1.0,2008.0,9.0,29.0,$7.32,Swipe Transaction,Logans Laredo Beverages,Laredo,TX,78044.0,5921.0,No
+1207.0,1.0,2012.0,10.0,20.0,$8.96,Swipe Transaction,Jaycees Package Store,Odessa,TX,79761.0,5921.0,No
+983.0,1.0,2001.0,8.0,23.0,$100.29,Swipe Transaction,Barretts Wholesale,Zionville,NC,28698.0,5300.0,No
+1702.0,2.0,2019.0,3.0,2.0,$107.19,Chip Transaction,Convenience Store Chain 1,Spring,TX,77388.0,5499.0,No
+1662.0,0.0,2006.0,4.0,8.0,$10.78,Swipe Transaction,Supermarket Chain 2,National City,CA,91950.0,5411.0,No
+1491.0,1.0,2007.0,7.0,30.0,$19.12,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,No
+278.0,1.0,2017.0,9.0,27.0,$42.53,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+1562.0,0.0,2008.0,10.0,30.0,$161.70,Swipe Transaction,Rivera Fine Foods,Leominster,MA,1453.0,5411.0,No
+380.0,1.0,2009.0,4.0,15.0,$46.74,Swipe Transaction,Vending Machine Product 1,Independence,WI,54747.0,5499.0,No
+1039.0,5.0,2010.0,5.0,9.0,$100.00,Swipe Transaction,Money Transfer Company 1,Midlothian,TX,76065.0,4829.0,No
+1749.0,2.0,2013.0,1.0,8.0,$13.65,Swipe Transaction,Burns Carwash,San Antonio,TX,78213.0,7542.0,No
+1300.0,2.0,2007.0,11.0,7.0,$168.12,Swipe Transaction,Phone Service Provider 1,Myakka City,FL,34251.0,4814.0,No
+238.0,4.0,2015.0,8.0,24.0,$2.90,Chip Transaction,Miller Fine Foods,Staten Island,NY,10304.0,5411.0,No
+1483.0,1.0,2018.0,8.0,5.0,$3.72,Chip Transaction,Supermarket Chain 2,Arvada,CO,80004.0,5411.0,No
+1690.0,0.0,2005.0,10.0,26.0,$9.02,Swipe Transaction,High End Goods Store 2,Irmo,SC,29063.0,5719.0,No
+371.0,2.0,2011.0,3.0,3.0,$44.91,Swipe Transaction,Ramirez Rogers City Medical Services,Rogers City,MI,49779.0,8099.0,No
+474.0,2.0,2017.0,8.0,18.0,$68.08,Chip Transaction,Fast Food Chain 3,Western Springs,IL,60558.0,5814.0,No
+5.0,1.0,2009.0,1.0,26.0,$36.76,Swipe Transaction,Fast Food Chain 3,La Junta,CO,81050.0,5814.0,No
+1777.0,4.0,2010.0,3.0,31.0,$41.69,Swipe Transaction,Green Taxi,West Chester,OH,45069.0,4121.0,No
+745.0,0.0,2011.0,1.0,24.0,$5.61,Swipe Transaction,Blaires Drugs,Newton,KS,67114.0,5912.0,No
+464.0,0.0,2016.0,4.0,26.0,$55.42,Chip Transaction,Monicas House and Garden,Orange,CA,92867.0,5211.0,No
+943.0,1.0,2014.0,8.0,25.0,$204.38,Online Transaction,Travel Booking Company 1,ONLINE,CA,51694.67689524219,4722.0,No
+1815.0,2.0,2011.0,10.0,31.0,$48.28,Swipe Transaction,Convenience Store Chain 1,Birch Run,MI,48415.0,5499.0,No
+517.0,2.0,2017.0,5.0,7.0,$17.87,Chip Transaction,Clark Pharmacy,Cartersville,GA,30121.0,5912.0,No
+733.0,1.0,2007.0,1.0,16.0,$106.34,Swipe Transaction,Supermarket Chain 2,Chicago,IL,60607.0,5411.0,No
+1191.0,0.0,2014.0,11.0,6.0,$42.15,Swipe Transaction,Fast Food Chain 10,Kenner,LA,70065.0,5814.0,No
+1925.0,4.0,2017.0,1.0,29.0,$11.89,Chip Transaction,Supermarket Chain 2,Houston,TX,77082.0,5411.0,No
+873.0,2.0,2006.0,6.0,14.0,$67.69,Swipe Transaction,Supermarket Chain 8,Irvona,PA,16656.0,5411.0,No
+717.0,3.0,2012.0,7.0,19.0,$19.29,Swipe Transaction,Supermarket Chain 2,New York,NY,10036.0,5411.0,No
+27.0,2.0,2008.0,3.0,2.0,$48.43,Swipe Transaction,Discount Store 3,Fairport,NY,14450.0,5310.0,No
+1423.0,5.0,2012.0,5.0,19.0,$29.03,Swipe Transaction,Fast Food Chain 7,Daytona Beach,FL,32119.0,5814.0,No
+55.0,0.0,2013.0,11.0,2.0,$51.06,Swipe Transaction,Crafts Store 1,Lansing,MI,48910.0,5970.0,No
+1394.0,2.0,2013.0,12.0,22.0,$18.18,Swipe Transaction,Crafts Store 1,Lambertville,MI,48144.0,5970.0,No
+846.0,5.0,2001.0,6.0,11.0,$47.03,Swipe Transaction,Supermarket Chain 8,Scottsboro,AL,35769.0,5411.0,No
+1878.0,1.0,2009.0,1.0,13.0,$9.34,Swipe Transaction,Gas Station Company 1,Dallas,PA,18612.0,5541.0,No
+1066.0,2.0,2012.0,3.0,8.0,$42.29,Swipe Transaction,Masvidal Bar,Lake Havasu City,AZ,86406.0,5813.0,No
+681.0,0.0,2019.0,11.0,30.0,$27.00,Chip Transaction,Ortiz West Palm Beach Car Repairs,West Palm Beach,FL,33415.0,7538.0,No
+641.0,1.0,2019.0,3.0,19.0,$13.61,Swipe Transaction,Supermarket Chain 2,Newnan,GA,30263.0,5411.0,No
+1163.0,3.0,2012.0,9.0,4.0,$120.00,Swipe Transaction,Money Transfer Company 1,Sanford,FL,32773.0,4829.0,No
+658.0,4.0,2018.0,11.0,26.0,$17.67,Chip Transaction,Consolidated Ale House,Clarkston,GA,30021.0,5813.0,No
+106.0,3.0,2009.0,10.0,15.0,$1232.73,Swipe Transaction,Coens Legal Services,Lockport,IL,60441.0,8111.0,No
+314.0,2.0,2019.0,9.0,21.0,$2.04,Swipe Transaction,Supermarket Chain 3,Bellingham,WA,98225.0,5411.0,No
+882.0,0.0,2008.0,2.0,16.0,$25.05,Swipe Transaction,Supermarket Chain 3,Rosebud,SD,57570.0,5411.0,No
+589.0,1.0,2011.0,9.0,23.0,$76.06,Swipe Transaction,Discount Store 2,Scottsdale,AZ,85251.0,5310.0,No
+485.0,1.0,2017.0,7.0,9.0,$33.01,Swipe Transaction,Anwar Limo,Wenatchee,WA,98801.0,4121.0,No
+687.0,7.0,2016.0,3.0,25.0,$265.54,Chip Transaction,Flores Internal Medicine,Menomonee Falls,WI,53051.0,8011.0,No
+1856.0,2.0,2016.0,6.0,22.0,$20.55,Chip Transaction,Kylans House and Garden,Detroit,MI,48234.0,5211.0,No
+1542.0,6.0,2018.0,6.0,8.0,$26.92,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+1597.0,0.0,2011.0,3.0,25.0,$1.32,Swipe Transaction,Diversified Clothing,Chatsworth,GA,30705.0,5651.0,No
+1986.0,2.0,2009.0,12.0,20.0,$1.82,Swipe Transaction,Convenience Store Chain 3,North Olmsted,OH,44070.0,5499.0,No
+1665.0,1.0,2014.0,12.0,16.0,$2.22,Swipe Transaction,Jurnees Fine Foods,Austin,TX,78750.0,5411.0,No
+847.0,0.0,2018.0,4.0,27.0,$111.48,Chip Transaction,Gas Station Company 1,Towanda,PA,18848.0,5541.0,No
+1704.0,4.0,2001.0,10.0,13.0,$60.00,Swipe Transaction,Money Transfer Company 1,Cantonment,FL,32533.0,4829.0,No
+1701.0,2.0,2007.0,7.0,25.0,$73.28,Swipe Transaction,Wright Ale House,Bloomfield,NJ,7003.0,5813.0,No
+1124.0,0.0,2003.0,10.0,26.0,$10.59,Swipe Transaction,Fast Food Chain 1,Philadelphia,PA,19149.0,5814.0,No
+493.0,1.0,2009.0,12.0,7.0,$98.05,Swipe Transaction,Pharmacy Company 1,Austin,TX,78735.0,5912.0,No
+281.0,0.0,2019.0,9.0,19.0,$1117.10,Chip Transaction,Airline Company 7,West Sunbury,PA,16061.0,3132.0,No
+1616.0,2.0,2004.0,8.0,27.0,$9.10,Swipe Transaction,Delivery Company 2,West Point,VA,23181.0,4214.0,No
+1704.0,4.0,2006.0,9.0,5.0,$60.00,Swipe Transaction,Money Transfer Company 1,Cantonment,FL,32533.0,4829.0,No
+1363.0,0.0,2017.0,3.0,21.0,$4.69,Chip Transaction,Convenience Store Chain 1,Fredericksburg,VA,22401.0,5499.0,No
+950.0,0.0,2018.0,3.0,18.0,$48.78,Chip Transaction,Auto Service Company 8,Bakersfield,CA,93308.0,7538.0,No
+246.0,3.0,2008.0,8.0,16.0,$2.59,Swipe Transaction,Restaurant Chain 10,Long Beach,CA,90808.0,5812.0,No
+1889.0,3.0,2017.0,2.0,11.0,$11.80,Chip Transaction,Supermarket Chain 2,Chicago Heights,IL,60411.0,5411.0,No
+1297.0,1.0,2013.0,2.0,27.0,$47.95,Online Transaction,Trash Collection Company 1,ONLINE,CA,51694.67689524219,7349.0,No
+1625.0,5.0,2003.0,9.0,15.0,$13.89,Swipe Transaction,Bretts Modesto Apothecary,Modesto,CA,95350.0,5912.0,No
+547.0,3.0,2011.0,10.0,1.0,$42.77,Swipe Transaction,Parker Diner,Saint Charles,MO,63301.0,5812.0,No
+1887.0,1.0,2016.0,12.0,15.0,$8.80,Chip Transaction,Rivera Discount Goods,Los Angeles,CA,90018.0,5310.0,No
+1834.0,0.0,2004.0,3.0,25.0,$90.33,Swipe Transaction,Auto Service Company 3,Brentwood,CA,94513.0,7538.0,No
+1519.0,3.0,2016.0,12.0,18.0,$21.77,Chip Transaction,Delivery Company 3,Leominster,MA,1453.0,9402.0,No
+760.0,0.0,2018.0,6.0,14.0,$80.00,Chip Transaction,Money Transfer Company 1,Elkton,MD,21921.0,4829.0,No
+698.0,2.0,2012.0,1.0,8.0,$34.59,Swipe Transaction,Zyaires Bar,Sykesville,MD,21784.0,5813.0,No
+1015.0,1.0,2008.0,5.0,27.0,$226.46,Swipe Transaction,Hotel and Resort Company 5,San Marcos,TX,78666.0,3640.0,No
+1514.0,0.0,2011.0,2.0,14.0,$15.93,Swipe Transaction,Alans Diner,Folsom,CA,95630.0,5812.0,No
+1674.0,1.0,2009.0,8.0,15.0,$4.59,Swipe Transaction,Roberts Restaurant,Vancouver,WA,98682.0,5812.0,No
+1035.0,0.0,2011.0,1.0,21.0,$475.51,Swipe Transaction,Hotel and Resort Company 7,Lincolnwood,IL,60712.0,3730.0,No
+1246.0,1.0,2005.0,9.0,11.0,$5.60,Swipe Transaction,Green Gourmet Supplies,Bronx,NY,10469.0,5411.0,No
+1542.0,2.0,2007.0,8.0,18.0,$2.87,Swipe Transaction,Supermarket Chain 2,Newport News,VA,23606.0,5411.0,No
+1096.0,0.0,2010.0,6.0,2.0,$94.96,Swipe Transaction,Adleys Whitehouse Rx,Whitehouse,TX,75791.0,5912.0,No
+1959.0,2.0,2008.0,8.0,7.0,$44.29,Online Transaction,Auto Toll Provider 2,ONLINE,CA,51694.67689524219,4784.0,No
+1942.0,5.0,2001.0,3.0,1.0,$12.48,Swipe Transaction,Lewis Foods,Phoenix,AZ,85022.0,5411.0,No
+376.0,0.0,2002.0,4.0,20.0,$57.42,Swipe Transaction,Wholesale Club 1,Dover,PA,17315.0,5300.0,No
+167.0,2.0,2005.0,11.0,15.0,$3.48,Swipe Transaction,Vending Machine Product 1,Payson,AZ,85541.0,5499.0,No
+1837.0,1.0,2011.0,12.0,31.0,$56.01,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+483.0,4.0,1999.0,10.0,13.0,$9.01,Swipe Transaction,Gas Station Company 2,New Stanton,PA,15672.0,5541.0,No
+1590.0,4.0,2009.0,1.0,29.0,$18.33,Swipe Transaction,Bookstore Company 1,Austin,TX,78702.0,5942.0,No
+816.0,3.0,2017.0,12.0,23.0,$75.63,Chip Transaction,Francess Diner,Pompano Beach,FL,33068.0,5812.0,No
+1250.0,2.0,2008.0,2.0,24.0,$5.93,Swipe Transaction,Restaurant Chain 12,Sault Sainte Marie,MI,49783.0,5812.0,No
+1937.0,0.0,2006.0,4.0,21.0,$160.00,Swipe Transaction,Money Transfer Company 1,Conyers,GA,30012.0,4829.0,No
+1541.0,0.0,2011.0,9.0,26.0,$25.58,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+74.0,0.0,2019.0,10.0,21.0,$15.03,Chip Transaction,Gas Station Company 2,Maineville,OH,45039.0,5541.0,No
+778.0,1.0,2012.0,12.0,13.0,$61.00,Swipe Transaction,Home Improvement Store 1,Lansdale,PA,19446.0,5211.0,No
+747.0,5.0,2002.0,11.0,25.0,$13.84,Online Transaction,Digital Content Company 2,ONLINE,CA,51694.67689524219,5815.0,No
+336.0,3.0,2018.0,4.0,5.0,$1.85,Chip Transaction,Convenience Store Chain 3,Memphis,TN,38127.0,5499.0,No
+1394.0,0.0,1997.0,9.0,13.0,$28.24,Swipe Transaction,Supermarket Chain 2,Dearborn Heights,MI,48127.0,5411.0,No
+1243.0,1.0,2017.0,6.0,26.0,$5.79,Chip Transaction,Pharmacy Company 1,Compton,CA,90222.0,5912.0,No
+1450.0,0.0,2004.0,11.0,3.0,$33.57,Swipe Transaction,Convenience Store Chain 3,Fresno,CA,93720.0,5499.0,No
+1457.0,4.0,2002.0,7.0,15.0,$40.00,Swipe Transaction,Money Transfer Company 1,New Orleans,LA,70122.0,4829.0,No
+480.0,0.0,2018.0,9.0,4.0,$2.81,Swipe Transaction,Fast Food Chain 5,New Castle,IN,47362.0,5814.0,No
+466.0,3.0,2018.0,8.0,25.0,$3.11,Chip Transaction,Vicentes Eats,Washington,DC,20020.0,5812.0,No
+696.0,4.0,2003.0,1.0,27.0,$47.97,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+468.0,1.0,2014.0,4.0,14.0,$3.62,Swipe Transaction,Hill Economy Gourmet Supplies,Economy,IN,47339.0,5411.0,No
+35.0,0.0,2016.0,9.0,30.0,$28.44,Online Transaction,Auto Toll Provider 4,ONLINE,CA,51694.67689524219,4784.0,No
+1190.0,1.0,2007.0,8.0,9.0,$11.16,Swipe Transaction,Supermarket Chain 6,East Berlin,CT,6023.0,5411.0,No
+1888.0,3.0,2012.0,9.0,7.0,$1.72,Swipe Transaction,Convenience Store Chain 1,Piedmont,AL,36272.0,5499.0,No
+1763.0,0.0,2018.0,2.0,22.0,$20.04,Online Transaction,Auto Toll Provider 3,ONLINE,CA,51694.67689524219,4784.0,No
+1288.0,3.0,2009.0,1.0,28.0,$75.85,Swipe Transaction,Alayas Fine Foods,Frostproof,FL,33843.0,5411.0,No
+1408.0,0.0,2012.0,10.0,13.0,$50.85,Swipe Transaction,Bookstore Company 1,Cumming,GA,30040.0,5942.0,No
+968.0,1.0,1998.0,10.0,7.0,$0.08,Swipe Transaction,Vending Machine Product 1,Dover,DE,19901.0,5499.0,No
+1888.0,3.0,2020.0,1.0,26.0,$14.85,Swipe Transaction,Supermarket Chain 1,Dothan,AL,36303.0,5411.0,No
+568.0,6.0,2017.0,1.0,18.0,$3.38,Chip Transaction,Supermarket Chain 3,Minster,OH,45865.0,5411.0,No
+992.0,3.0,2017.0,3.0,12.0,$16.44,Chip Transaction,Labelle Norfolk Ale House,Norfolk,VA,23504.0,5813.0,No
+1640.0,4.0,2012.0,1.0,4.0,$45.51,Swipe Transaction,Wholesale Club 1,Salisbury,NC,28146.0,5300.0,No
+1265.0,0.0,2004.0,12.0,7.0,$29.88,Swipe Transaction,Harris Market,Mobile,AL,36695.0,5411.0,No
+1491.0,5.0,2017.0,6.0,12.0,$1.68,Online Transaction,Digital Delivery Company 3,ONLINE,CA,51694.67689524219,4899.0,No
+1402.0,3.0,2011.0,10.0,23.0,$72.13,Swipe Transaction,Crafts Store 1,Waukegan,IL,60087.0,5970.0,No
+574.0,3.0,2006.0,7.0,14.0,$55.92,Swipe Transaction,Bookstore Company 1,Parker,CO,80138.0,5942.0,No
+309.0,2.0,2018.0,2.0,26.0,$49.91,Chip Transaction,Crafts Store 1,Corvallis,OR,97333.0,5970.0,No
+1606.0,1.0,2010.0,12.0,23.0,$20.00,Swipe Transaction,Money Transfer Company 1,Saint Louis,MO,63116.0,4829.0,No
+392.0,1.0,2015.0,12.0,11.0,$21.75,Swipe Transaction,Lucianos Eighty Four Supermarket,Eighty Four,PA,15330.0,5411.0,No
+862.0,4.0,2010.0,4.0,12.0,$12.81,Swipe Transaction,Labelle Car Service,Louisville,KY,40299.0,4121.0,No
+941.0,2.0,2018.0,12.0,2.0,$7.19,Chip Transaction,Convenience Store Chain 3,Spokane,WA,99223.0,5499.0,No
+1844.0,1.0,2017.0,3.0,5.0,$280.00,Chip Transaction,Money Transfer Company 1,Immokalee,FL,34143.0,4829.0,No
+777.0,1.0,2010.0,12.0,27.0,$1.43,Swipe Transaction,Bookstore Company 1,Columbus,OH,43228.0,5942.0,No
+327.0,6.0,2015.0,7.0,1.0,$11.74,Chip Transaction,Restaurant Chain 1,Los Angeles,CA,90037.0,5812.0,No
+191.0,4.0,2009.0,5.0,17.0,$16.05,Swipe Transaction,Restaurant Chain 10,Bridgeport,CT,6604.0,5812.0,No
+1737.0,0.0,2019.0,6.0,27.0,$33.19,Chip Transaction,Cook Home Supplies,Millsboro,DE,19966.0,5211.0,No
+1005.0,0.0,2007.0,6.0,9.0,$18.05,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+1562.0,2.0,2006.0,4.0,16.0,$53.28,Swipe Transaction,Fast Food Chain 1,Leominster,MA,1453.0,5814.0,No
+425.0,2.0,2008.0,1.0,4.0,$54.96,Swipe Transaction,Lucas Nails,Montville,NJ,7045.0,7230.0,No
+136.0,3.0,2008.0,3.0,28.0,$3.03,Swipe Transaction,Brown Safety Harbor Fine Foods,Safety Harbor,FL,34695.0,5411.0,No
+1888.0,2.0,2001.0,11.0,13.0,$6.23,Swipe Transaction,Gas Station Company 12,Piedmont,AL,36272.0,5541.0,No
+361.0,0.0,2009.0,4.0,16.0,$8.50,Swipe Transaction,Josephines Foods,Montpelier,VT,5602.0,5411.0,No
+1327.0,4.0,2019.0,8.0,1.0,$3.39,Chip Transaction,Gas Station Company 1,Lilburn,GA,30047.0,5541.0,No
+919.0,0.0,2011.0,7.0,18.0,$8.46,Swipe Transaction,Jakobs Gourmet Supplies,Mcallen,TX,78501.0,5411.0,No
+189.0,1.0,2011.0,8.0,7.0,$4.19,Swipe Transaction,Bookstore Company 1,Pikesville,MD,21208.0,5942.0,No
+1603.0,0.0,2018.0,9.0,4.0,$120.64,Online Transaction,Electric Utility 4,ONLINE,CA,51694.67689524219,4900.0,No
+1418.0,0.0,2004.0,9.0,19.0,$34.26,Swipe Transaction,Allstar Bar,Saint Cloud,MN,56301.0,5813.0,No
+1862.0,2.0,2009.0,4.0,21.0,$32.09,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1263.0,0.0,2013.0,10.0,25.0,$2.52,Swipe Transaction,Adelaides Package Store,Los Angeles,CA,90006.0,5921.0,No
+1327.0,5.0,2004.0,7.0,4.0,$1.28,Swipe Transaction,Bookstore Company 1,Marietta,GA,30062.0,5942.0,No
+1663.0,2.0,2001.0,11.0,11.0,$11.24,Swipe Transaction,Supermarket Chain 3,Peabody,KS,66866.0,5411.0,No
+1891.0,5.0,2006.0,1.0,1.0,$31.49,Swipe Transaction,Jackson Eats,Wichita,KS,67204.0,5812.0,No
+706.0,5.0,2014.0,11.0,15.0,$2.77,Swipe Transaction,Convenience Store Chain 3,Los Angeles,CA,90023.0,5499.0,No
+1596.0,1.0,2017.0,10.0,4.0,$113.17,Chip Transaction,Gas Station Company 4,El Dorado Springs,MO,64744.0,5541.0,No
+122.0,0.0,2008.0,1.0,14.0,$4.29,Swipe Transaction,Gas Station Company 3,Urbana,IL,61801.0,5541.0,No
+1072.0,0.0,2016.0,5.0,30.0,$24.20,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1945.0,0.0,2017.0,3.0,29.0,$55.93,Swipe Transaction,Fast Food Chain 3,Carson,ND,58529.0,5814.0,No
+575.0,0.0,2006.0,4.0,18.0,$21.56,Swipe Transaction,Supermarket Chain 2,New Brunswick,NJ,8901.0,5411.0,No
+1426.0,0.0,2008.0,9.0,20.0,$9.46,Swipe Transaction,Gas Station Company 6,Virginia,MN,55792.0,5541.0,No
+290.0,2.0,2016.0,7.0,24.0,$73.37,Swipe Transaction,Restaurant Chain 8,Glendale,CA,91204.0,5812.0,No
+1604.0,3.0,2019.0,10.0,6.0,$14.58,Chip Transaction,Wilson Copiague Pharmacy,Copiague,NY,11726.0,5912.0,No
+1844.0,0.0,2020.0,1.0,19.0,$42.79,Chip Transaction,Sanders Price Cutters,Naples,FL,34102.0,5310.0,No
+516.0,2.0,2011.0,7.0,20.0,$23.56,Swipe Transaction,Allen Arnold Restaurant,Arnold,MD,21012.0,5812.0,No
+1967.0,0.0,2015.0,11.0,25.0,$21.95,Chip Transaction,Vending Machine Product 1,Stover,MO,65078.0,5499.0,No
+1645.0,4.0,2011.0,5.0,22.0,$3.18,Swipe Transaction,Convenience Store Chain 1,Milliken,CO,80543.0,5499.0,No
+1355.0,4.0,2002.0,10.0,7.0,$8.10,Swipe Transaction,Supermarket Chain 2,North Bergen,NJ,7047.0,5411.0,No
+1735.0,3.0,2001.0,11.0,12.0,$62.10,Swipe Transaction,Phone Service Provider 3,Pooler,GA,31322.0,4814.0,No
+73.0,0.0,2009.0,3.0,23.0,$100.00,Swipe Transaction,Money Transfer Company 1,Lake City,FL,32055.0,4829.0,No
+886.0,2.0,2011.0,7.0,20.0,$43.52,Swipe Transaction,Cook Car Repairs,Round Rock,TX,78681.0,7538.0,No
+362.0,0.0,2013.0,1.0,28.0,$3.50,Swipe Transaction,Treasures Diner,Brooklyn,NY,11213.0,5812.0,No
+1603.0,0.0,1999.0,2.0,24.0,$40.00,Swipe Transaction,Money Transfer Company 1,Weimar,TX,78962.0,4829.0,No
+482.0,2.0,2010.0,10.0,8.0,$4.24,Swipe Transaction,Stewart New York Drugs,New York,NY,10075.0,5912.0,No
+1156.0,4.0,2002.0,1.0,27.0,$117.88,Swipe Transaction,Phone Service Provider 1,Fort Scott,KS,66701.0,4814.0,No
+1694.0,3.0,2017.0,9.0,10.0,$119.42,Chip Transaction,Hotel and Resort Company 3,Miami Beach,FL,33140.0,3722.0,No
+1614.0,0.0,2013.0,5.0,28.0,$97.80,Swipe Transaction,Leroux Diner,Gretna,LA,70056.0,5812.0,No
+525.0,0.0,2010.0,4.0,13.0,$43.83,Swipe Transaction,Fast Food Chain 2,Columbus,OH,43221.0,5814.0,No
+1464.0,4.0,2018.0,7.0,23.0,$366.63,Swipe Transaction,Allstar Lodge,Delray Beach,FL,33445.0,7011.0,No
+474.0,0.0,2009.0,12.0,6.0,$89.19,Online Transaction,Travel Booking Company 3,ONLINE,CA,51694.67689524219,4722.0,No
+936.0,2.0,2012.0,6.0,20.0,$18.00,Swipe Transaction,Burns Martinizers,Vancouver,WA,98660.0,7210.0,No
+1606.0,2.0,2005.0,7.0,6.0,$1.34,Swipe Transaction,Convenience Store Chain 3,Robertsville,MO,63072.0,5499.0,No
+270.0,0.0,2005.0,12.0,5.0,$0.77,Swipe Transaction,Gas Station Company 1,Hastings,NE,68901.0,5541.0,No
+993.0,2.0,2014.0,9.0,22.0,$25.56,Swipe Transaction,Bookstore Company 1,Phillipsburg,NJ,8865.0,5942.0,No
+1173.0,1.0,2017.0,4.0,14.0,$55.44,Chip Transaction,Foster Restaurant,Beacon,NY,12508.0,5812.0,No
+480.0,2.0,2018.0,1.0,10.0,$4.14,Chip Transaction,Fast Food Chain 3,Pennsburg,PA,18073.0,5814.0,No
+1474.0,3.0,2018.0,2.0,16.0,$25.65,Chip Transaction,Jedidiahs Car Service,Los Lunas,NM,87031.0,4121.0,No
+1164.0,3.0,2017.0,9.0,12.0,$32.90,Chip Transaction,Allysons Flowers,Sioux City,IA,51104.0,5193.0,No
+386.0,3.0,2010.0,6.0,15.0,$2.31,Swipe Transaction,Restaurant Chain 12,Hialeah,FL,33015.0,5812.0,No
+387.0,1.0,2018.0,5.0,25.0,$16.99,Chip Transaction,Isabellas Clothing,Santa Ana,CA,92704.0,5651.0,No
+913.0,6.0,2007.0,8.0,5.0,$64.88,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1513.0,1.0,2005.0,3.0,20.0,$31.76,Swipe Transaction,Wholesale Club 1,Diamond Bar,CA,91765.0,5300.0,No
+1799.0,3.0,2008.0,11.0,21.0,$3.81,Swipe Transaction,Acme Diner,Glen Allen,VA,23059.0,5812.0,No
+442.0,2.0,2018.0,2.0,23.0,$11.25,Swipe Transaction,Supermarket Chain 4,West Palm Beach,FL,33415.0,5411.0,No
+1429.0,1.0,2001.0,10.0,10.0,$0.99,Swipe Transaction,Supermarket Chain 3,Irvine,CA,92619.0,5411.0,No
+288.0,1.0,2014.0,1.0,30.0,$8.52,Swipe Transaction,Morales Foods,Dallas,TX,75211.0,5411.0,No
+954.0,2.0,2012.0,6.0,6.0,$73.70,Swipe Transaction,Pharmacy Company 2,Hawthorne,CA,90251.0,5912.0,No
+1229.0,5.0,2019.0,9.0,28.0,$8.95,Swipe Transaction,Gas Station Company 2,Gansevoort,NY,12831.0,5541.0,No
+466.0,4.0,2013.0,12.0,9.0,$32.38,Swipe Transaction,Harleighs Fine Foods,Yachats,OR,97498.0,5411.0,No
+721.0,1.0,2016.0,2.0,8.0,$88.22,Chip Transaction,Phone Service Provider 2,Barrington,IL,60010.0,4814.0,No
+1125.0,2.0,2004.0,7.0,20.0,$2.45,Swipe Transaction,Supermarket Chain 3,Milwaukee,WI,53214.0,5411.0,No
+640.0,3.0,2009.0,7.0,9.0,$40.60,Swipe Transaction,High End Goods Store 2,Yreka,CA,96097.0,5719.0,No
+1672.0,0.0,2009.0,8.0,25.0,$90.57,Swipe Transaction,Car Rental Company 5,Livermore,CA,94551.0,3393.0,No
+720.0,3.0,2003.0,12.0,25.0,$146.73,Swipe Transaction,Hotel and Resort Company 10,Shelby,NC,28151.0,3780.0,No
+152.0,0.0,2008.0,9.0,18.0,$3.22,Swipe Transaction,Kates Rapid City Salon,Rapid City,SD,57702.0,7230.0,No
+1837.0,0.0,2020.0,2.0,5.0,$733.75,Chip Transaction,Horse Racing Track 3,Elmont,NY,11003.0,7802.0,No
+388.0,0.0,2010.0,10.0,31.0,$81.81,Swipe Transaction,Arthurs Sports Apparel,Antigo,WI,54409.0,5655.0,No
+1066.0,2.0,1991.0,10.0,20.0,$33.00,Swipe Transaction,Harlans Limousine,Palos Verdes Peninsula,CA,90274.0,4121.0,No
+1258.0,1.0,2010.0,6.0,29.0,$40.89,Swipe Transaction,Fridas Auto Repair,Granite City,IL,62040.0,7538.0,No
+1291.0,0.0,2010.0,8.0,17.0,$60.00,Swipe Transaction,Money Transfer Company 1,Wichita,KS,67210.0,4829.0,No
+312.0,0.0,2013.0,12.0,18.0,$110.07,Swipe Transaction,King Supermarket,Calabasas,CA,91302.0,5411.0,No
+1580.0,5.0,2015.0,4.0,4.0,$223.01,Chip Transaction,Car Rental Company 6,Leola,PA,17540.0,3395.0,No
+1228.0,2.0,2016.0,9.0,10.0,$31.05,Chip Transaction,Wholesale Club 1,Oklahoma City,OK,73132.0,5300.0,No
+345.0,0.0,2014.0,7.0,3.0,$15.78,Swipe Transaction,Brown Taxi,Morgantown,WV,26501.0,4121.0,No
+1846.0,0.0,2011.0,7.0,11.0,$193.19,Swipe Transaction,Phone Service Provider 3,Livonia,MI,48154.0,4814.0,No
+1499.0,1.0,2011.0,9.0,2.0,$106.60,Swipe Transaction,Cox Pomona Supermarket,Pomona,CA,91767.0,5411.0,No
+1520.0,2.0,2006.0,7.0,13.0,$18.02,Swipe Transaction,Farhad Restaurant,Saint Louis,MO,63125.0,5812.0,No
+1826.0,5.0,2013.0,11.0,4.0,$1.76,Swipe Transaction,Convenience Store Chain 1,Port Washington,NY,11050.0,5499.0,No
+993.0,0.0,2012.0,4.0,1.0,$34.25,Swipe Transaction,Bookstore Company 1,Bedford,TX,76021.0,5942.0,No
+960.0,0.0,2002.0,4.0,20.0,$23.48,Swipe Transaction,Supermarket Chain 2,Livermore,CA,94550.0,5411.0,No
+744.0,1.0,2008.0,5.0,3.0,$14.09,Online Transaction,Digital Content Company 1,ONLINE,CA,51694.67689524219,5815.0,No
+1072.0,2.0,2015.0,11.0,9.0,$80.80,Online Transaction,Digital Delivery Company 8,ONLINE,CA,51694.67689524219,4899.0,No
+773.0,4.0,2016.0,2.0,1.0,$66.86,Chip Transaction,Convenience Store Chain 1,Baton Rouge,LA,70820.0,5499.0,No
+1078.0,1.0,2020.0,2.0,10.0,$18.16,Chip Transaction,Pharmacy Company 3,Mayfield,NY,12117.0,5912.0,No
+713.0,0.0,2012.0,11.0,14.0,$5.13,Swipe Transaction,Bookstore Company 1,Fort Worth,TX,76131.0,5942.0,No
+352.0,2.0,2005.0,5.0,17.0,$1.30,Swipe Transaction,Cataleyas Restaurant,Knoxville,TN,37931.0,5812.0,No
+1132.0,4.0,2017.0,10.0,1.0,$140.00,Chip Transaction,Money Transfer Company 1,Hattiesburg,MS,39402.0,4829.0,No
+288.0,1.0,2018.0,2.0,21.0,$26.54,Chip Transaction,Clothing Store 3,Dallas,TX,75211.0,5651.0,No
+771.0,0.0,2019.0,3.0,20.0,$93.36,Swipe Transaction,Skylers Drugs,Hazel Crest,IL,60429.0,5912.0,No
+889.0,1.0,2010.0,5.0,19.0,$11.16,Online Transaction,Auto Toll Provider 2,ONLINE,CA,51694.67689524219,4784.0,No
+216.0,2.0,2011.0,10.0,30.0,$9.80,Swipe Transaction,Pharmacy Company 4,Westcliffe,CO,81252.0,5912.0,No
+1523.0,0.0,2013.0,11.0,21.0,$14.99,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+193.0,0.0,2019.0,5.0,23.0,$1.13,Chip Transaction,Supermarket Chain 2,Salinas,CA,93905.0,5411.0,No
+1781.0,3.0,2011.0,10.0,30.0,$10.66,Swipe Transaction,Xi San Diego Apothecary,San Diego,CA,92116.0,5912.0,No
+1659.0,0.0,2008.0,11.0,21.0,$164.60,Swipe Transaction,Clothing Store 4,Arlington,VA,22207.0,5651.0,No
+417.0,1.0,2016.0,5.0,18.0,$12.50,Chip Transaction,Fast Food Chain 1,Chicago,IL,60645.0,5814.0,No
+1220.0,1.0,2017.0,5.0,19.0,$25.74,Chip Transaction,Restaurant Chain 5,Reading,PA,19601.0,5812.0,No
+289.0,0.0,2011.0,12.0,25.0,$2.04,Swipe Transaction,Restaurant Chain 9,Chaska,MN,55318.0,5812.0,No
+1796.0,3.0,2004.0,6.0,28.0,$74.32,Swipe Transaction,Discount Store 2,New York,NY,10032.0,5310.0,No
+581.0,1.0,2013.0,3.0,14.0,$15.60,Swipe Transaction,Adams Car Cleaners,Dayton,TX,77535.0,7542.0,No
+922.0,4.0,2016.0,1.0,31.0,$1.26,Chip Transaction,Convenience Store Chain 1,Newport News,VA,23606.0,5499.0,No
+94.0,3.0,2012.0,7.0,4.0,$93.10,Swipe Transaction,Pharmacy Company 1,Detroit,MI,48219.0,5912.0,No
+1556.0,0.0,1998.0,2.0,17.0,$80.00,Swipe Transaction,Money Transfer Company 1,San Antonio,TX,78254.0,4829.0,No
+1318.0,3.0,2005.0,6.0,25.0,$43.24,Swipe Transaction,Department Store 5,Albuquerque,NM,87120.0,5311.0,No
+919.0,3.0,2018.0,1.0,15.0,$53.71,Chip Transaction,Ronnies Endicott Theater,Endicott,NY,13760.0,7922.0,No
+1907.0,5.0,2008.0,5.0,16.0,$55.03,Swipe Transaction,Turner Restaurant,West Stockbridge,MA,1266.0,5812.0,No
+821.0,0.0,2012.0,10.0,11.0,$20.35,Swipe Transaction,Gas Station Company 10,Rexburg,ID,83440.0,5541.0,No
+677.0,1.0,2017.0,8.0,6.0,$29.92,Chip Transaction,Home Improvement Store 1,Manteca,CA,95337.0,5211.0,No
+617.0,0.0,2012.0,12.0,11.0,$29.69,Swipe Transaction,Jones Bethpage Taxi,Bethpage,NY,11714.0,4121.0,No
+1861.0,1.0,2005.0,8.0,28.0,$7.42,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+526.0,2.0,2020.0,1.0,19.0,$11.67,Chip Transaction,Delivery Company 1,Columbia,SC,29223.0,4214.0,No
+1872.0,2.0,2015.0,8.0,19.0,$68.37,Chip Transaction,Carls Resort and Casino,Missoula,MT,59802.0,7995.0,No
+1218.0,0.0,2004.0,6.0,21.0,$34.09,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1098.0,0.0,2008.0,8.0,21.0,$94.71,Swipe Transaction,Gas Station Company 1,Somerville,MA,2145.0,5541.0,No
+339.0,5.0,2017.0,10.0,11.0,$140.00,Chip Transaction,Money Transfer Company 1,Homestead,PA,15120.0,4829.0,No
+1629.0,3.0,2017.0,9.0,6.0,$74.25,Chip Transaction,Anwar Casino Resort,Kill Devil Hills,NC,27948.0,7995.0,No
+1895.0,1.0,2004.0,9.0,2.0,$133.82,Swipe Transaction,Car Rental Company 6,Winter Haven,FL,33880.0,3395.0,No
+533.0,0.0,2017.0,8.0,29.0,$167.62,Online Transaction,Digital Delivery Company 4,ONLINE,CA,51694.67689524219,4899.0,No
+1288.0,0.0,2003.0,11.0,16.0,$1.91,Swipe Transaction,Vending Machine Product 2,Frostproof,FL,33843.0,5499.0,No
+300.0,4.0,2007.0,6.0,12.0,$22.28,Swipe Transaction,Torres Ale House,Freeport,NY,11520.0,5813.0,No
+1273.0,1.0,2016.0,12.0,13.0,$7.89,Swipe Transaction,Sonias Fine Foods,Shreveport,LA,71118.0,5411.0,No
+1388.0,1.0,2012.0,2.0,8.0,$15.85,Swipe Transaction,Supermarket Chain 2,Atwater,OH,44201.0,5411.0,No
+1598.0,1.0,2007.0,12.0,21.0,$16.58,Swipe Transaction,Bookstore Company 1,Vernal,UT,84078.0,5942.0,No
+1519.0,2.0,2005.0,12.0,7.0,$51.89,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1079.0,0.0,2016.0,8.0,5.0,$2.84,Chip Transaction,Convenience Store Chain 1,Coram,NY,11727.0,5499.0,No
+500.0,0.0,2016.0,11.0,19.0,$6.95,Chip Transaction,Adams Beardstown Theaters,Beardstown,IL,62618.0,7832.0,No
+1321.0,0.0,2013.0,3.0,1.0,$14.00,Swipe Transaction,Bookstore Company 1,Huntington,WV,25701.0,5942.0,No
+261.0,0.0,2017.0,12.0,30.0,$25.39,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,No
+567.0,0.0,2009.0,1.0,28.0,$115.65,Swipe Transaction,Camilas Car Repairs,Yonkers,NY,10710.0,7538.0,No
+1168.0,1.0,2010.0,7.0,27.0,$8.35,Swipe Transaction,Johans Restaurant,San Ysidro,CA,92173.0,5812.0,No
+1395.0,3.0,2015.0,3.0,23.0,$1.59,Swipe Transaction,Charleys Diner,Lincoln,NE,68504.0,5812.0,No
+52.0,0.0,2019.0,9.0,22.0,$60.19,Chip Transaction,Supermarket Chain 2,Wellington,UT,84542.0,5411.0,No
+229.0,5.0,2013.0,11.0,2.0,$6.69,Swipe Transaction,Supermarket Chain 2,Fort Worth,TX,76148.0,5411.0,No
+791.0,3.0,2004.0,11.0,20.0,$883.57,Swipe Transaction,Airline Company 8,Brooklyn,NY,11235.0,3260.0,No
+1233.0,3.0,2000.0,11.0,23.0,$1.06,Swipe Transaction,Convenience Store Chain 1,Springfield,MO,65804.0,5499.0,No
+1769.0,0.0,2006.0,1.0,10.0,$26.14,Swipe Transaction,Vending Machine Product 2,Magnolia,DE,19962.0,5499.0,No
+1753.0,2.0,2007.0,10.0,10.0,$85.77,Swipe Transaction,Savannas Pleasant City Drugs,Pleasant City,OH,43772.0,5912.0,No
+549.0,0.0,2011.0,9.0,27.0,$58.55,Swipe Transaction,Wholesale Club 1,Lutherville Timonium,MD,21093.0,5300.0,No
+151.0,1.0,2019.0,7.0,2.0,$9.70,Chip Transaction,Fast Food Chain 13,Mount Vernon,KY,40456.0,5814.0,No
+410.0,1.0,2017.0,3.0,12.0,$12.45,Chip Transaction,King Supermarket,Mountville,PA,17554.0,5411.0,No
+1723.0,0.0,2009.0,1.0,13.0,$143.99,Online Transaction,Electric Utility 1,ONLINE,CA,51694.67689524219,4900.0,No
+486.0,0.0,2008.0,5.0,20.0,$48.75,Online Transaction,Auto Toll Provider 6,ONLINE,CA,51694.67689524219,4784.0,No
+945.0,0.0,2010.0,10.0,25.0,$26.70,Online Transaction,Auto Toll Provider 2,ONLINE,CA,51694.67689524219,4784.0,No
+385.0,0.0,2007.0,7.0,15.0,$49.77,Swipe Transaction,Fast Food Chain 1,Washington,DC,20019.0,5814.0,No
+131.0,1.0,2019.0,4.0,24.0,$47.99,Swipe Transaction,Fast Food Chain 2,Saint Paul,MN,55123.0,5814.0,No
+1051.0,0.0,2007.0,2.0,26.0,$77.88,Swipe Transaction,Supermarket Chain 1,Houston,TX,77084.0,5411.0,No
+386.0,2.0,2019.0,4.0,7.0,$2.19,Chip Transaction,Fast Food Chain 1,Hialeah,FL,33015.0,5814.0,No
+1647.0,2.0,2012.0,8.0,4.0,$5.35,Swipe Transaction,Adams Restaurant,San Francisco,CA,94123.0,5812.0,No
+170.0,0.0,2014.0,11.0,24.0,$8.27,Swipe Transaction,Gas Station Company 1,Fremont,CA,94539.0,5541.0,No
+1933.0,6.0,2018.0,11.0,29.0,$10.07,Swipe Transaction,Supermarket Chain 4,Carrboro,NC,27510.0,5411.0,No
+1998.0,6.0,2019.0,12.0,29.0,$49.19,Chip Transaction,Clothing Store 4,Indianapolis,IN,46236.0,5651.0,No
+454.0,1.0,2015.0,6.0,14.0,$100.40,Chip Transaction,Supermarket Chain 3,Madison Heights,MI,48071.0,5411.0,No
+1603.0,1.0,2009.0,6.0,8.0,$48.51,Swipe Transaction,Gas Station Company 4,La Grange,TX,78945.0,5541.0,No
+1159.0,0.0,2011.0,10.0,4.0,$80.00,Swipe Transaction,Money Transfer Company 1,Brandon,MS,39047.0,4829.0,No
+848.0,1.0,2015.0,2.0,8.0,$25.07,Chip Transaction,Discount Store 2,Downey,CA,90240.0,5310.0,No
+22.0,3.0,2013.0,7.0,8.0,$8.82,Swipe Transaction,Gas Station Company 1,Las Vegas,NV,89123.0,5541.0,No
+323.0,2.0,2019.0,10.0,7.0,$16.06,Chip Transaction,Delivery Company 1,Columbus,OH,43204.0,4214.0,No
+551.0,0.0,2015.0,2.0,17.0,$19.77,Chip Transaction,Sergios Car Service,Mexico City,Mexico,51694.67689524219,4121.0,No
+1479.0,1.0,2009.0,5.0,15.0,$26.46,Swipe Transaction,Trents Ale House,Stevens Point,WI,54481.0,5813.0,No
+161.0,3.0,2019.0,4.0,12.0,$6.46,Chip Transaction,Supermarket Chain 3,Melrose,MA,2176.0,5411.0,No
+1662.0,0.0,2005.0,12.0,1.0,$23.44,Swipe Transaction,Green Car Service,Chula Vista,CA,91915.0,4121.0,No
+1591.0,1.0,2014.0,10.0,22.0,$1.61,Swipe Transaction,Convenience Store Chain 3,Crete,IL,60417.0,5499.0,No
+1423.0,1.0,2009.0,8.0,22.0,$2.50,Swipe Transaction,Amelies Eats,Denver,CO,80227.0,5812.0,No
+20.0,0.0,2006.0,4.0,7.0,$15.00,Swipe Transaction,Gutierrez Nail Salon,West Palm Beach,FL,33411.0,7230.0,No
+1763.0,1.0,2014.0,10.0,11.0,$476.14,Swipe Transaction,Airline Company 3,Normal,IL,61761.0,3066.0,No
+1380.0,0.0,2005.0,4.0,6.0,$100.00,Swipe Transaction,Money Transfer Company 1,Phoenix,AZ,85051.0,4829.0,No
+1211.0,1.0,2013.0,3.0,5.0,$41.58,Swipe Transaction,Reeses Rx,Bala Cynwyd,PA,19004.0,5912.0,No
+35.0,3.0,2015.0,5.0,16.0,$37.35,Online Transaction,Auto Toll Provider 4,ONLINE,CA,51694.67689524219,4784.0,No
+1425.0,0.0,2002.0,3.0,1.0,$140.00,Swipe Transaction,Money Transfer Company 1,North Las Vegas,NV,89032.0,4829.0,No
+606.0,0.0,2007.0,10.0,22.0,$8.51,Swipe Transaction,Pharmacy Company 1,Long Beach,CA,90807.0,5912.0,No
+1330.0,0.0,2017.0,1.0,1.0,$12.49,Chip Transaction,Fast Food Chain 1,Lake Elsinore,CA,92530.0,5814.0,No
+673.0,4.0,2018.0,3.0,7.0,$36.74,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1862.0,0.0,2013.0,6.0,16.0,$186.35,Swipe Transaction,Nguyen Dentists,Allentown,PA,18102.0,8021.0,No
+629.0,3.0,2008.0,11.0,9.0,$137.97,Online Transaction,Digital Delivery Company 4,ONLINE,CA,51694.67689524219,4899.0,No
+82.0,2.0,2011.0,4.0,16.0,$12.47,Swipe Transaction,Supermarket Chain 2,Bradfordwoods,PA,15015.0,5411.0,No
+840.0,3.0,2001.0,5.0,14.0,$30.27,Swipe Transaction,Remingtons Theaters,Denver,CO,80202.0,7832.0,No
+1699.0,3.0,1997.0,1.0,24.0,$80.55,Swipe Transaction,Angelinas Supermarket,Bluffton,IN,46714.0,5411.0,No
+962.0,0.0,2018.0,2.0,13.0,$157.37,Chip Transaction,Hotel and Resort Company 7,Lincolnwood,IL,60712.0,3730.0,No
+1431.0,2.0,2017.0,12.0,14.0,$85.74,Chip Transaction,Auto Service Company 1,Lake Bluff,IL,60044.0,7538.0,No
+885.0,4.0,2018.0,12.0,24.0,$41.15,Chip Transaction,Phone Service Provider 3,Waipahu,HI,96797.0,4814.0,No
+168.0,1.0,2005.0,10.0,8.0,$4.54,Swipe Transaction,Elisabeths Restaurant,Salinas,CA,93906.0,5812.0,No
+1578.0,3.0,2017.0,2.0,20.0,$60.00,Chip Transaction,Money Transfer Company 1,Guthrie,OK,73044.0,4829.0,No
+1549.0,3.0,2011.0,10.0,10.0,$1.36,Swipe Transaction,Convenience Store Chain 1,Cranberry Twp,PA,16066.0,5499.0,No
+358.0,3.0,2019.0,8.0,18.0,$6.54,Chip Transaction,Supermarket Chain 3,Saint Paul,MN,55113.0,5411.0,No
+1471.0,1.0,2017.0,9.0,12.0,$89.91,Swipe Transaction,Auto Service Company 12,Kaneohe,HI,96744.0,7538.0,No
+1372.0,2.0,2019.0,12.0,9.0,$39.30,Online Transaction,Trash Collection Company 2,ONLINE,CA,51694.67689524219,7349.0,No
+1885.0,3.0,2018.0,6.0,14.0,$16.51,Chip Transaction,Restaurant Chain 5,Jonesboro,GA,30238.0,5812.0,No
+1404.0,2.0,2008.0,7.0,15.0,$1.47,Swipe Transaction,Convenience Store Chain 3,Bronx,NY,10463.0,5499.0,No
+1635.0,4.0,2003.0,12.0,2.0,$8.30,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,No
+409.0,0.0,2008.0,2.0,8.0,$19.19,Swipe Transaction,Joannas Taxi,Berryton,KS,66409.0,4121.0,No
+1929.0,0.0,2006.0,6.0,23.0,$16.47,Swipe Transaction,Acme Martinizers,La Mesa,CA,91941.0,7210.0,No
+358.0,1.0,1994.0,5.0,6.0,$65.69,Swipe Transaction,Restaurant Chain 7,Saint Paul,MN,55113.0,5812.0,No
+433.0,3.0,2015.0,9.0,30.0,$1.26,Chip Transaction,Supermarket Chain 1,Citrus Heights,CA,95621.0,5411.0,No
+132.0,3.0,2015.0,7.0,31.0,$180.00,Chip Transaction,Money Transfer Company 1,Lawrence,MA,1841.0,4829.0,No
+1840.0,2.0,2016.0,7.0,19.0,$66.40,Swipe Transaction,Restaurant Chain 2,Leicester,MA,1524.0,5812.0,No
+58.0,4.0,2009.0,5.0,5.0,$35.17,Swipe Transaction,El-Mafouk Drugs,Cheltenham,MD,20623.0,5912.0,No
+97.0,2.0,2018.0,2.0,22.0,$9.83,Chip Transaction,Omars Restaurant,Amarillo,TX,79110.0,5812.0,No
+1066.0,1.0,2003.0,8.0,17.0,$196.89,Swipe Transaction,Gas Station Company 2,Palos Verdes Peninsula,CA,90274.0,5541.0,No
+195.0,2.0,2011.0,5.0,12.0,$72.90,Swipe Transaction,Restaurant Chain 4,Durham,NC,27705.0,5812.0,No
+1925.0,4.0,2019.0,11.0,15.0,$11.58,Chip Transaction,Aarons Grocery,Houston,TX,77082.0,5411.0,No
+253.0,2.0,2017.0,7.0,30.0,$11.74,Chip Transaction,Jakes Hagerstown Beverages,Hagerstown,MD,21742.0,5921.0,No
+11.0,0.0,2015.0,8.0,26.0,$12.34,Chip Transaction,Westleys Naples Pharmacy,Naples,FL,34120.0,5912.0,No
+1343.0,0.0,2013.0,6.0,26.0,$111.15,Online Transaction,Phone Service Provider 4,ONLINE,CA,51694.67689524219,4814.0,No
+1080.0,1.0,2010.0,11.0,19.0,$106.62,Online Transaction,Auto Toll Provider 6,ONLINE,CA,51694.67689524219,4784.0,No
+1127.0,0.0,2014.0,4.0,25.0,$17.31,Swipe Transaction,Fast Food Chain 1,Omaha,NE,68104.0,5814.0,No
+372.0,5.0,2006.0,3.0,24.0,$5.02,Swipe Transaction,Supermarket Chain 2,Moorhead,MN,56560.0,5411.0,No
+370.0,1.0,2010.0,10.0,30.0,$14.05,Swipe Transaction,Bookstore Company 1,Timberville,VA,22853.0,5942.0,No
+1554.0,0.0,2007.0,7.0,25.0,$11.56,Swipe Transaction,Pharmacy Company 2,Irvine,CA,92620.0,5912.0,No
+29.0,0.0,2002.0,11.0,13.0,$47.75,Swipe Transaction,Restaurant Chain 1,Philadelphia,PA,19131.0,5812.0,No
+1239.0,2.0,2008.0,1.0,6.0,$0.39,Swipe Transaction,Convenience Store Chain 1,Matthews,NC,28104.0,5499.0,No
+90.0,2.0,2008.0,11.0,10.0,$25.03,Swipe Transaction,Gas Station Company 2,Kaneohe,HI,96744.0,5541.0,No
+81.0,5.0,2019.0,5.0,27.0,$102.62,Chip Transaction,Department Store 8,Cherry Hill,NJ,8003.0,5311.0,No
+285.0,0.0,2007.0,8.0,23.0,$33.79,Swipe Transaction,Koras Price Cutters,Tonawanda,NY,14150.0,5310.0,No
+585.0,0.0,2012.0,11.0,9.0,$19.25,Swipe Transaction,Convenience Store Chain 1,Atlanta,GA,30339.0,5499.0,No
+269.0,0.0,2004.0,8.0,10.0,$802.03,Swipe Transaction,Alvaros Partners at Law,Palatine,IL,60074.0,8111.0,No
+1693.0,2.0,2009.0,1.0,31.0,$0.71,Swipe Transaction,Convenience Store Chain 1,Irvine,CA,92620.0,5499.0,No
+1278.0,4.0,2001.0,5.0,8.0,$149.71,Swipe Transaction,Car Rental Company 7,Caledonia,MN,55921.0,3390.0,No
+77.0,1.0,2019.0,8.0,5.0,$29.94,Chip Transaction,Gas Station Company 3,Ellenton,FL,34222.0,5541.0,No
+1486.0,2.0,2018.0,4.0,16.0,$100.00,Chip Transaction,Money Transfer Company 1,Englewood Cliffs,NJ,7632.0,4829.0,No
+485.0,1.0,2017.0,4.0,25.0,$3.10,Chip Transaction,Convenience Store Chain 1,Wenatchee,WA,98801.0,5499.0,No
+1821.0,0.0,2005.0,11.0,1.0,$36.40,Swipe Transaction,Maximilianos Restaurant,Anaheim,CA,92804.0,5812.0,No
+1395.0,2.0,2010.0,12.0,28.0,$10.92,Swipe Transaction,Supermarket Chain 2,Lincoln,NE,68506.0,5411.0,No
+1061.0,2.0,2009.0,7.0,5.0,$0.82,Swipe Transaction,Vans Foods,Lewiston,ID,83501.0,5411.0,No
+1479.0,1.0,2007.0,12.0,15.0,$26.65,Swipe Transaction,Trents Ale House,Stevens Point,WI,54481.0,5813.0,No
+995.0,0.0,2005.0,4.0,2.0,$26.79,Swipe Transaction,Bookstore Company 1,Chicago,IL,60619.0,5942.0,No
+1076.0,3.0,2008.0,4.0,26.0,$63.46,Swipe Transaction,Thomas Hawarden Wholesale,Hawarden,IA,51023.0,5300.0,No
+1549.0,1.0,2008.0,3.0,20.0,$1.27,Swipe Transaction,Convenience Store Chain 1,Cranberry Twp,PA,16066.0,5499.0,No
+424.0,0.0,2012.0,12.0,27.0,$60.62,Swipe Transaction,Restaurant Chain 10,Brooklyn,NY,11234.0,5812.0,No
+492.0,1.0,2013.0,4.0,4.0,$4.74,Swipe Transaction,Fisher Fine Foods,Fremont,CA,94538.0,5411.0,No
+1418.0,1.0,2019.0,5.0,4.0,$2.46,Chip Transaction,Annalises Saint Cloud Gourmet Supplies,Saint Cloud,MN,56301.0,5411.0,No
+584.0,0.0,2015.0,1.0,9.0,$7.53,Chip Transaction,Supermarket Chain 2,Oakhurst,NJ,7755.0,5411.0,No
+80.0,0.0,2016.0,7.0,3.0,$154.26,Chip Transaction,Supermarket Chain 3,Knoxville,TN,37931.0,5411.0,No
+550.0,1.0,2003.0,11.0,14.0,$1.58,Swipe Transaction,Vending Machine Product 1,Laredo,TX,78044.0,5499.0,No
+597.0,1.0,2015.0,8.0,30.0,$41.13,Chip Transaction,Supermarket Chain 3,Yale,OK,74085.0,5411.0,No
+488.0,1.0,2011.0,10.0,16.0,$142.38,Swipe Transaction,Sanders Market,Lake Villa,IL,60046.0,5411.0,No
+586.0,2.0,2009.0,1.0,9.0,$73.37,Swipe Transaction,Robinson Theater,New York,NY,10016.0,7922.0,No
+1037.0,3.0,2007.0,11.0,17.0,$18.33,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1010.0,0.0,2014.0,12.0,13.0,$5.18,Swipe Transaction,Restaurant Chain 13,West Union,OH,45693.0,5812.0,No
+686.0,1.0,2018.0,8.0,8.0,$118.67,Chip Transaction,Wholesale Club 1,Mabton,WA,98935.0,5300.0,No
+482.0,3.0,2019.0,8.0,20.0,$12.72,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+970.0,2.0,2012.0,5.0,19.0,$26.55,Swipe Transaction,Crafts Store 1,Pilot Grove,MO,65276.0,5970.0,No
+1210.0,2.0,2019.0,10.0,23.0,$10.57,Chip Transaction,Ikers Theaters,Miami,FL,33133.0,7832.0,No
+895.0,0.0,2006.0,1.0,21.0,$100.77,Swipe Transaction,Karters San Pedro Grocery,San Pedro,CA,90731.0,5411.0,No
+1998.0,2.0,2014.0,10.0,6.0,$47.34,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+1688.0,0.0,2008.0,9.0,26.0,$11.06,Swipe Transaction,Aydins Fine Foods,Grand Rapids,MI,49504.0,5411.0,No
+362.0,0.0,2020.0,2.0,10.0,$46.26,Chip Transaction,Convenience Store Chain 1,Brooklyn,NY,11213.0,5499.0,No
+1986.0,1.0,2006.0,12.0,24.0,$54.63,Swipe Transaction,Restaurant Chain 4,North Olmsted,OH,44070.0,5812.0,No
+1532.0,0.0,2010.0,2.0,21.0,$308.00,Online Transaction,Online Casino 3,ONLINE,CA,51694.67689524219,7801.0,No
+420.0,0.0,2014.0,11.0,13.0,$61.56,Swipe Transaction,Edwards Car Service,Ashburn,VA,20147.0,4121.0,No
+391.0,2.0,2012.0,5.0,23.0,$28.26,Online Transaction,Auto Toll Provider 6,ONLINE,CA,51694.67689524219,4784.0,No
+936.0,2.0,2011.0,3.0,31.0,$20.92,Swipe Transaction,Abigails Restaurant,Vancouver,WA,98661.0,5812.0,No
+1054.0,1.0,2006.0,2.0,20.0,$21.31,Swipe Transaction,Supermarket Chain 2,Haverhill,MA,1830.0,5411.0,No
+1560.0,1.0,2009.0,9.0,11.0,$39.45,Swipe Transaction,Home Improvement Store 2,Sarasota,FL,34243.0,5211.0,No
+732.0,1.0,2009.0,10.0,21.0,$106.50,Online Transaction,Digital Delivery Company 4,ONLINE,CA,51694.67689524219,4899.0,No
+133.0,0.0,2017.0,7.0,24.0,$70.95,Chip Transaction,Angels Theatre,Hillsboro,OR,97123.0,7922.0,No
+1233.0,3.0,2019.0,12.0,4.0,$51.12,Chip Transaction,Wholesale Club 1,Fort Worth,TX,76133.0,5300.0,No
+575.0,2.0,2010.0,11.0,15.0,$14.20,Swipe Transaction,Fast Food Chain 2,Anchorage,AK,99508.0,5814.0,No
+290.0,2.0,2015.0,4.0,14.0,$78.37,Chip Transaction,Pharmacy Company 1,Glendale,CA,91202.0,5912.0,No
+1075.0,5.0,2009.0,1.0,18.0,$12.03,Swipe Transaction,Supermarket Chain 2,Ashtabula,OH,44004.0,5411.0,No
+1335.0,3.0,2012.0,6.0,29.0,$33.67,Swipe Transaction,Auto Service Company 8,Minneapolis,MN,55449.0,7538.0,No
+1366.0,3.0,2008.0,3.0,22.0,$101.34,Swipe Transaction,Pharmacy Company 3,Brighton,IL,62012.0,5912.0,No
+692.0,0.0,2018.0,6.0,21.0,$7.11,Chip Transaction,Barnes Vista Market,Vista,CA,92084.0,5411.0,No
+361.0,1.0,2017.0,3.0,30.0,$114.55,Swipe Transaction,Wholesale Club 1,Lyndon Center,VT,5850.0,5300.0,No
+1895.0,0.0,2010.0,2.0,7.0,$107.25,Swipe Transaction,Car Rental Company 6,Winter Haven,FL,33880.0,3395.0,No
+204.0,2.0,2011.0,8.0,22.0,$33.09,Swipe Transaction,Brians Discounters,Columbia,SC,29209.0,5310.0,No
+927.0,3.0,2003.0,5.0,30.0,$10.45,Swipe Transaction,Gas Station Company 1,Ottumwa,IA,52501.0,5541.0,No
+747.0,0.0,2012.0,9.0,5.0,$2.61,Swipe Transaction,Lonsdale Family Clothing,Williamstown,NJ,8094.0,5651.0,No
+1333.0,0.0,2012.0,2.0,6.0,$80.00,Swipe Transaction,Money Transfer Company 1,Baytown,TX,77521.0,4829.0,No
+1624.0,2.0,2018.0,4.0,3.0,$35.25,Chip Transaction,Lewis Market,Merritt Island,FL,32952.0,5411.0,No
+1602.0,1.0,2011.0,12.0,13.0,$9.41,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,No
+555.0,3.0,2019.0,6.0,4.0,$116.29,Chip Transaction,Commuter Rail System 4,Wellington,IL,60973.0,4111.0,No
+1929.0,0.0,2016.0,2.0,4.0,$869.23,Swipe Transaction,Airline Company 1,Corona,CA,92882.0,3001.0,No
+1245.0,1.0,2004.0,11.0,14.0,$40.36,Swipe Transaction,Kendricks Chicago Hauling,Chicago,IL,60619.0,7349.0,No
+530.0,1.0,2006.0,12.0,5.0,$44.42,Swipe Transaction,Auto Service Company 1,East Dubuque,IL,61025.0,7538.0,No
+1370.0,3.0,2007.0,7.0,11.0,$163.22,Swipe Transaction,Hotel and Resort Company 5,Martinsburg,PA,16662.0,3640.0,No
+395.0,0.0,2008.0,4.0,14.0,$4.94,Swipe Transaction,Theos San Antonio Rx,San Antonio,TX,78228.0,5912.0,No
+1291.0,4.0,2012.0,1.0,1.0,$100.00,Swipe Transaction,Money Transfer Company 1,Wichita,KS,67210.0,4829.0,No
+735.0,2.0,2019.0,9.0,6.0,$61.17,Chip Transaction,Home Improvement Store 1,Mechanicsville,VA,23111.0,5211.0,No
+745.0,3.0,2017.0,5.0,30.0,$13.93,Chip Transaction,Blaires Drugs,Newton,KS,67114.0,5912.0,No
+1934.0,2.0,2020.0,2.0,12.0,$11.18,Chip Transaction,White Wine and Liquor,Gas City,IN,46933.0,5921.0,No
+905.0,0.0,2004.0,9.0,14.0,$5.63,Swipe Transaction,Gas Station Company 5,Discovery Bay,CA,94505.0,5541.0,No
+1792.0,0.0,2014.0,4.0,10.0,$49.44,Swipe Transaction,Restaurant Chain 1,Chula Vista,CA,91910.0,5812.0,No
+1372.0,1.0,2013.0,8.0,26.0,$71.58,Swipe Transaction,Supermarket Chain 1,Edmond,OK,73012.0,5411.0,No
+1286.0,1.0,2015.0,4.0,6.0,$36.36,Swipe Transaction,Ramirez San Marcos Rx,San Marcos,CA,92069.0,5912.0,No
+284.0,6.0,2010.0,8.0,21.0,$5.87,Swipe Transaction,Wholesale Club 1,Carlisle,PA,17013.0,5300.0,No
+1663.0,2.0,2007.0,1.0,5.0,$13.11,Swipe Transaction,Delivery Company 3,Emporia,KS,66801.0,9402.0,No
+1377.0,1.0,2019.0,8.0,29.0,$25.46,Chip Transaction,Labelle Theaters,Moline,IL,61265.0,7832.0,No
+485.0,1.0,2013.0,2.0,24.0,$4.85,Swipe Transaction,Fast Food Chain 10,Wenatchee,WA,98801.0,5814.0,No
+440.0,4.0,2015.0,6.0,17.0,$2.26,Chip Transaction,Convenience Store Chain 3,Milwaukee,WI,53214.0,5499.0,No
+269.0,2.0,2007.0,9.0,27.0,$1.62,Swipe Transaction,Convenience Store Chain 3,Palatine,IL,60074.0,5499.0,No
+1229.0,5.0,2011.0,9.0,14.0,$2.03,Swipe Transaction,Bookstore Company 1,Granville,NY,12832.0,5942.0,No
+1779.0,4.0,2015.0,5.0,23.0,$57.72,Chip Transaction,Gas Station Company 11,Ypsilanti,MI,48197.0,5541.0,No
+1039.0,5.0,2009.0,9.0,11.0,$81.49,Swipe Transaction,Pharmacy Company 1,Euless,TX,76040.0,5912.0,No
+1028.0,2.0,2008.0,10.0,13.0,$7.44,Swipe Transaction,Callans Gourmet Supplies,Beattyville,KY,41311.0,5411.0,No
+923.0,0.0,2018.0,5.0,25.0,$1.78,Chip Transaction,Convenience Store Chain 3,Hamlin,NY,14464.0,5499.0,No
+1269.0,3.0,2012.0,5.0,18.0,$65.79,Swipe Transaction,Restaurant Chain 1,Elyria,OH,44035.0,5812.0,No
+271.0,2.0,2007.0,4.0,7.0,$2.06,Swipe Transaction,Restaurant Chain 1,San Ysidro,CA,92173.0,5812.0,No
+193.0,1.0,2014.0,5.0,13.0,$1.79,Swipe Transaction,Bookstore Company 1,Pacific Grove,CA,93950.0,5942.0,No
+564.0,2.0,2016.0,10.0,3.0,$8.71,Chip Transaction,Fast Food Chain 5,Cupertino,CA,95014.0,5814.0,No
+778.0,1.0,2011.0,7.0,22.0,$22.22,Swipe Transaction,Ronnies Parkesburg Diner,Parkesburg,PA,19365.0,5812.0,No
+956.0,1.0,2018.0,9.0,1.0,$2.37,Chip Transaction,Convenience Store Chain 3,Albany,CA,94706.0,5499.0,No
+1583.0,0.0,2014.0,1.0,29.0,$54.90,Swipe Transaction,Nelson Taxi,Fort Mill,SC,29715.0,4121.0,No
+1852.0,0.0,2017.0,5.0,17.0,$32.42,Chip Transaction,Cook Restaurant,Apex,NC,27523.0,5812.0,No
+1604.0,0.0,2012.0,4.0,14.0,$14.56,Online Transaction,Online Retailer 1,ONLINE,CA,51694.67689524219,5311.0,No
+61.0,2.0,2019.0,11.0,11.0,$11.64,Swipe Transaction,Home Improvement Store 2,Indianapolis,IN,46224.0,5211.0,No
+847.0,0.0,2019.0,4.0,8.0,$2.21,Chip Transaction,Gas Station Company 1,Towanda,PA,18848.0,5541.0,No
+974.0,1.0,2019.0,4.0,20.0,$28.89,Online Transaction,Auto Toll Provider 1,ONLINE,CA,51694.67689524219,4784.0,No
+141.0,1.0,2012.0,10.0,29.0,$79.74,Swipe Transaction,Department Store 5,Edison,NJ,8820.0,5311.0,No
+691.0,5.0,2018.0,5.0,19.0,$6.78,Chip Transaction,Delivery Company 2,Staten Island,NY,10312.0,4214.0,No
+1867.0,0.0,2018.0,1.0,12.0,$0.56,Swipe Transaction,Convenience Store Chain 1,Van Nuys,CA,91405.0,5499.0,No
+171.0,1.0,2010.0,11.0,27.0,$62.91,Swipe Transaction,Pharmacy Company 2,Farmingdale,NY,11735.0,5912.0,No
+956.0,2.0,2005.0,11.0,6.0,$2.00,Swipe Transaction,Convenience Store Chain 3,Albany,CA,94706.0,5499.0,No
+2.0,1.0,2012.0,9.0,25.0,$159.91,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+3.0,3.0,2016.0,12.0,11.0,$6.83,Chip Transaction,Rivera Supermarket,Caracas,Venezuela,51694.67689524219,5411.0,Yes
+3.0,3.0,2016.0,12.0,11.0,$15.00,Online Transaction,Fast Food Chain 15,ONLINE,CA,51694.67689524219,5814.0,Yes
+6.0,1.0,2012.0,4.0,25.0,$131.83,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+13.0,2.0,2008.0,6.0,29.0,$19.17,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+14.0,0.0,2016.0,5.0,16.0,$106.04,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+14.0,0.0,2016.0,5.0,19.0,$0.08,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+14.0,0.0,2016.0,5.0,21.0,$103.59,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+14.0,1.0,2011.0,12.0,21.0,$28.64,Swipe Transaction,Hadlees Jewelry,Moscow,Russia,51694.67689524219,5094.0,Yes
+14.0,1.0,2011.0,12.0,21.0,$2.05,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,Yes
+16.0,1.0,2008.0,11.0,22.0,$0.53,Swipe Transaction,Delivery Company 1,Istanbul,Turkey,51694.67689524219,4214.0,Yes
+16.0,1.0,2016.0,9.0,27.0,$6.01,Chip Transaction,Georgias Wholesale,Caracas,Venezuela,51694.67689524219,5310.0,Yes
+16.0,1.0,2016.0,9.0,27.0,$37.23,Online Transaction,Digital Content Company 1,ONLINE,CA,51694.67689524219,5815.0,Yes
+17.0,1.0,2014.0,6.0,7.0,$3275.30,Online Transaction,Cruise Line 2,ONLINE,CA,51694.67689524219,4411.0,Yes
+17.0,1.0,2014.0,6.0,8.0,$82.74,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+18.0,1.0,2007.0,10.0,7.0,$115.47,Swipe Transaction,Allstar Internal Medicine,Zanesville,OH,43701.0,8011.0,Yes
+18.0,1.0,2007.0,10.0,7.0,$11.99,Swipe Transaction,Bell Zanesville Discounters,Zanesville,OH,43701.0,5310.0,Yes
+18.0,1.0,2007.0,10.0,10.0,$165.17,Swipe Transaction,High End Goods Store 1,Saint Clairsville,OH,43950.0,5719.0,Yes
+18.0,1.0,2007.0,10.0,10.0,$3.70,Swipe Transaction,Acme Family Clothing,Zanesville,OH,43701.0,5651.0,Yes
+20.0,0.0,2008.0,12.0,18.0,$7.17,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+20.0,0.0,2008.0,12.0,18.0,$6.08,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+20.0,0.0,2008.0,12.0,18.0,$9.64,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+20.0,0.0,2008.0,12.0,18.0,$0.79,Swipe Transaction,Kelley Istanbul Spirits,Istanbul,Turkey,51694.67689524219,5921.0,Yes
+22.0,1.0,2009.0,9.0,17.0,$77.36,Swipe Transaction,Jabaris Taxi,Istanbul,Turkey,51694.67689524219,4121.0,Yes
+39.0,1.0,2017.0,1.0,10.0,$19.23,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+39.0,1.0,2020.0,2.0,8.0,$620.25,Chip Transaction,Department Store 10,Saint Charles,MO,63304.0,5311.0,Yes
+39.0,1.0,2020.0,2.0,9.0,$5.00,Swipe Transaction,Achilless Limo,Saint Louis,MO,63146.0,4121.0,Yes
+39.0,1.0,2020.0,2.0,9.0,$4.84,Chip Transaction,Convenience Store Chain 1,Saint Louis,MO,63146.0,5499.0,Yes
+39.0,1.0,2020.0,2.0,9.0,$44.65,Chip Transaction,Anderson Saint Louis Bar,Saint Louis,MO,63146.0,5813.0,Yes
+44.0,1.0,2016.0,6.0,6.0,$84.18,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+44.0,1.0,2016.0,6.0,13.0,$57.89,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+44.0,1.0,2016.0,6.0,13.0,$41.54,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+44.0,1.0,2016.0,6.0,18.0,$231.75,Chip Transaction,Young Sofia Motel,Sofia,Bulgaria,51694.67689524219,7011.0,Yes
+44.0,1.0,2016.0,6.0,18.0,$145.74,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+44.0,6.0,2011.0,12.0,12.0,$24.57,Online Transaction,Electronics Merchandiser 2,ONLINE,CA,51694.67689524219,5732.0,Yes
+53.0,2.0,2008.0,7.0,19.0,$2.89,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+53.0,2.0,2008.0,7.0,20.0,$0.14,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+54.0,1.0,2009.0,4.0,25.0,$2.39,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+54.0,1.0,2009.0,4.0,25.0,$6.44,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+54.0,1.0,2009.0,4.0,25.0,$209.63,Swipe Transaction,Car Rental Company 1,Istanbul,Turkey,51694.67689524219,3359.0,Yes
+56.0,4.0,2012.0,2.0,3.0,$157.20,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+58.0,5.0,2013.0,1.0,4.0,$121.67,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+60.0,0.0,2016.0,8.0,2.0,$38.61,Online Transaction,Department Store 5,ONLINE,CA,51694.67689524219,5311.0,Yes
+66.0,2.0,2007.0,7.0,8.0,$76.62,Swipe Transaction,Digital Games Company 1,Rincon,GA,31326.0,5816.0,Yes
+66.0,2.0,2007.0,7.0,8.0,$73.31,Swipe Transaction,Allen Wholesale,Macon,GA,31201.0,5300.0,Yes
+66.0,2.0,2007.0,7.0,8.0,$69.88,Swipe Transaction,Rail Company 1,Jacksonville,FL,32207.0,4112.0,Yes
+66.0,2.0,2007.0,7.0,9.0,$153.78,Online Transaction,Software-Hardware Company 1,ONLINE,CA,51694.67689524219,5045.0,Yes
+66.0,2.0,2007.0,7.0,9.0,$181.22,Online Transaction,Phone Service Provider 2,ONLINE,CA,51694.67689524219,4814.0,Yes
+66.0,2.0,2007.0,7.0,12.0,$181.62,Swipe Transaction,High End Goods Store 1,Macon,GA,31205.0,5719.0,Yes
+73.0,0.0,2002.0,4.0,19.0,$196.84,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+103.0,3.0,2014.0,8.0,17.0,$104.78,Online Transaction,Department Store 4,ONLINE,CA,51694.67689524219,5311.0,Yes
+103.0,3.0,2014.0,8.0,17.0,$131.78,Online Transaction,Online Retailer 2,ONLINE,CA,51694.67689524219,5311.0,Yes
+103.0,3.0,2014.0,8.0,18.0,$29.19,Online Transaction,High End Goods Store 1,ONLINE,CA,51694.67689524219,5719.0,Yes
+112.0,0.0,2012.0,3.0,29.0,$282.32,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+112.0,0.0,2012.0,3.0,29.0,$287.57,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+119.0,2.0,2016.0,9.0,11.0,$131.10,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+119.0,2.0,2016.0,9.0,11.0,$665.91,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+119.0,2.0,2016.0,9.0,11.0,$15.61,Chip Transaction,Stetsons Caracas Clothing,Caracas,Venezuela,51694.67689524219,5651.0,Yes
+123.0,0.0,2009.0,4.0,6.0,$158.38,Swipe Transaction,Department Store 11,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+123.0,0.0,2009.0,4.0,8.0,$5.88,Swipe Transaction,Bennett Gently Used Clothes,Istanbul,Turkey,51694.67689524219,5651.0,Yes
+123.0,0.0,2009.0,4.0,8.0,$19.59,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+127.0,1.0,2012.0,12.0,11.0,$35.53,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+141.0,0.0,2009.0,4.0,11.0,$172.05,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+141.0,0.0,2009.0,4.0,13.0,$27.83,Swipe Transaction,Fast Food Chain 2,Istanbul,Turkey,51694.67689524219,5814.0,Yes
+141.0,0.0,2009.0,4.0,15.0,$50.31,Swipe Transaction,Cyruss Female Fashion,Istanbul,Turkey,51694.67689524219,5621.0,Yes
+141.0,0.0,2009.0,4.0,15.0,$13.78,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+143.0,2.0,2017.0,1.0,31.0,$96.37,Chip Transaction,Georgias Wholesale,Caracas,Venezuela,51694.67689524219,5310.0,Yes
+143.0,2.0,2017.0,2.0,2.0,$3.86,Online Transaction,Department Store 8,ONLINE,CA,51694.67689524219,5311.0,Yes
+144.0,1.0,2015.0,1.0,24.0,$85.59,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+144.0,1.0,2015.0,1.0,24.0,$7.03,Chip Transaction,Crafts Store 1,Mexico City,Mexico,51694.67689524219,5970.0,Yes
+144.0,1.0,2015.0,1.0,26.0,$100.66,Chip Transaction,Gomez Wholesale,Mexico City,Mexico,51694.67689524219,5310.0,Yes
+144.0,1.0,2015.0,1.0,31.0,$5.49,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+146.0,1.0,2012.0,1.0,19.0,$15.87,Online Transaction,Discount Store 4,ONLINE,CA,51694.67689524219,5310.0,Yes
+146.0,1.0,2012.0,1.0,19.0,$52.69,Online Transaction,Digital Content Company 2,ONLINE,CA,51694.67689524219,5815.0,Yes
+150.0,4.0,2014.0,4.0,6.0,$22.07,Online Transaction,Discount Store 5,ONLINE,CA,51694.67689524219,5310.0,Yes
+150.0,4.0,2014.0,4.0,6.0,$0.33,Swipe Transaction,Leilas Home Supplies,Delhi,India,51694.67689524219,5211.0,Yes
+150.0,4.0,2014.0,4.0,6.0,$114.54,Swipe Transaction,Wholesale Club 1,Delhi,India,51694.67689524219,5300.0,Yes
+150.0,4.0,2014.0,4.0,7.0,$25.18,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+150.0,4.0,2014.0,4.0,7.0,$3.76,Online Transaction,Home Improvement Store 2,ONLINE,CA,51694.67689524219,5211.0,Yes
+150.0,4.0,2014.0,4.0,8.0,$28.81,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+150.0,4.0,2014.0,4.0,8.0,$15.14,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+161.0,3.0,2019.0,4.0,13.0,$141.90,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+164.0,1.0,2012.0,11.0,10.0,$46.99,Swipe Transaction,Gray Pharmacy,Victoria,Seychelles,51694.67689524219,5912.0,Yes
+167.0,0.0,2012.0,6.0,13.0,$218.56,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+167.0,0.0,2012.0,6.0,14.0,$162.14,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+168.0,0.0,2007.0,4.0,20.0,$114.93,Swipe Transaction,Allen Wholesale,Macon,GA,31201.0,5300.0,Yes
+207.0,1.0,2015.0,12.0,25.0,$59.08,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+207.0,1.0,2015.0,12.0,27.0,$197.79,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+216.0,2.0,2014.0,9.0,5.0,$26.25,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+216.0,2.0,2014.0,9.0,7.0,$270.38,Swipe Transaction,Tylers Discount Emporium,Delhi,India,51694.67689524219,5310.0,Yes
+228.0,2.0,2009.0,5.0,16.0,$39.34,Swipe Transaction,Car Rental Company 1,Istanbul,Turkey,51694.67689524219,3359.0,Yes
+243.0,3.0,2014.0,1.0,2.0,$168.32,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+243.0,3.0,2014.0,1.0,2.0,$8.91,Online Transaction,Department Store 8,ONLINE,CA,51694.67689524219,5311.0,Yes
+243.0,3.0,2014.0,1.0,2.0,$111.69,Online Transaction,Digital Games Company 1,ONLINE,CA,51694.67689524219,5816.0,Yes
+243.0,3.0,2014.0,1.0,3.0,$150.19,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+245.0,3.0,2012.0,5.0,31.0,$83.64,Swipe Transaction,Turner Gourmet Supplies,Amman,Jordan,51694.67689524219,5411.0,Yes
+245.0,3.0,2012.0,6.0,1.0,$293.21,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+246.0,1.0,2012.0,11.0,22.0,$100.67,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+246.0,2.0,2009.0,7.0,29.0,$105.72,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+247.0,0.0,2016.0,12.0,6.0,$170.16,Swipe Transaction,Convenience Store Chain 1,Simi Valley,CA,93065.0,5499.0,Yes
+247.0,0.0,2016.0,12.0,6.0,$82.04,Chip Transaction,Aarons Simi Valley Limo,Simi Valley,CA,93065.0,4121.0,Yes
+264.0,1.0,2011.0,10.0,15.0,$0.58,Swipe Transaction,Charleys Female Fashion,Amman,Jordan,51694.67689524219,5621.0,Yes
+264.0,1.0,2020.0,2.0,1.0,$86.36,Chip Transaction,Eddies Wholesale,Georgetown,Guyana,51694.67689524219,5310.0,Yes
+269.0,4.0,2016.0,8.0,3.0,$685.10,Online Transaction,Auto Parts Company 4,ONLINE,CA,51694.67689524219,5533.0,Yes
+278.0,3.0,2012.0,11.0,21.0,$2.02,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+278.0,3.0,2012.0,11.0,21.0,$123.52,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+309.0,1.0,2008.0,7.0,1.0,$142.44,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+309.0,1.0,2008.0,7.0,1.0,$163.54,Swipe Transaction,Hotel and Resort Company 2,Istanbul,Turkey,51694.67689524219,3504.0,Yes
+309.0,1.0,2008.0,7.0,1.0,$3.50,Swipe Transaction,Delivery Company 1,Istanbul,Turkey,51694.67689524219,4214.0,Yes
+309.0,1.0,2008.0,7.0,3.0,$1.56,Swipe Transaction,Sues Furniture,Istanbul,Turkey,51694.67689524219,5712.0,Yes
+324.0,5.0,2019.0,12.0,26.0,$2.59,Online Transaction,Department Store 4,ONLINE,CA,51694.67689524219,5311.0,Yes
+332.0,0.0,2012.0,6.0,3.0,$46.49,Swipe Transaction,Russell Restaurant,Amman,Jordan,51694.67689524219,5812.0,Yes
+337.0,2.0,2009.0,9.0,26.0,$102.75,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+337.0,2.0,2009.0,9.0,26.0,$3.30,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+339.0,3.0,2014.0,9.0,8.0,$96.67,Online Transaction,Pharmacy Company 3,ONLINE,CA,51694.67689524219,5912.0,Yes
+339.0,3.0,2014.0,9.0,8.0,$7.28,Swipe Transaction,Tylers Discount Emporium,Delhi,India,51694.67689524219,5310.0,Yes
+352.0,5.0,2011.0,12.0,19.0,$156.60,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+352.0,5.0,2011.0,12.0,19.0,$58.66,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+353.0,1.0,2013.0,11.0,30.0,$8.59,Online Transaction,Pharmacy Company 1,ONLINE,CA,51694.67689524219,5912.0,Yes
+374.0,0.0,2002.0,7.0,7.0,$1421.26,Online Transaction,Cruise Line 4,ONLINE,CA,51694.67689524219,4411.0,Yes
+377.0,1.0,2015.0,12.0,20.0,$43.25,Chip Transaction,Amalgamated Limousine,Sofia,Bulgaria,51694.67689524219,4121.0,Yes
+383.0,1.0,2012.0,11.0,3.0,$35.02,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+385.0,0.0,2003.0,5.0,19.0,$64.39,Online Transaction,Airline Company 6,ONLINE,CA,51694.67689524219,3174.0,Yes
+385.0,0.0,2003.0,5.0,19.0,$55.63,Online Transaction,Discount Store 6,ONLINE,CA,51694.67689524219,5310.0,Yes
+385.0,0.0,2003.0,5.0,19.0,$7.14,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+385.0,0.0,2012.0,8.0,22.0,$164.38,Swipe Transaction,Amalgamated Discount Emporium,Victoria,Seychelles,51694.67689524219,5310.0,Yes
+392.0,2.0,2014.0,11.0,20.0,$486.79,Swipe Transaction,Wholesale Club 1,Mexico City,Mexico,51694.67689524219,5300.0,Yes
+392.0,2.0,2014.0,11.0,21.0,$112.55,Swipe Transaction,Carter Pharmacy,Mexico City,Mexico,51694.67689524219,5912.0,Yes
+393.0,1.0,2017.0,2.0,7.0,$17.26,Chip Transaction,Georgias Wholesale,Caracas,Venezuela,51694.67689524219,5310.0,Yes
+393.0,1.0,2017.0,2.0,7.0,$15.94,Online Transaction,Department Store 12,ONLINE,CA,51694.67689524219,5311.0,Yes
+400.0,2.0,2009.0,11.0,9.0,$125.96,Swipe Transaction,Gas Station Company 1,Istanbul,Turkey,51694.67689524219,5541.0,Yes
+400.0,2.0,2009.0,11.0,10.0,$105.28,Swipe Transaction,Hotel and Resort Company 2,Istanbul,Turkey,51694.67689524219,3504.0,Yes
+404.0,2.0,2015.0,3.0,27.0,$111.21,Swipe Transaction,Wholesale Club 1,Mexico City,Mexico,51694.67689524219,5300.0,Yes
+404.0,2.0,2015.0,3.0,28.0,$100.19,Swipe Transaction,Department Store 2,Mexico City,Mexico,51694.67689524219,5311.0,Yes
+404.0,2.0,2015.0,3.0,28.0,$101.30,Swipe Transaction,Hamzas Grocery,Mexico City,Mexico,51694.67689524219,5411.0,Yes
+404.0,2.0,2015.0,3.0,28.0,$224.37,Swipe Transaction,Department Store 10,Mexico City,Mexico,51694.67689524219,5311.0,Yes
+404.0,2.0,2015.0,3.0,30.0,$826.97,Swipe Transaction,Hotel and Resort Company 3,Mexico City,Mexico,51694.67689524219,3722.0,Yes
+409.0,1.0,2019.0,7.0,6.0,$205.75,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+409.0,1.0,2019.0,7.0,7.0,$35.21,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+409.0,1.0,2019.0,7.0,7.0,$13.40,Chip Transaction,Ryanns Theatre,Lansdale,PA,19446.0,7922.0,Yes
+409.0,1.0,2019.0,7.0,7.0,$80.45,Chip Transaction,Mercys Sports Apparel,Hatfield,PA,19440.0,5655.0,Yes
+420.0,1.0,2009.0,6.0,3.0,$23.84,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+420.0,1.0,2009.0,6.0,3.0,$77.81,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+424.0,2.0,2016.0,8.0,10.0,$23.41,Chip Transaction,Rivera Supermarket,Caracas,Venezuela,51694.67689524219,5411.0,Yes
+443.0,0.0,2012.0,12.0,25.0,$48.40,Swipe Transaction,Collins Car Service,Tegucigalpa,Honduras,51694.67689524219,4121.0,Yes
+443.0,0.0,2012.0,12.0,25.0,$57.62,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+443.0,0.0,2012.0,12.0,27.0,$190.41,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+443.0,6.0,2016.0,8.0,2.0,$230.47,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+443.0,6.0,2016.0,8.0,2.0,$132.97,Online Transaction,Department Store 10,ONLINE,CA,51694.67689524219,5311.0,Yes
+453.0,2.0,2015.0,12.0,28.0,$331.07,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+462.0,2.0,2017.0,1.0,17.0,$84.17,Online Transaction,Sporting Goods Company 1,ONLINE,CA,51694.67689524219,5941.0,Yes
+462.0,2.0,2017.0,1.0,17.0,$1053.34,Online Transaction,Cruise Line 5,ONLINE,CA,51694.67689524219,4411.0,Yes
+462.0,2.0,2017.0,1.0,17.0,$7.47,Online Transaction,Clothing Store 2,ONLINE,CA,51694.67689524219,5651.0,Yes
+463.0,5.0,2016.0,9.0,13.0,$4.12,Online Transaction,Fast Food Chain 13,ONLINE,CA,51694.67689524219,5814.0,Yes
+463.0,5.0,2016.0,9.0,14.0,$30.55,Chip Transaction,Rivera Supermarket,Caracas,Venezuela,51694.67689524219,5411.0,Yes
+468.0,1.0,2008.0,10.0,25.0,$100.24,Swipe Transaction,Department Store 11,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+468.0,1.0,2008.0,10.0,25.0,$17.97,Swipe Transaction,Sadr Home Materials,Istanbul,Turkey,51694.67689524219,5211.0,Yes
+468.0,1.0,2008.0,10.0,25.0,$2.80,Swipe Transaction,Car Rental Company 1,Istanbul,Turkey,51694.67689524219,3359.0,Yes
+474.0,0.0,2009.0,3.0,16.0,$13.60,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+474.0,0.0,2009.0,3.0,17.0,$20.46,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+474.0,0.0,2009.0,3.0,18.0,$52.33,Swipe Transaction,Fast Food Chain 8,Istanbul,Turkey,51694.67689524219,5814.0,Yes
+475.0,0.0,2020.0,2.0,9.0,$60.37,Swipe Transaction,Alainas Family Clothing,Saint Louis,MO,63146.0,5651.0,Yes
+475.0,0.0,2020.0,2.0,9.0,$4.23,Swipe Transaction,Dannas Discount Goods,Saint Louis,MO,63146.0,5310.0,Yes
+481.0,1.0,2017.0,4.0,7.0,$115.91,Chip Transaction,Discount Store 4,Simi Valley,CA,93065.0,5310.0,Yes
+481.0,1.0,2017.0,4.0,7.0,$10.26,Swipe Transaction,Delivery Company 3,Simi Valley,CA,93065.0,9402.0,Yes
+481.0,5.0,2012.0,9.0,12.0,$97.85,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+496.0,0.0,2009.0,6.0,30.0,$12.50,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+498.0,2.0,2012.0,1.0,31.0,$35.67,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+501.0,3.0,2014.0,2.0,3.0,$71.36,Swipe Transaction,Kailanis Delhi Drugs,Delhi,India,51694.67689524219,5912.0,Yes
+501.0,3.0,2016.0,12.0,11.0,$132.35,Chip Transaction,Diaz Ale House,Simi Valley,CA,93065.0,5813.0,Yes
+501.0,3.0,2016.0,12.0,11.0,$73.19,Swipe Transaction,Supermarket Chain 2,Simi Valley,CA,93065.0,5411.0,Yes
+501.0,3.0,2016.0,12.0,11.0,$9.54,Chip Transaction,Acme Carnival,Simi Valley,CA,93065.0,7996.0,Yes
+502.0,1.0,2012.0,2.0,1.0,$18.69,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+502.0,1.0,2012.0,2.0,2.0,$82.37,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+503.0,2.0,2019.0,12.0,31.0,$51.87,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+503.0,2.0,2019.0,12.0,31.0,$440.95,Swipe Transaction,Abrils Wholesale,Saint Louis,MO,63146.0,5300.0,Yes
+503.0,2.0,2019.0,12.0,31.0,$103.63,Swipe Transaction,Department Store 10,Saint Charles,MO,63304.0,5311.0,Yes
+503.0,2.0,2019.0,12.0,31.0,$14.55,Swipe Transaction,Airline Company 6,Saint Louis,MO,63146.0,3174.0,Yes
+503.0,2.0,2019.0,12.0,31.0,$196.92,Online Transaction,Hotel and Resort Company 1,ONLINE,CA,51694.67689524219,3509.0,Yes
+503.0,2.0,2019.0,12.0,31.0,$65.62,Swipe Transaction,Achilless Saint Louis Wine and Liquor,Saint Louis,MO,63146.0,5921.0,Yes
+506.0,0.0,2015.0,10.0,28.0,$1.60,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+506.0,0.0,2015.0,10.0,28.0,$111.19,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+506.0,0.0,2015.0,10.0,30.0,$4.10,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+510.0,1.0,2016.0,6.0,2.0,$291.44,Chip Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+516.0,2.0,2019.0,6.0,28.0,$60.33,Chip Transaction,Eddies Wholesale,Georgetown,Guyana,51694.67689524219,5310.0,Yes
+524.0,0.0,2003.0,3.0,5.0,$172.75,Online Transaction,Discount Store 2,ONLINE,CA,51694.67689524219,5310.0,Yes
+524.0,0.0,2003.0,3.0,5.0,$1.35,Online Transaction,Department Store 5,ONLINE,CA,51694.67689524219,5311.0,Yes
+524.0,0.0,2008.0,7.0,19.0,$79.00,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+524.0,0.0,2008.0,7.0,20.0,$15.65,Swipe Transaction,Department Store 11,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+524.0,0.0,2008.0,7.0,21.0,$0.50,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+524.0,0.0,2008.0,7.0,22.0,$18.15,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+524.0,0.0,2008.0,7.0,22.0,$10.75,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+526.0,2.0,2011.0,12.0,20.0,$17.91,Swipe Transaction,Turner Gourmet Supplies,Amman,Jordan,51694.67689524219,5411.0,Yes
+526.0,2.0,2011.0,12.0,21.0,$179.54,Swipe Transaction,Renees Jewelry,Amman,Jordan,51694.67689524219,5094.0,Yes
+526.0,2.0,2011.0,12.0,22.0,$38.08,Swipe Transaction,Helenas Taxi,Amman,Jordan,51694.67689524219,4121.0,Yes
+536.0,4.0,2008.0,9.0,14.0,$19.04,Swipe Transaction,Santoss Istanbul Jewelry,Istanbul,Turkey,51694.67689524219,5094.0,Yes
+540.0,2.0,2008.0,7.0,13.0,$17.72,Swipe Transaction,Airline Company 7,Granbury,TX,76049.0,3132.0,Yes
+540.0,2.0,2008.0,7.0,15.0,$92.88,Swipe Transaction,Masvidal Taxi,Kerens,TX,75144.0,4121.0,Yes
+544.0,2.0,2007.0,5.0,20.0,$108.34,Swipe Transaction,Allen Wholesale,Macon,GA,31201.0,5300.0,Yes
+544.0,2.0,2007.0,5.0,21.0,$110.49,Swipe Transaction,Money Transfer Company 1,Savannah,GA,31401.0,4829.0,Yes
+544.0,2.0,2007.0,5.0,21.0,$23.70,Swipe Transaction,Software-Hardware Company 1,Macon,GA,31204.0,5045.0,Yes
+544.0,2.0,2007.0,5.0,21.0,$232.85,Swipe Transaction,Xi Amusements,Macon,GA,31211.0,7996.0,Yes
+544.0,2.0,2015.0,12.0,27.0,$50.99,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+544.0,2.0,2015.0,12.0,27.0,$208.77,Chip Transaction,Millies Fine Jewelry,Sofia,Bulgaria,51694.67689524219,5094.0,Yes
+544.0,2.0,2016.0,1.0,2.0,$3.26,Chip Transaction,Garcia Sofia Chic Boutique,Sofia,Bulgaria,51694.67689524219,5621.0,Yes
+551.0,0.0,2015.0,2.0,27.0,$239.11,Chip Transaction,Department Store 2,Mexico City,Mexico,51694.67689524219,5311.0,Yes
+551.0,0.0,2015.0,2.0,27.0,$91.86,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+559.0,1.0,2017.0,4.0,20.0,$43.07,Online Transaction,Travel Booking Company 2,ONLINE,CA,51694.67689524219,4722.0,Yes
+559.0,2.0,2017.0,1.0,12.0,$112.66,Online Transaction,Clothing Store 5,ONLINE,CA,51694.67689524219,5651.0,Yes
+559.0,2.0,2017.0,1.0,12.0,$63.09,Chip Transaction,Stetsons Caracas Clothing,Caracas,Venezuela,51694.67689524219,5651.0,Yes
+564.0,1.0,2011.0,12.0,16.0,$196.35,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+564.0,1.0,2011.0,12.0,19.0,$40.75,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+564.0,1.0,2011.0,12.0,19.0,$221.97,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+576.0,2.0,2013.0,2.0,11.0,$478.06,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+576.0,2.0,2013.0,2.0,15.0,$223.49,Swipe Transaction,Spencers Furnishings,Tegucigalpa,Honduras,51694.67689524219,5712.0,Yes
+576.0,2.0,2013.0,2.0,18.0,$39.97,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+582.0,1.0,2013.0,2.0,11.0,$84.39,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+582.0,1.0,2013.0,2.0,11.0,$156.83,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+586.0,3.0,2017.0,1.0,12.0,$89.30,Chip Transaction,Drews Package Store,Caracas,Venezuela,51694.67689524219,5921.0,Yes
+588.0,4.0,2012.0,3.0,15.0,$66.82,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+588.0,4.0,2012.0,3.0,17.0,$273.08,Swipe Transaction,Franklins Jewelry,Tegucigalpa,Honduras,51694.67689524219,5094.0,Yes
+588.0,4.0,2012.0,3.0,17.0,$78.90,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+588.0,4.0,2012.0,3.0,22.0,$8.28,Swipe Transaction,Kaelyns Drycleaning,Tegucigalpa,Honduras,51694.67689524219,7210.0,Yes
+590.0,2.0,2019.0,3.0,16.0,$103.37,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+590.0,2.0,2019.0,3.0,16.0,$434.78,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+590.0,2.0,2019.0,3.0,17.0,$70.46,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+590.0,2.0,2019.0,3.0,18.0,$13.65,Chip Transaction,Supermarket Chain 1,Hatfield,PA,19440.0,5411.0,Yes
+590.0,2.0,2019.0,3.0,18.0,$152.23,Chip Transaction,Department Store 3,Lansdale,PA,19446.0,5311.0,Yes
+590.0,2.0,2019.0,3.0,18.0,$41.25,Chip Transaction,Nguyen Hatfield Limousine,Hatfield,PA,19440.0,4121.0,Yes
+590.0,2.0,2019.0,3.0,18.0,$36.70,Chip Transaction,Supermarket Chain 1,Hatfield,PA,19440.0,5411.0,Yes
+603.0,3.0,2016.0,7.0,31.0,$210.62,Chip Transaction,Leroux Caracas Jewelers,Caracas,Venezuela,51694.67689524219,5094.0,Yes
+606.0,1.0,2016.0,10.0,25.0,$281.30,Swipe Transaction,Jones Lodge,Caracas,Venezuela,51694.67689524219,7011.0,Yes
+606.0,1.0,2016.0,10.0,25.0,$49.37,Swipe Transaction,Stetsons Caracas Clothing,Caracas,Venezuela,51694.67689524219,5651.0,Yes
+606.0,1.0,2016.0,10.0,25.0,$98.11,Swipe Transaction,Georgias Wholesale,Caracas,Venezuela,51694.67689524219,5310.0,Yes
+620.0,2.0,2016.0,4.0,9.0,$59.97,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+620.0,2.0,2016.0,4.0,9.0,$353.34,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+620.0,2.0,2016.0,4.0,11.0,$202.65,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+630.0,0.0,2016.0,2.0,4.0,$7.80,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+630.0,0.0,2016.0,2.0,4.0,$65.90,Chip Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+630.0,0.0,2016.0,2.0,8.0,$42.36,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+639.0,0.0,2017.0,1.0,31.0,$2.43,Chip Transaction,Abe Grocery,Simi Valley,CA,93065.0,5411.0,Yes
+639.0,0.0,2017.0,1.0,31.0,$19.70,Chip Transaction,Wholesale Club 1,Santa Barbara,CA,93101.0,5300.0,Yes
+639.0,0.0,2017.0,2.0,1.0,$12.11,Chip Transaction,Money Transfer Company 1,Simi Valley,CA,93065.0,4829.0,Yes
+639.0,0.0,2017.0,2.0,2.0,$300.93,Swipe Transaction,Abe Clothing,Simi Valley,CA,93065.0,5651.0,Yes
+645.0,1.0,2017.0,2.0,14.0,$188.61,Online Transaction,Department Store 8,ONLINE,CA,51694.67689524219,5311.0,Yes
+648.0,2.0,2002.0,5.0,26.0,$1.46,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+648.0,2.0,2002.0,5.0,26.0,$704.65,Online Transaction,Auto Parts Company 4,ONLINE,CA,51694.67689524219,5533.0,Yes
+652.0,0.0,2011.0,7.0,28.0,$88.40,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,Yes
+652.0,0.0,2011.0,7.0,28.0,$44.25,Swipe Transaction,Reyes Wholesale,Moscow,Russia,51694.67689524219,5310.0,Yes
+652.0,0.0,2011.0,7.0,28.0,$134.69,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,Yes
+652.0,0.0,2011.0,7.0,28.0,$108.82,Swipe Transaction,Reyes Wholesale,Moscow,Russia,51694.67689524219,5310.0,Yes
+652.0,0.0,2011.0,7.0,28.0,$0.32,Online Transaction,Software-Hardware Company 1,ONLINE,CA,51694.67689524219,5045.0,Yes
+662.0,1.0,2008.0,11.0,3.0,$85.26,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+662.0,1.0,2008.0,11.0,3.0,$0.11,Swipe Transaction,Convenience Store Chain 1,Istanbul,Turkey,51694.67689524219,5499.0,Yes
+682.0,2.0,2014.0,3.0,28.0,$7.65,Online Transaction,Delivery Company 1,ONLINE,CA,51694.67689524219,4214.0,Yes
+682.0,2.0,2014.0,3.0,28.0,$143.48,Swipe Transaction,Hamzas Grocery,Mexico City,Mexico,51694.67689524219,5411.0,Yes
+682.0,2.0,2014.0,3.0,28.0,$78.25,Swipe Transaction,Miller Bar,Mexico City,Mexico,51694.67689524219,5813.0,Yes
+682.0,2.0,2014.0,3.0,28.0,$123.28,Online Transaction,Clothing Store 4,ONLINE,CA,51694.67689524219,5651.0,Yes
+682.0,2.0,2014.0,3.0,31.0,$3.79,Online Transaction,Fast Food Chain 16,ONLINE,CA,51694.67689524219,5814.0,Yes
+694.0,1.0,2012.0,4.0,7.0,$95.76,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+706.0,5.0,2016.0,2.0,11.0,$1.84,Swipe Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+711.0,0.0,2007.0,6.0,25.0,$1.51,Swipe Transaction,Annes Supermarket,Macon,GA,31201.0,5411.0,Yes
+711.0,0.0,2007.0,6.0,25.0,$54.74,Swipe Transaction,High End Goods Store 1,Macon,GA,31205.0,5719.0,Yes
+711.0,0.0,2007.0,6.0,25.0,$10.50,Online Transaction,Online Casino 2,ONLINE,CA,51694.67689524219,7801.0,Yes
+720.0,1.0,2016.0,3.0,1.0,$138.06,Swipe Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+720.0,1.0,2016.0,3.0,3.0,$207.97,Swipe Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+731.0,0.0,2011.0,9.0,21.0,$11.40,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+731.0,0.0,2011.0,9.0,21.0,$29.03,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+731.0,0.0,2011.0,9.0,21.0,$0.12,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+731.0,0.0,2011.0,9.0,21.0,$3.35,Online Transaction,Discount Store 1,ONLINE,CA,51694.67689524219,5310.0,Yes
+731.0,0.0,2011.0,9.0,21.0,$33.29,Online Transaction,Department Store 9,ONLINE,CA,51694.67689524219,5311.0,Yes
+731.0,2.0,2017.0,1.0,17.0,$67.76,Chip Transaction,Georgias Wholesale,Caracas,Venezuela,51694.67689524219,5310.0,Yes
+750.0,2.0,2016.0,5.0,2.0,$143.24,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+754.0,0.0,2006.0,5.0,17.0,$25.17,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+754.0,0.0,2006.0,5.0,17.0,$3.60,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,Yes
+756.0,0.0,2008.0,10.0,17.0,$75.00,Swipe Transaction,Maisies Wholesale,Kerens,TX,75144.0,5300.0,Yes
+759.0,1.0,2008.0,12.0,4.0,$108.35,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+759.0,1.0,2008.0,12.0,7.0,$19.34,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+763.0,0.0,2011.0,8.0,25.0,$18.70,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+763.0,0.0,2011.0,8.0,25.0,$10.63,Online Transaction,Department Store 7,ONLINE,CA,51694.67689524219,5311.0,Yes
+763.0,0.0,2011.0,8.0,26.0,$31.04,Online Transaction,Department Store 9,ONLINE,CA,51694.67689524219,5311.0,Yes
+763.0,0.0,2011.0,8.0,26.0,$615.19,Online Transaction,Auto Parts Company 4,ONLINE,CA,51694.67689524219,5533.0,Yes
+767.0,0.0,2016.0,2.0,23.0,$12.54,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+767.0,0.0,2016.0,2.0,25.0,$176.71,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+767.0,0.0,2017.0,5.0,2.0,$3.04,Swipe Transaction,Convenience Store Chain 1,Simi Valley,CA,93065.0,5499.0,Yes
+767.0,0.0,2017.0,5.0,3.0,$203.78,Chip Transaction,Car Rental Company 2,Simi Valley,CA,93065.0,3389.0,Yes
+767.0,0.0,2017.0,5.0,3.0,$28.00,Chip Transaction,Abdullahs Simi Valley Wholesale,Simi Valley,CA,93065.0,5300.0,Yes
+767.0,0.0,2017.0,5.0,3.0,$325.24,Swipe Transaction,Hotel and Resort Company 2,Simi Valley,CA,93065.0,3504.0,Yes
+768.0,0.0,2002.0,10.0,8.0,$157.32,Online Transaction,Department Store 8,ONLINE,CA,51694.67689524219,5311.0,Yes
+782.0,0.0,2011.0,8.0,24.0,$40.72,Online Transaction,Ride Sharing Company 1,ONLINE,CA,51694.67689524219,4121.0,Yes
+782.0,0.0,2011.0,8.0,24.0,$23.97,Online Transaction,Software-Hardware Company 4,ONLINE,CA,51694.67689524219,5045.0,Yes
+782.0,1.0,2019.0,4.0,1.0,$277.88,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+782.0,1.0,2019.0,4.0,1.0,$301.72,Swipe Transaction,High End Goods Store 2,Womelsdorf,PA,19567.0,5719.0,Yes
+782.0,1.0,2019.0,4.0,1.0,$6.51,Chip Transaction,Pharmacy Company 1,Hatfield,PA,19440.0,5912.0,Yes
+782.0,1.0,2019.0,4.0,1.0,$93.99,Swipe Transaction,Walk-in Casino 8,Atlantic City,NJ,8401.0,7995.0,Yes
+783.0,0.0,2014.0,10.0,19.0,$241.65,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+785.0,2.0,2016.0,9.0,27.0,$5.30,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+785.0,2.0,2016.0,9.0,27.0,$106.49,Online Transaction,Discount Store 1,ONLINE,CA,51694.67689524219,5310.0,Yes
+785.0,2.0,2016.0,9.0,27.0,$202.03,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+806.0,0.0,2012.0,7.0,8.0,$718.77,Swipe Transaction,Aylas Lodge,Amman,Jordan,51694.67689524219,7011.0,Yes
+810.0,1.0,2011.0,12.0,21.0,$208.48,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+810.0,1.0,2011.0,12.0,21.0,$36.05,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+810.0,1.0,2011.0,12.0,21.0,$86.68,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+810.0,1.0,2011.0,12.0,21.0,$98.27,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+812.0,3.0,2015.0,1.0,12.0,$34.13,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+812.0,3.0,2015.0,1.0,12.0,$89.62,Online Transaction,Discount Store 5,ONLINE,CA,51694.67689524219,5310.0,Yes
+812.0,3.0,2015.0,1.0,12.0,$106.69,Online Transaction,Software-Hardware Company 4,ONLINE,CA,51694.67689524219,5045.0,Yes
+819.0,0.0,2016.0,2.0,22.0,$30.68,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+819.0,0.0,2016.0,2.0,22.0,$85.65,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+822.0,0.0,2019.0,3.0,25.0,$69.21,Chip Transaction,Money Transfer Company 1,Lansdale,PA,19446.0,4829.0,Yes
+822.0,0.0,2019.0,3.0,25.0,$20.17,Chip Transaction,Giovannis Apothecary,Hatfield,PA,19440.0,5912.0,Yes
+822.0,0.0,2019.0,3.0,25.0,$19.39,Chip Transaction,Supermarket Chain 1,Hatfield,PA,19440.0,5411.0,Yes
+831.0,3.0,2012.0,3.0,27.0,$57.98,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+832.0,0.0,2016.0,9.0,25.0,$59.26,Chip Transaction,Stetsons Caracas Clothing,Caracas,Venezuela,51694.67689524219,5651.0,Yes
+832.0,0.0,2016.0,9.0,25.0,$73.80,Online Transaction,High End Goods Store 1,ONLINE,CA,51694.67689524219,5719.0,Yes
+832.0,0.0,2016.0,9.0,25.0,$211.43,Online Transaction,Online Retailer 1,ONLINE,CA,51694.67689524219,5311.0,Yes
+835.0,4.0,2009.0,3.0,7.0,$20.05,Swipe Transaction,Gas Station Company 1,Istanbul,Turkey,51694.67689524219,5541.0,Yes
+838.0,0.0,2008.0,6.0,22.0,$28.24,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+838.0,0.0,2008.0,6.0,23.0,$63.80,Swipe Transaction,Department Store 11,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+838.0,0.0,2008.0,6.0,24.0,$142.56,Swipe Transaction,Fast Food Chain 5,Istanbul,Turkey,51694.67689524219,5814.0,Yes
+838.0,0.0,2008.0,6.0,26.0,$17.33,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+838.0,0.0,2008.0,6.0,29.0,$12.90,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+839.0,0.0,2008.0,10.0,19.0,$9.44,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+839.0,0.0,2008.0,10.0,19.0,$0.14,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+839.0,0.0,2008.0,10.0,19.0,$80.05,Swipe Transaction,Sues Furniture,Istanbul,Turkey,51694.67689524219,5712.0,Yes
+845.0,0.0,2012.0,3.0,13.0,$39.20,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+860.0,0.0,2019.0,4.0,13.0,$102.14,Chip Transaction,Sheilas Hotel and Casino,Hatfield,PA,19440.0,7995.0,Yes
+860.0,0.0,2019.0,4.0,13.0,$33.45,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+860.0,0.0,2019.0,4.0,13.0,$48.35,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+860.0,0.0,2019.0,4.0,14.0,$1.28,Chip Transaction,Reed Sandals and Shoes,Hatfield,PA,19440.0,5661.0,Yes
+860.0,0.0,2019.0,4.0,14.0,$71.79,Swipe Transaction,Rail Company 1,Birdsboro,PA,19508.0,4112.0,Yes
+860.0,0.0,2019.0,4.0,15.0,$141.16,Swipe Transaction,Robinson Jewelry,Hatfield,PA,19440.0,5094.0,Yes
+860.0,0.0,2019.0,4.0,15.0,$54.77,Swipe Transaction,High End Goods Store 2,Womelsdorf,PA,19567.0,5719.0,Yes
+865.0,1.0,2014.0,9.0,2.0,$6.68,Online Transaction,Department Store 4,ONLINE,CA,51694.67689524219,5311.0,Yes
+874.0,0.0,2016.0,3.0,8.0,$23.97,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+874.0,0.0,2017.0,2.0,3.0,$57.51,Chip Transaction,Clothing Store 3,Santa Barbara,CA,93103.0,5651.0,Yes
+874.0,0.0,2017.0,2.0,3.0,$140.86,Chip Transaction,Abe Hotel and Casino,Simi Valley,CA,93065.0,7995.0,Yes
+874.0,0.0,2017.0,2.0,3.0,$89.36,Chip Transaction,Department Store 2,Simi Valley,CA,93065.0,5311.0,Yes
+874.0,0.0,2017.0,2.0,3.0,$206.23,Swipe Transaction,Abe Chic Boutique,Simi Valley,CA,93065.0,5621.0,Yes
+874.0,0.0,2017.0,2.0,7.0,$241.15,Chip Transaction,Abdullahs Simi Valley Wholesale,Simi Valley,CA,93065.0,5300.0,Yes
+874.0,0.0,2019.0,6.0,17.0,$105.71,Swipe Transaction,Phone Service Provider 3,Phoenixville,PA,19460.0,4814.0,Yes
+874.0,0.0,2019.0,6.0,17.0,$0.89,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+875.0,4.0,2003.0,3.0,29.0,$10.82,Online Transaction,Digital Content Company 1,ONLINE,CA,51694.67689524219,5815.0,Yes
+875.0,4.0,2003.0,3.0,29.0,$66.53,Online Transaction,Cosmetics Store 1,ONLINE,CA,51694.67689524219,5977.0,Yes
+875.0,4.0,2003.0,3.0,30.0,$88.01,Online Transaction,Car Rental Company 3,ONLINE,CA,51694.67689524219,3387.0,Yes
+875.0,4.0,2003.0,3.0,30.0,$0.33,Swipe Transaction,Summers Wholesale,Bogota,Colombia,51694.67689524219,5310.0,Yes
+875.0,4.0,2003.0,3.0,30.0,$79.42,Online Transaction,Department Store 10,ONLINE,CA,51694.67689524219,5311.0,Yes
+875.0,4.0,2003.0,3.0,31.0,$13.93,Swipe Transaction,King Grocery,Bogota,Colombia,51694.67689524219,5411.0,Yes
+879.0,1.0,2019.0,9.0,17.0,$5.86,Chip Transaction,Eddies Wholesale,Georgetown,Guyana,51694.67689524219,5310.0,Yes
+880.0,0.0,2014.0,4.0,4.0,$25.52,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+886.0,2.0,2016.0,9.0,27.0,$62.75,Chip Transaction,Hotel and Resort Company 7,Lincolnwood,IL,60712.0,3730.0,Yes
+886.0,3.0,2006.0,3.0,25.0,$92.83,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+886.0,3.0,2006.0,3.0,25.0,$64.16,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+886.0,3.0,2006.0,3.0,25.0,$0.73,Online Transaction,Pharmacy Company 1,ONLINE,CA,51694.67689524219,5912.0,Yes
+921.0,1.0,2011.0,9.0,5.0,$6.50,Online Transaction,Delivery Company 2,ONLINE,CA,51694.67689524219,4214.0,Yes
+925.0,4.0,2001.0,7.0,25.0,$211.37,Online Transaction,Department Store 10,ONLINE,CA,51694.67689524219,5311.0,Yes
+925.0,4.0,2001.0,7.0,26.0,$110.21,Online Transaction,Clothing Store 4,ONLINE,CA,51694.67689524219,5651.0,Yes
+928.0,3.0,2014.0,12.0,4.0,$171.32,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+928.0,4.0,2012.0,6.0,7.0,$42.51,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+928.0,4.0,2012.0,6.0,22.0,$0.07,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+936.0,0.0,2011.0,12.0,31.0,$122.93,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+936.0,0.0,2011.0,12.0,31.0,$89.96,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+936.0,0.0,2012.0,1.0,4.0,$89.16,Swipe Transaction,Perez Package Store,Amman,Jordan,51694.67689524219,5921.0,Yes
+945.0,0.0,2014.0,7.0,17.0,$86.81,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+945.0,0.0,2014.0,7.0,20.0,$0.09,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+945.0,0.0,2014.0,7.0,20.0,$75.36,Online Transaction,Department Store 10,ONLINE,CA,51694.67689524219,5311.0,Yes
+945.0,0.0,2014.0,7.0,20.0,$72.44,Online Transaction,Auto Parts Company 4,ONLINE,CA,51694.67689524219,5533.0,Yes
+945.0,0.0,2014.0,7.0,20.0,$0.52,Online Transaction,Bookstore Company 1,ONLINE,CA,51694.67689524219,5942.0,Yes
+953.0,5.0,2009.0,9.0,10.0,$54.62,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+953.0,5.0,2009.0,9.0,10.0,$105.25,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+953.0,5.0,2009.0,9.0,10.0,$0.54,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+953.0,5.0,2009.0,9.0,12.0,$92.22,Swipe Transaction,Gas Station Company 1,Istanbul,Turkey,51694.67689524219,5541.0,Yes
+954.0,2.0,2016.0,2.0,20.0,$130.41,Chip Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+954.0,2.0,2016.0,2.0,22.0,$73.13,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+954.0,2.0,2016.0,2.0,23.0,$309.41,Chip Transaction,Millies Fine Jewelry,Sofia,Bulgaria,51694.67689524219,5094.0,Yes
+956.0,0.0,2013.0,2.0,7.0,$4.96,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+956.0,0.0,2013.0,2.0,8.0,$208.69,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+956.0,0.0,2013.0,2.0,8.0,$391.79,Swipe Transaction,Franklins Jewelry,Tegucigalpa,Honduras,51694.67689524219,5094.0,Yes
+969.0,2.0,2009.0,2.0,4.0,$95.70,Swipe Transaction,Santoss Istanbul Jewelry,Istanbul,Turkey,51694.67689524219,5094.0,Yes
+969.0,2.0,2009.0,2.0,4.0,$3.14,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+969.0,2.0,2009.0,2.0,4.0,$2.12,Swipe Transaction,Delivery Company 1,Istanbul,Turkey,51694.67689524219,4214.0,Yes
+969.0,2.0,2009.0,2.0,4.0,$1.61,Swipe Transaction,Restaurant Chain 5,Istanbul,Turkey,51694.67689524219,5812.0,Yes
+969.0,2.0,2014.0,8.0,21.0,$71.47,Swipe Transaction,Carter Restaurant,Mexico City,Mexico,51694.67689524219,5812.0,Yes
+969.0,2.0,2014.0,8.0,21.0,$43.87,Online Transaction,Department Store 3,ONLINE,CA,51694.67689524219,5311.0,Yes
+969.0,5.0,2016.0,1.0,19.0,$144.65,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+984.0,0.0,2012.0,7.0,12.0,$105.04,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+984.0,0.0,2012.0,7.0,17.0,$117.81,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+984.0,0.0,2012.0,7.0,18.0,$83.99,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+985.0,3.0,2016.0,11.0,22.0,$2.95,Chip Transaction,Angelicas Simi Valley Restaurant,Simi Valley,CA,93065.0,5812.0,Yes
+985.0,3.0,2016.0,11.0,22.0,$285.84,Chip Transaction,Rodriguez Theatre,Simi Valley,CA,93065.0,7922.0,Yes
+985.0,3.0,2016.0,11.0,23.0,$35.76,Swipe Transaction,Supermarket Chain 2,Simi Valley,CA,93065.0,5411.0,Yes
+994.0,0.0,2017.0,1.0,4.0,$23.78,Swipe Transaction,Abe Pharmacy,Simi Valley,CA,93065.0,5912.0,Yes
+994.0,0.0,2017.0,1.0,4.0,$112.70,Swipe Transaction,Alexias Chiropractors,Simi Valley,CA,93065.0,8041.0,Yes
+994.0,0.0,2017.0,1.0,4.0,$157.02,Chip Transaction,Abe Grocery,Simi Valley,CA,93065.0,5411.0,Yes
+996.0,8.0,2003.0,5.0,11.0,$25.36,Online Transaction,Delivery Company 1,ONLINE,CA,51694.67689524219,4214.0,Yes
+996.0,8.0,2003.0,5.0,11.0,$59.24,Swipe Transaction,James Bogota Limousine,Bogota,Colombia,51694.67689524219,4121.0,Yes
+998.0,3.0,2012.0,3.0,21.0,$68.06,Swipe Transaction,Alizas Drugs,Amman,Jordan,51694.67689524219,5912.0,Yes
+998.0,3.0,2012.0,3.0,21.0,$0.70,Swipe Transaction,Turner Gourmet Supplies,Amman,Jordan,51694.67689524219,5411.0,Yes
+998.0,3.0,2012.0,3.0,25.0,$41.28,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+1000.0,3.0,2017.0,6.0,29.0,$20.71,Chip Transaction,Anderson Wholesale,Kiev,Ukraine,51694.67689524219,5310.0,Yes
+1000.0,3.0,2017.0,6.0,30.0,$20.84,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1006.0,0.0,2014.0,6.0,13.0,$88.64,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+1006.0,0.0,2014.0,6.0,16.0,$0.35,Online Transaction,Airline Company 4,ONLINE,CA,51694.67689524219,3256.0,Yes
+1006.0,0.0,2014.0,6.0,16.0,$13.79,Swipe Transaction,Department Store 11,Delhi,India,51694.67689524219,5311.0,Yes
+1006.0,5.0,2011.0,9.0,19.0,$61.71,Online Transaction,Department Store 7,ONLINE,CA,51694.67689524219,5311.0,Yes
+1019.0,3.0,2007.0,6.0,28.0,$59.30,Swipe Transaction,Bookstore Company 1,Macon,GA,31204.0,5942.0,Yes
+1019.0,3.0,2007.0,6.0,29.0,$7.37,Swipe Transaction,Amalgamated Limousine,Macon,GA,31201.0,4121.0,Yes
+1019.0,3.0,2007.0,6.0,29.0,$74.92,Swipe Transaction,Amalgamated Limousine,Macon,GA,31201.0,4121.0,Yes
+1019.0,3.0,2007.0,7.0,1.0,$202.10,Online Transaction,Online Casino 4,ONLINE,CA,51694.67689524219,7801.0,Yes
+1019.0,3.0,2007.0,7.0,1.0,$34.29,Swipe Transaction,Damaris Macon Discount Emporium,Macon,GA,31204.0,5310.0,Yes
+1019.0,3.0,2007.0,7.0,1.0,$137.18,Swipe Transaction,Department Store 6,Macon,GA,31204.0,5311.0,Yes
+1027.0,3.0,2006.0,2.0,10.0,$37.12,Swipe Transaction,Discount Store 1,Mayville,WI,53050.0,5310.0,Yes
+1027.0,3.0,2006.0,2.0,10.0,$13.18,Online Transaction,Home Improvement Store 2,ONLINE,CA,51694.67689524219,5211.0,Yes
+1034.0,1.0,2017.0,1.0,6.0,$535.80,Chip Transaction,High End Goods Store 1,Simi Valley,CA,93065.0,5719.0,Yes
+1034.0,1.0,2017.0,1.0,6.0,$191.22,Chip Transaction,Airline Company 2,Woodlake,CA,93286.0,3058.0,Yes
+1034.0,1.0,2017.0,1.0,10.0,$132.08,Swipe Transaction,Abe Pharmacy,Simi Valley,CA,93065.0,5912.0,Yes
+1034.0,1.0,2017.0,1.0,11.0,$122.00,Chip Transaction,Money Transfer Company 1,Simi Valley,CA,93065.0,4829.0,Yes
+1034.0,1.0,2017.0,1.0,11.0,$1.35,Chip Transaction,Barnes Old-Fashioned Things,Simi Valley,CA,93065.0,5932.0,Yes
+1036.0,1.0,2020.0,2.0,9.0,$146.19,Online Transaction,Online Casino 4,ONLINE,CA,51694.67689524219,7801.0,Yes
+1054.0,1.0,2009.0,6.0,24.0,$78.20,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1054.0,1.0,2009.0,6.0,24.0,$50.11,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+1054.0,1.0,2009.0,6.0,27.0,$18.02,Swipe Transaction,Convenience Store Chain 1,Istanbul,Turkey,51694.67689524219,5499.0,Yes
+1054.0,7.0,2007.0,6.0,6.0,$74.22,Swipe Transaction,Phone Service Provider 2,Macon,GA,31206.0,4814.0,Yes
+1057.0,4.0,2011.0,11.0,7.0,$664.27,Swipe Transaction,Franklins Jewelry,Tegucigalpa,Honduras,51694.67689524219,5094.0,Yes
+1057.0,4.0,2011.0,11.0,7.0,$169.01,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1061.0,0.0,2011.0,9.0,22.0,$185.09,Swipe Transaction,Alizas Drugs,Amman,Jordan,51694.67689524219,5912.0,Yes
+1061.0,0.0,2011.0,9.0,22.0,$103.08,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+1072.0,2.0,2011.0,9.0,12.0,$48.77,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1072.0,2.0,2011.0,9.0,12.0,$2.67,Online Transaction,Pharmacy Company 2,ONLINE,CA,51694.67689524219,5912.0,Yes
+1072.0,2.0,2011.0,9.0,12.0,$69.75,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1073.0,0.0,2012.0,6.0,12.0,$97.85,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1073.0,0.0,2012.0,6.0,14.0,$153.69,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1073.0,0.0,2012.0,6.0,14.0,$13.48,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1075.0,0.0,2016.0,11.0,27.0,$34.96,Chip Transaction,High End Goods Store 1,Simi Valley,CA,93065.0,5719.0,Yes
+1075.0,0.0,2016.0,11.0,27.0,$447.82,Swipe Transaction,Abe Clothing,Simi Valley,CA,93065.0,5651.0,Yes
+1075.0,0.0,2016.0,11.0,27.0,$12.22,Chip Transaction,Diaz Ale House,Simi Valley,CA,93065.0,5813.0,Yes
+1105.0,1.0,2009.0,7.0,15.0,$0.57,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+1105.0,1.0,2009.0,7.0,15.0,$179.98,Swipe Transaction,Clothing Store 1,Istanbul,Turkey,51694.67689524219,5651.0,Yes
+1105.0,1.0,2012.0,4.0,12.0,$117.71,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1105.0,1.0,2012.0,4.0,12.0,$189.09,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1105.0,1.0,2012.0,4.0,14.0,$15.06,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1105.0,1.0,2012.0,4.0,14.0,$2.17,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1112.0,0.0,2016.0,3.0,24.0,$302.09,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1114.0,0.0,2007.0,4.0,30.0,$916.81,Swipe Transaction,Allen Wholesale,Macon,GA,31201.0,5300.0,Yes
+1114.0,0.0,2007.0,4.0,30.0,$121.19,Swipe Transaction,Walk-in Casino 8,Atlantic City,NJ,8401.0,7995.0,Yes
+1114.0,0.0,2016.0,11.0,2.0,$443.11,Online Transaction,Furnishings Company 1,ONLINE,CA,51694.67689524219,5712.0,Yes
+1114.0,0.0,2016.0,11.0,2.0,$62.99,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+1114.0,4.0,2014.0,6.0,27.0,$0.46,Swipe Transaction,Campbell Grocery,Delhi,India,51694.67689524219,5411.0,Yes
+1114.0,4.0,2014.0,6.0,28.0,$460.33,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1114.0,4.0,2014.0,6.0,28.0,$181.49,Online Transaction,Department Store 11,ONLINE,CA,51694.67689524219,5311.0,Yes
+1123.0,2.0,2012.0,11.0,24.0,$170.65,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1123.0,2.0,2012.0,11.0,24.0,$79.70,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1125.0,3.0,2016.0,8.0,16.0,$2.21,Chip Transaction,Raydens Limousine,Caracas,Venezuela,51694.67689524219,4121.0,Yes
+1125.0,3.0,2016.0,8.0,16.0,$61.85,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,Yes
+1125.0,3.0,2016.0,8.0,16.0,$170.65,Chip Transaction,Georgias Wholesale,Caracas,Venezuela,51694.67689524219,5310.0,Yes
+1130.0,0.0,2014.0,7.0,25.0,$111.64,Swipe Transaction,Kailanis Delhi Drugs,Delhi,India,51694.67689524219,5912.0,Yes
+1130.0,0.0,2014.0,7.0,27.0,$85.09,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1130.0,0.0,2014.0,7.0,27.0,$0.64,Swipe Transaction,Campbell Grocery,Delhi,India,51694.67689524219,5411.0,Yes
+1130.0,0.0,2014.0,7.0,27.0,$24.82,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+1130.0,0.0,2014.0,7.0,28.0,$21.33,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1134.0,3.0,2016.0,3.0,22.0,$77.89,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1134.0,3.0,2016.0,3.0,28.0,$88.25,Chip Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+1156.0,4.0,2019.0,7.0,7.0,$0.64,Chip Transaction,Brookss Bar,Hatfield,PA,19440.0,5813.0,Yes
+1156.0,4.0,2019.0,7.0,7.0,$12.54,Chip Transaction,Gas Station Company 1,Hatfield,PA,19440.0,5541.0,Yes
+1156.0,4.0,2019.0,7.0,7.0,$270.04,Swipe Transaction,Robinson Jewelry,Hatfield,PA,19440.0,5094.0,Yes
+1157.0,0.0,2011.0,7.0,11.0,$24.54,Online Transaction,Discount Store 1,ONLINE,CA,51694.67689524219,5310.0,Yes
+1157.0,0.0,2011.0,7.0,11.0,$1.35,Online Transaction,Department Store 8,ONLINE,CA,51694.67689524219,5311.0,Yes
+1157.0,0.0,2011.0,7.0,11.0,$5.29,Swipe Transaction,Moore Wine and Liquor,Moscow,Russia,51694.67689524219,5921.0,Yes
+1157.0,0.0,2011.0,7.0,13.0,$26.80,Swipe Transaction,Reyes Wholesale,Moscow,Russia,51694.67689524219,5310.0,Yes
+1157.0,0.0,2011.0,7.0,13.0,$114.83,Swipe Transaction,Moore Wine and Liquor,Moscow,Russia,51694.67689524219,5921.0,Yes
+1157.0,0.0,2011.0,7.0,13.0,$15.85,Online Transaction,Discount Store 4,ONLINE,CA,51694.67689524219,5310.0,Yes
+1157.0,0.0,2011.0,7.0,13.0,$61.29,Online Transaction,Online Retailer 1,ONLINE,CA,51694.67689524219,5311.0,Yes
+1163.0,5.0,2011.0,11.0,22.0,$195.63,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+1163.0,5.0,2011.0,11.0,23.0,$101.16,Swipe Transaction,Turner Gourmet Supplies,Amman,Jordan,51694.67689524219,5411.0,Yes
+1175.0,1.0,2016.0,2.0,16.0,$231.91,Chip Transaction,Millies Fine Jewelry,Sofia,Bulgaria,51694.67689524219,5094.0,Yes
+1175.0,1.0,2016.0,3.0,19.0,$1.92,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1175.0,1.0,2016.0,3.0,22.0,$301.12,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1184.0,3.0,2011.0,12.0,12.0,$41.68,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+1184.0,3.0,2011.0,12.0,12.0,$15.12,Swipe Transaction,Kaiyas Gently Used Clothes,Moscow,Russia,51694.67689524219,5651.0,Yes
+1184.0,3.0,2011.0,12.0,14.0,$0.27,Online Transaction,Pharmacy Company 1,ONLINE,CA,51694.67689524219,5912.0,Yes
+1184.0,3.0,2011.0,12.0,14.0,$3.97,Online Transaction,Department Store 5,ONLINE,CA,51694.67689524219,5311.0,Yes
+1189.0,2.0,2019.0,6.0,17.0,$125.21,Chip Transaction,Department Store 3,Lansdale,PA,19446.0,5311.0,Yes
+1189.0,2.0,2019.0,6.0,17.0,$59.80,Chip Transaction,Money Transfer Company 1,Lansdale,PA,19446.0,4829.0,Yes
+1189.0,2.0,2019.0,6.0,17.0,$40.60,Chip Transaction,Wholesale Club 1,North Wales,PA,19454.0,5300.0,Yes
+1189.0,2.0,2019.0,6.0,17.0,$66.97,Chip Transaction,Money Transfer Company 1,Lansdale,PA,19446.0,4829.0,Yes
+1191.0,0.0,2017.0,5.0,5.0,$213.17,Chip Transaction,Restaurant Chain 1,Simi Valley,CA,93065.0,5812.0,Yes
+1199.0,0.0,2013.0,11.0,17.0,$1.42,Online Transaction,Airline Company 4,ONLINE,CA,51694.67689524219,3256.0,Yes
+1199.0,0.0,2013.0,11.0,17.0,$1.42,Online Transaction,Fast Food Chain 16,ONLINE,CA,51694.67689524219,5814.0,Yes
+1199.0,0.0,2013.0,11.0,21.0,$56.06,Online Transaction,Pharmacy Company 4,ONLINE,CA,51694.67689524219,5912.0,Yes
+1199.0,0.0,2013.0,11.0,21.0,$11.05,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1201.0,1.0,2015.0,11.0,18.0,$152.67,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1201.0,1.0,2015.0,11.0,18.0,$50.94,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1201.0,5.0,2012.0,3.0,14.0,$104.10,Swipe Transaction,Alizas Drugs,Amman,Jordan,51694.67689524219,5912.0,Yes
+1206.0,2.0,2012.0,3.0,20.0,$54.42,Swipe Transaction,Collins Car Service,Tegucigalpa,Honduras,51694.67689524219,4121.0,Yes
+1206.0,2.0,2012.0,3.0,20.0,$7.13,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1207.0,0.0,2012.0,7.0,4.0,$74.66,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1207.0,0.0,2012.0,7.0,4.0,$63.96,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1207.0,1.0,2014.0,4.0,17.0,$0.33,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+1210.0,0.0,2007.0,4.0,19.0,$192.49,Swipe Transaction,Allen Wholesale,Macon,GA,31201.0,5300.0,Yes
+1210.0,0.0,2007.0,4.0,19.0,$14.36,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,Yes
+1210.0,0.0,2007.0,4.0,19.0,$190.97,Swipe Transaction,Cosmetics Store 1,Ocean View,HI,96737.0,5977.0,Yes
+1214.0,3.0,2014.0,10.0,20.0,$99.09,Online Transaction,Pharmacy Company 2,ONLINE,CA,51694.67689524219,5912.0,Yes
+1220.0,1.0,2006.0,4.0,15.0,$6.47,Online Transaction,Bookstore Company 1,ONLINE,CA,51694.67689524219,5942.0,Yes
+1220.0,1.0,2006.0,4.0,15.0,$13.78,Online Transaction,Digital Content Company 1,ONLINE,CA,51694.67689524219,5815.0,Yes
+1220.0,1.0,2006.0,4.0,15.0,$10.74,Online Transaction,Software-Hardware Company 2,ONLINE,CA,51694.67689524219,5045.0,Yes
+1220.0,1.0,2006.0,4.0,15.0,$53.07,Online Transaction,High End Goods Store 1,ONLINE,CA,51694.67689524219,5719.0,Yes
+1226.0,6.0,2020.0,1.0,8.0,$239.62,Online Transaction,Software-Hardware Company 1,ONLINE,CA,51694.67689524219,5045.0,Yes
+1226.0,6.0,2020.0,1.0,8.0,$144.03,Online Transaction,Ticket Seller 1,ONLINE,CA,51694.67689524219,7922.0,Yes
+1226.0,6.0,2020.0,1.0,8.0,$89.85,Chip Transaction,Alainas Family Clothing,Saint Louis,MO,63146.0,5651.0,Yes
+1233.0,3.0,2003.0,5.0,4.0,$138.16,Swipe Transaction,Janiyahs Beverages,Bogota,Colombia,51694.67689524219,5921.0,Yes
+1233.0,3.0,2003.0,5.0,4.0,$70.30,Swipe Transaction,Paityns Jewelers,Bogota,Colombia,51694.67689524219,5094.0,Yes
+1233.0,3.0,2003.0,5.0,4.0,$22.61,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1233.0,5.0,2012.0,8.0,28.0,$224.37,Swipe Transaction,Spencers Furnishings,Tegucigalpa,Honduras,51694.67689524219,5712.0,Yes
+1233.0,5.0,2012.0,8.0,30.0,$234.77,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1236.0,2.0,2019.0,6.0,15.0,$0.45,Swipe Transaction,High End Goods Store 2,Womelsdorf,PA,19567.0,5719.0,Yes
+1240.0,1.0,2012.0,11.0,1.0,$78.17,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+1241.0,2.0,2012.0,9.0,12.0,$61.34,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1241.0,2.0,2012.0,9.0,13.0,$89.10,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1243.0,1.0,2015.0,11.0,27.0,$15.51,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1243.0,5.0,2012.0,2.0,11.0,$9.01,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1243.0,5.0,2012.0,2.0,14.0,$3.40,Online Transaction,Clothing Store 2,ONLINE,CA,51694.67689524219,5651.0,Yes
+1243.0,5.0,2012.0,2.0,14.0,$0.46,Online Transaction,Pharmacy Company 3,ONLINE,CA,51694.67689524219,5912.0,Yes
+1243.0,5.0,2012.0,2.0,14.0,$17.84,Online Transaction,Clothing Store 2,ONLINE,CA,51694.67689524219,5651.0,Yes
+1263.0,1.0,2006.0,6.0,10.0,$8.56,Online Transaction,Digital Content Company 1,ONLINE,CA,51694.67689524219,5815.0,Yes
+1263.0,1.0,2006.0,6.0,10.0,$235.04,Online Transaction,Discount Store 5,ONLINE,CA,51694.67689524219,5310.0,Yes
+1268.0,0.0,2007.0,5.0,5.0,$24.32,Swipe Transaction,Wholesale Club 1,Coshocton,OH,43812.0,5300.0,Yes
+1268.0,0.0,2007.0,5.0,9.0,$191.01,Swipe Transaction,Department Store 1,Zanesville,OH,43701.0,5311.0,Yes
+1268.0,0.0,2007.0,5.0,9.0,$64.68,Swipe Transaction,Airline Company 4,Mogadore,OH,44260.0,3256.0,Yes
+1268.0,0.0,2007.0,5.0,9.0,$33.58,Swipe Transaction,Acme Grocery,Zanesville,OH,43701.0,5411.0,Yes
+1268.0,0.0,2007.0,5.0,11.0,$31.30,Swipe Transaction,Aniyahs Bar,Zanesville,OH,43701.0,5813.0,Yes
+1278.0,4.0,2001.0,5.0,13.0,$713.99,Online Transaction,Cruise Line 1,ONLINE,CA,51694.67689524219,4411.0,Yes
+1278.0,4.0,2001.0,5.0,27.0,$11.92,Swipe Transaction,High End Goods Store 1,Johannesberg,South Africa,51694.67689524219,5719.0,Yes
+1285.0,1.0,2011.0,8.0,12.0,$34.58,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1285.0,1.0,2011.0,8.0,12.0,$48.30,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+1285.0,1.0,2011.0,8.0,12.0,$20.66,Online Transaction,Online Retailer 2,ONLINE,CA,51694.67689524219,5311.0,Yes
+1285.0,1.0,2011.0,8.0,12.0,$85.07,Online Transaction,Fast Food Chain 16,ONLINE,CA,51694.67689524219,5814.0,Yes
+1285.0,1.0,2011.0,8.0,15.0,$0.53,Online Transaction,Department Store 6,ONLINE,CA,51694.67689524219,5311.0,Yes
+1288.0,3.0,2016.0,10.0,2.0,$38.82,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1289.0,6.0,2020.0,2.0,5.0,$196.81,Chip Transaction,Walk-in Casino 1,Thackerville,OK,73459.0,7995.0,Yes
+1289.0,6.0,2020.0,2.0,7.0,$74.88,Chip Transaction,Supermarket Chain 3,Saint Louis,MO,63146.0,5411.0,Yes
+1289.0,6.0,2020.0,2.0,7.0,$13.60,Chip Transaction,Pharmacy Company 1,Saint Louis,MO,63146.0,5912.0,Yes
+1291.0,3.0,2008.0,9.0,13.0,$25.53,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+1300.0,3.0,2015.0,1.0,30.0,$84.06,Online Transaction,Department Store 3,ONLINE,CA,51694.67689524219,5311.0,Yes
+1300.0,3.0,2015.0,1.0,31.0,$146.43,Online Transaction,Department Store 11,ONLINE,CA,51694.67689524219,5311.0,Yes
+1300.0,3.0,2015.0,1.0,31.0,$14.27,Online Transaction,Delivery Company 1,ONLINE,CA,51694.67689524219,4214.0,Yes
+1300.0,3.0,2015.0,1.0,31.0,$87.34,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+1300.0,3.0,2015.0,2.0,2.0,$260.27,Chip Transaction,Hotel and Resort Company 4,Mexico City,Mexico,51694.67689524219,3684.0,Yes
+1301.0,1.0,2016.0,10.0,23.0,$35.15,Online Transaction,Department Store 2,ONLINE,CA,51694.67689524219,5311.0,Yes
+1301.0,3.0,2008.0,9.0,28.0,$7.36,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+1301.0,4.0,2014.0,8.0,1.0,$151.77,Swipe Transaction,Wholesale Club 1,Mexico City,Mexico,51694.67689524219,5300.0,Yes
+1301.0,4.0,2014.0,8.0,1.0,$59.85,Online Transaction,Shoe Retailer 1,ONLINE,CA,51694.67689524219,5661.0,Yes
+1301.0,4.0,2014.0,8.0,1.0,$646.24,Online Transaction,Hotel and Resort Company 7,ONLINE,CA,51694.67689524219,3730.0,Yes
+1301.0,4.0,2014.0,8.0,3.0,$93.17,Online Transaction,Home Improvement Store 2,ONLINE,CA,51694.67689524219,5211.0,Yes
+1301.0,4.0,2014.0,8.0,3.0,$68.83,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+1306.0,6.0,2011.0,10.0,22.0,$61.54,Swipe Transaction,Helenas Taxi,Amman,Jordan,51694.67689524219,4121.0,Yes
+1312.0,3.0,2016.0,7.0,27.0,$60.06,Chip Transaction,Mylahs Womens Apparel,Caracas,Venezuela,51694.67689524219,5621.0,Yes
+1312.0,3.0,2016.0,7.0,31.0,$94.42,Online Transaction,Online Retailer 2,ONLINE,CA,51694.67689524219,5311.0,Yes
+1312.0,3.0,2016.0,7.0,31.0,$63.85,Chip Transaction,Georgias Wholesale,Caracas,Venezuela,51694.67689524219,5310.0,Yes
+1314.0,5.0,2002.0,2.0,14.0,$5.04,Swipe Transaction,Lucass Johannesberg Rx,Johannesberg,South Africa,51694.67689524219,5912.0,Yes
+1314.0,5.0,2002.0,2.0,14.0,$14.18,Swipe Transaction,Abe Furnishings,Johannesberg,South Africa,51694.67689524219,5712.0,Yes
+1314.0,5.0,2002.0,2.0,14.0,$118.89,Swipe Transaction,Morris Family Clothing,Johannesberg,South Africa,51694.67689524219,5651.0,Yes
+1314.0,5.0,2002.0,2.0,15.0,$117.59,Online Transaction,Discount Store 1,ONLINE,CA,51694.67689524219,5310.0,Yes
+1314.0,5.0,2002.0,2.0,15.0,$255.79,Swipe Transaction,High End Goods Store 1,Johannesberg,South Africa,51694.67689524219,5719.0,Yes
+1320.0,2.0,2016.0,1.0,5.0,$95.02,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1325.0,4.0,2015.0,1.0,6.0,$7.29,Online Transaction,Department Store 1,ONLINE,CA,51694.67689524219,5311.0,Yes
+1325.0,4.0,2015.0,1.0,10.0,$5.29,Online Transaction,Discount Store 3,ONLINE,CA,51694.67689524219,5310.0,Yes
+1327.0,0.0,2008.0,11.0,29.0,$7.68,Swipe Transaction,Clothing Store 1,Istanbul,Turkey,51694.67689524219,5651.0,Yes
+1331.0,0.0,2007.0,6.0,18.0,$111.48,Swipe Transaction,High End Goods Store 1,Macon,GA,31205.0,5719.0,Yes
+1337.0,2.0,2016.0,4.0,7.0,$41.97,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1337.0,2.0,2016.0,4.0,14.0,$142.20,Chip Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+1337.0,2.0,2016.0,4.0,16.0,$105.23,Chip Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+1337.0,2.0,2016.0,4.0,16.0,$62.57,Chip Transaction,Allstar Gently Used Clothes,Sofia,Bulgaria,51694.67689524219,5651.0,Yes
+1337.0,2.0,2016.0,4.0,18.0,$1.72,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1340.0,0.0,2016.0,11.0,22.0,$157.26,Chip Transaction,Leroux Caracas Jewelers,Caracas,Venezuela,51694.67689524219,5094.0,Yes
+1344.0,0.0,2016.0,10.0,12.0,$106.48,Online Transaction,Clothing Store 2,ONLINE,CA,51694.67689524219,5651.0,Yes
+1344.0,0.0,2016.0,10.0,12.0,$177.18,Online Transaction,Clothing Store 3,ONLINE,CA,51694.67689524219,5651.0,Yes
+1344.0,0.0,2016.0,10.0,16.0,$61.01,Online Transaction,Crafts Store 1,ONLINE,CA,51694.67689524219,5970.0,Yes
+1344.0,0.0,2016.0,10.0,16.0,$66.99,Chip Transaction,Stetsons Caracas Clothing,Caracas,Venezuela,51694.67689524219,5651.0,Yes
+1344.0,0.0,2016.0,10.0,16.0,$8.83,Online Transaction,Delivery Company 2,ONLINE,CA,51694.67689524219,4214.0,Yes
+1344.0,1.0,2012.0,3.0,21.0,$143.65,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+1344.0,1.0,2012.0,3.0,21.0,$322.54,Swipe Transaction,Aylas Lodge,Amman,Jordan,51694.67689524219,7011.0,Yes
+1345.0,1.0,2019.0,6.0,29.0,$77.16,Chip Transaction,Money Transfer Company 1,Lansdale,PA,19446.0,4829.0,Yes
+1345.0,1.0,2019.0,6.0,29.0,$20.83,Chip Transaction,Pharmacy Company 1,Hatfield,PA,19440.0,5912.0,Yes
+1365.0,3.0,2011.0,10.0,24.0,$36.17,Swipe Transaction,Mackenzies Drycleaning,Moscow,Russia,51694.67689524219,7210.0,Yes
+1365.0,3.0,2011.0,10.0,24.0,$27.22,Swipe Transaction,Roman Salon,Moscow,Russia,51694.67689524219,7230.0,Yes
+1365.0,3.0,2011.0,10.0,24.0,$17.59,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1365.0,3.0,2011.0,10.0,24.0,$87.48,Online Transaction,Rail Company 1,ONLINE,CA,51694.67689524219,4112.0,Yes
+1366.0,1.0,2017.0,1.0,31.0,$54.84,Swipe Transaction,Supermarket Chain 2,Simi Valley,CA,93065.0,5411.0,Yes
+1366.0,1.0,2017.0,1.0,31.0,$39.54,Chip Transaction,Abdullahs Simi Valley Wholesale,Simi Valley,CA,93065.0,5300.0,Yes
+1366.0,1.0,2017.0,1.0,31.0,$222.30,Chip Transaction,Digital Games Company 1,Hanford,CA,93230.0,5816.0,Yes
+1366.0,1.0,2017.0,2.0,2.0,$119.36,Chip Transaction,Rodriguez Theatre,Simi Valley,CA,93065.0,7922.0,Yes
+1366.0,1.0,2017.0,2.0,3.0,$362.03,Chip Transaction,High End Goods Store 1,Simi Valley,CA,93065.0,5719.0,Yes
+1369.0,0.0,2017.0,1.0,24.0,$115.43,Chip Transaction,Wholesale Club 1,Santa Barbara,CA,93101.0,5300.0,Yes
+1369.0,0.0,2017.0,1.0,24.0,$22.07,Chip Transaction,Delivery Company 2,Santa Barbara,CA,93109.0,4214.0,Yes
+1369.0,0.0,2017.0,1.0,25.0,$70.04,Chip Transaction,Abdullahs Simi Valley Wholesale,Simi Valley,CA,93065.0,5300.0,Yes
+1369.0,0.0,2017.0,2.0,8.0,$22.37,Swipe Transaction,Abe Pharmacy,Simi Valley,CA,93065.0,5912.0,Yes
+1369.0,0.0,2017.0,2.0,9.0,$91.06,Swipe Transaction,Convenience Store Chain 1,Simi Valley,CA,93065.0,5499.0,Yes
+1388.0,1.0,2012.0,3.0,24.0,$15.61,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1388.0,1.0,2012.0,3.0,27.0,$95.48,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1390.0,0.0,2019.0,11.0,12.0,$2.43,Swipe Transaction,Ramirez Jewelry,Georgetown,Guyana,51694.67689524219,5094.0,Yes
+1390.0,1.0,2012.0,6.0,26.0,$12.25,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+1391.0,1.0,2016.0,9.0,27.0,$316.91,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1391.0,1.0,2016.0,9.0,28.0,$100.47,Chip Transaction,Masvidal Eats,Caracas,Venezuela,51694.67689524219,5812.0,Yes
+1394.0,0.0,2001.0,9.0,12.0,$18.12,Online Transaction,Delivery Company 1,ONLINE,CA,51694.67689524219,4214.0,Yes
+1394.0,0.0,2001.0,9.0,12.0,$144.35,Swipe Transaction,Department Store 3,Johannesberg,South Africa,51694.67689524219,5311.0,Yes
+1394.0,4.0,2006.0,3.0,8.0,$129.69,Online Transaction,Ride Sharing Company 2,ONLINE,CA,51694.67689524219,4121.0,Yes
+1394.0,4.0,2006.0,3.0,8.0,$110.92,Swipe Transaction,Wood Fine Foods,Antananarivo,Madagascar,51694.67689524219,5411.0,Yes
+1405.0,2.0,2014.0,8.0,7.0,$7.87,Swipe Transaction,Gomez Wholesale,Mexico City,Mexico,51694.67689524219,5310.0,Yes
+1405.0,2.0,2014.0,8.0,7.0,$292.71,Swipe Transaction,Leslies Inn,Mexico City,Mexico,51694.67689524219,7011.0,Yes
+1405.0,2.0,2014.0,8.0,7.0,$38.84,Swipe Transaction,Software-Hardware Company 1,Mexico City,Mexico,51694.67689524219,5045.0,Yes
+1405.0,2.0,2014.0,8.0,8.0,$1.14,Online Transaction,Department Store 6,ONLINE,CA,51694.67689524219,5311.0,Yes
+1405.0,2.0,2014.0,8.0,8.0,$84.42,Swipe Transaction,Gomez Wholesale,Mexico City,Mexico,51694.67689524219,5310.0,Yes
+1416.0,2.0,2016.0,5.0,9.0,$1.49,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1416.0,2.0,2016.0,5.0,14.0,$100.10,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1421.0,0.0,2014.0,5.0,5.0,$203.74,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+1421.0,0.0,2014.0,5.0,8.0,$185.42,Online Transaction,Discount Store 3,ONLINE,CA,51694.67689524219,5310.0,Yes
+1421.0,0.0,2014.0,5.0,11.0,$26.75,Online Transaction,Online Retailer 1,ONLINE,CA,51694.67689524219,5311.0,Yes
+1429.0,1.0,2008.0,11.0,8.0,$48.69,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+1430.0,0.0,2007.0,5.0,2.0,$224.95,Swipe Transaction,High End Goods Store 1,Macon,GA,31205.0,5719.0,Yes
+1430.0,0.0,2007.0,5.0,4.0,$84.62,Online Transaction,Pharmacy Company 3,ONLINE,CA,51694.67689524219,5912.0,Yes
+1430.0,0.0,2007.0,5.0,4.0,$63.19,Swipe Transaction,Restaurant Chain 13,Macon,GA,31204.0,5812.0,Yes
+1430.0,0.0,2007.0,5.0,4.0,$364.72,Swipe Transaction,Hotel and Resort Company 7,Lincolnwood,IL,60712.0,3730.0,Yes
+1436.0,3.0,2014.0,11.0,20.0,$137.97,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1436.0,3.0,2014.0,11.0,20.0,$234.90,Swipe Transaction,Airline Company 12,Mexico City,Mexico,51694.67689524219,3008.0,Yes
+1436.0,3.0,2014.0,11.0,20.0,$71.99,Swipe Transaction,Wholesale Club 1,Mexico City,Mexico,51694.67689524219,5300.0,Yes
+1436.0,3.0,2014.0,11.0,21.0,$266.67,Swipe Transaction,Anwar Old-Fashioned Things,Mexico City,Mexico,51694.67689524219,5932.0,Yes
+1445.0,0.0,2009.0,3.0,16.0,$1.23,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1447.0,0.0,2013.0,2.0,7.0,$165.47,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1447.0,0.0,2013.0,2.0,8.0,$4.48,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1447.0,0.0,2013.0,2.0,11.0,$24.32,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1447.0,2.0,2014.0,1.0,5.0,$11.57,Online Transaction,Sporting Goods Company 1,ONLINE,CA,51694.67689524219,5941.0,Yes
+1447.0,2.0,2014.0,1.0,5.0,$1.50,Swipe Transaction,Calvins Restaurant,Delhi,India,51694.67689524219,5812.0,Yes
+1447.0,2.0,2014.0,1.0,6.0,$151.49,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1448.0,0.0,2013.0,2.0,7.0,$30.73,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1456.0,0.0,2019.0,6.0,24.0,$215.14,Swipe Transaction,High End Goods Store 2,Womelsdorf,PA,19567.0,5719.0,Yes
+1457.0,2.0,2012.0,1.0,5.0,$203.41,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1457.0,2.0,2012.0,1.0,12.0,$111.14,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1457.0,2.0,2012.0,1.0,12.0,$1.19,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1472.0,1.0,2014.0,3.0,17.0,$90.43,Online Transaction,Airline Company 4,ONLINE,CA,51694.67689524219,3256.0,Yes
+1472.0,1.0,2014.0,3.0,18.0,$25.37,Online Transaction,Department Store 10,ONLINE,CA,51694.67689524219,5311.0,Yes
+1474.0,0.0,2012.0,1.0,19.0,$317.12,Online Transaction,Cruise Line 2,ONLINE,CA,51694.67689524219,4411.0,Yes
+1477.0,0.0,2014.0,5.0,9.0,$220.93,Online Transaction,Software-Hardware Company 2,ONLINE,CA,51694.67689524219,5045.0,Yes
+1477.0,0.0,2014.0,5.0,9.0,$12.73,Swipe Transaction,Kailanis Delhi Drugs,Delhi,India,51694.67689524219,5912.0,Yes
+1477.0,0.0,2014.0,5.0,10.0,$13.79,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+1477.0,3.0,2016.0,2.0,15.0,$20.25,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1478.0,0.0,2009.0,1.0,19.0,$80.76,Swipe Transaction,Bennett Gently Used Clothes,Istanbul,Turkey,51694.67689524219,5651.0,Yes
+1478.0,3.0,2019.0,6.0,17.0,$102.20,Chip Transaction,Sheilas Hotel and Casino,Hatfield,PA,19440.0,7995.0,Yes
+1478.0,3.0,2019.0,6.0,17.0,$236.22,Chip Transaction,Jesuss Hatfield Furnishings,Hatfield,PA,19440.0,5712.0,Yes
+1478.0,3.0,2019.0,6.0,17.0,$31.26,Chip Transaction,Department Store 3,Lansdale,PA,19446.0,5311.0,Yes
+1479.0,2.0,2015.0,3.0,31.0,$100.56,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1479.0,2.0,2015.0,3.0,31.0,$115.28,Chip Transaction,Gomez Wholesale,Mexico City,Mexico,51694.67689524219,5310.0,Yes
+1480.0,2.0,2015.0,1.0,26.0,$13.71,Chip Transaction,Wholesale Club 1,Mexico City,Mexico,51694.67689524219,5300.0,Yes
+1480.0,2.0,2015.0,1.0,30.0,$2.92,Chip Transaction,Turner Jewelers,Mexico City,Mexico,51694.67689524219,5094.0,Yes
+1480.0,2.0,2015.0,1.0,30.0,$2.93,Chip Transaction,Hamzas Grocery,Mexico City,Mexico,51694.67689524219,5411.0,Yes
+1480.0,2.0,2015.0,11.0,27.0,$81.53,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1486.0,1.0,2016.0,3.0,29.0,$12.32,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1486.0,1.0,2016.0,3.0,29.0,$263.19,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1486.0,2.0,2016.0,5.0,28.0,$260.17,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1486.0,4.0,2012.0,6.0,27.0,$47.81,Swipe Transaction,Burns Amman Gently Used Clothes,Amman,Jordan,51694.67689524219,5651.0,Yes
+1486.0,4.0,2012.0,6.0,29.0,$115.87,Swipe Transaction,Alizas Drugs,Amman,Jordan,51694.67689524219,5912.0,Yes
+1505.0,2.0,2003.0,4.0,14.0,$0.54,Online Transaction,Delivery Company 1,ONLINE,CA,51694.67689524219,4214.0,Yes
+1505.0,2.0,2003.0,4.0,14.0,$0.11,Swipe Transaction,Summers Wholesale,Bogota,Colombia,51694.67689524219,5310.0,Yes
+1505.0,2.0,2003.0,4.0,14.0,$76.42,Online Transaction,Clothing Store 5,ONLINE,CA,51694.67689524219,5651.0,Yes
+1514.0,1.0,2019.0,5.0,13.0,$29.39,Swipe Transaction,High End Goods Store 2,Womelsdorf,PA,19567.0,5719.0,Yes
+1514.0,1.0,2019.0,5.0,13.0,$70.83,Swipe Transaction,Robinson Jewelry,Hatfield,PA,19440.0,5094.0,Yes
+1518.0,0.0,2012.0,7.0,3.0,$9.10,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1528.0,1.0,1997.0,2.0,24.0,$113.70,Swipe Transaction,Diversified Discounters,Willard,OH,44890.0,5310.0,Yes
+1528.0,1.0,1997.0,2.0,24.0,$133.29,Swipe Transaction,Diversified Discounters,Willard,OH,44890.0,5310.0,Yes
+1541.0,1.0,2012.0,1.0,24.0,$9.00,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1542.0,6.0,2009.0,2.0,14.0,$40.14,Swipe Transaction,Department Store 3,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1542.0,6.0,2009.0,2.0,17.0,$7.56,Swipe Transaction,Santoss Istanbul Jewelry,Istanbul,Turkey,51694.67689524219,5094.0,Yes
+1542.0,6.0,2009.0,2.0,17.0,$14.89,Swipe Transaction,Santoss Istanbul Jewelry,Istanbul,Turkey,51694.67689524219,5094.0,Yes
+1542.0,6.0,2009.0,2.0,17.0,$1.32,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1554.0,0.0,2014.0,7.0,17.0,$0.81,Online Transaction,Bus Company 1,ONLINE,CA,51694.67689524219,4131.0,Yes
+1568.0,2.0,2016.0,2.0,18.0,$5.13,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1569.0,0.0,2009.0,5.0,18.0,$28.87,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+1569.0,0.0,2009.0,5.0,20.0,$15.96,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+1569.0,0.0,2009.0,5.0,21.0,$9.67,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+1599.0,0.0,2001.0,12.0,5.0,$100.36,Online Transaction,Department Store 7,ONLINE,CA,51694.67689524219,5311.0,Yes
+1599.0,0.0,2001.0,12.0,5.0,$26.25,Online Transaction,High End Goods Store 1,ONLINE,CA,51694.67689524219,5719.0,Yes
+1599.0,0.0,2001.0,12.0,5.0,$9.76,Swipe Transaction,Gao Fine Foods,Johannesberg,South Africa,51694.67689524219,5411.0,Yes
+1599.0,0.0,2012.0,3.0,22.0,$346.46,Swipe Transaction,Renees Jewelry,Amman,Jordan,51694.67689524219,5094.0,Yes
+1602.0,0.0,2012.0,2.0,21.0,$7.11,Online Transaction,Department Store 3,ONLINE,CA,51694.67689524219,5311.0,Yes
+1602.0,0.0,2012.0,2.0,21.0,$23.83,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+1602.0,0.0,2012.0,2.0,21.0,$10.05,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+1602.0,0.0,2012.0,2.0,21.0,$19.07,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+1612.0,1.0,2007.0,8.0,23.0,$5.74,Swipe Transaction,Pharmacy Company 1,Macon,GA,31201.0,5912.0,Yes
+1612.0,1.0,2007.0,8.0,24.0,$47.90,Swipe Transaction,Amalgamated Limousine,Macon,GA,31201.0,4121.0,Yes
+1612.0,1.0,2007.0,8.0,24.0,$3.29,Swipe Transaction,Gas Station Company 3,Macon,GA,31201.0,5541.0,Yes
+1618.0,0.0,2019.0,8.0,27.0,$44.29,Chip Transaction,Ramirez Jewelry,Georgetown,Guyana,51694.67689524219,5094.0,Yes
+1622.0,1.0,2016.0,10.0,16.0,$259.77,Chip Transaction,Wholesale Club 1,Santa Barbara,CA,93101.0,5300.0,Yes
+1622.0,1.0,2016.0,10.0,17.0,$57.98,Swipe Transaction,Supermarket Chain 2,Simi Valley,CA,93065.0,5411.0,Yes
+1630.0,2.0,2019.0,12.0,15.0,$4.47,Chip Transaction,Achilless Saint Louis Wine and Liquor,Saint Louis,MO,63146.0,5921.0,Yes
+1630.0,2.0,2019.0,12.0,15.0,$87.00,Chip Transaction,Javons Saint Charles Theatre,Saint Charles,MO,63304.0,7922.0,Yes
+1634.0,0.0,2008.0,10.0,19.0,$19.87,Swipe Transaction,Department Store 11,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1634.0,0.0,2008.0,10.0,19.0,$21.37,Swipe Transaction,Moore Istanbul Florists,Istanbul,Turkey,51694.67689524219,5193.0,Yes
+1634.0,0.0,2008.0,10.0,20.0,$1.71,Swipe Transaction,Delivery Company 1,Istanbul,Turkey,51694.67689524219,4214.0,Yes
+1638.0,0.0,2016.0,12.0,27.0,$60.44,Chip Transaction,Mylahs Womens Apparel,Caracas,Venezuela,51694.67689524219,5621.0,Yes
+1638.0,0.0,2016.0,12.0,27.0,$67.12,Online Transaction,Department Store 10,ONLINE,CA,51694.67689524219,5311.0,Yes
+1638.0,0.0,2016.0,12.0,27.0,$235.50,Chip Transaction,Leroux Caracas Jewelers,Caracas,Venezuela,51694.67689524219,5094.0,Yes
+1638.0,2.0,2017.0,4.0,4.0,$282.92,Swipe Transaction,Hotel and Resort Company 1,Goleta,CA,93117.0,3509.0,Yes
+1638.0,2.0,2017.0,4.0,4.0,$144.01,Chip Transaction,Averis Discount Goods,Simi Valley,CA,93065.0,5310.0,Yes
+1638.0,2.0,2017.0,4.0,5.0,$19.84,Swipe Transaction,Allstar Junk Removal,Simi Valley,CA,93065.0,7349.0,Yes
+1638.0,2.0,2017.0,4.0,6.0,$12.02,Swipe Transaction,Allstar Junk Removal,Simi Valley,CA,93065.0,7349.0,Yes
+1638.0,2.0,2017.0,4.0,6.0,$176.54,Chip Transaction,Gas Station Company 2,Simi Valley,CA,93065.0,5541.0,Yes
+1645.0,4.0,2014.0,9.0,26.0,$7.00,Online Transaction,Electronics Merchandiser 2,ONLINE,CA,51694.67689524219,5732.0,Yes
+1645.0,4.0,2014.0,9.0,26.0,$234.58,Online Transaction,Travel Booking Company 1,ONLINE,CA,51694.67689524219,4722.0,Yes
+1646.0,3.0,2014.0,12.0,11.0,$220.67,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1646.0,3.0,2014.0,12.0,11.0,$86.48,Online Transaction,High End Goods Store 1,ONLINE,CA,51694.67689524219,5719.0,Yes
+1662.0,0.0,2012.0,1.0,5.0,$32.25,Online Transaction,Discount Store 6,ONLINE,CA,51694.67689524219,5310.0,Yes
+1662.0,0.0,2012.0,1.0,5.0,$18.91,Online Transaction,Discount Store 2,ONLINE,CA,51694.67689524219,5310.0,Yes
+1662.0,0.0,2012.0,1.0,5.0,$44.77,Online Transaction,Discount Store 4,ONLINE,CA,51694.67689524219,5310.0,Yes
+1673.0,0.0,2012.0,7.0,1.0,$239.54,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+1674.0,0.0,2012.0,9.0,29.0,$101.41,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1674.0,0.0,2012.0,10.0,2.0,$73.74,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1683.0,1.0,2007.0,9.0,10.0,$5.08,Swipe Transaction,Damaris Macon Discount Emporium,Macon,GA,31204.0,5310.0,Yes
+1683.0,1.0,2007.0,9.0,10.0,$351.00,Swipe Transaction,Allen Wholesale,Macon,GA,31201.0,5300.0,Yes
+1695.0,1.0,2020.0,1.0,25.0,$0.20,Chip Transaction,Eddies Wholesale,Georgetown,Guyana,51694.67689524219,5310.0,Yes
+1695.0,1.0,2020.0,1.0,25.0,$104.32,Chip Transaction,Eddies Wholesale,Georgetown,Guyana,51694.67689524219,5310.0,Yes
+1696.0,4.0,2011.0,7.0,14.0,$23.45,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1696.0,4.0,2011.0,7.0,14.0,$21.78,Online Transaction,Pharmacy Company 3,ONLINE,CA,51694.67689524219,5912.0,Yes
+1696.0,4.0,2011.0,7.0,15.0,$49.48,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+1701.0,0.0,2019.0,3.0,10.0,$22.84,Swipe Transaction,High End Goods Store 2,Womelsdorf,PA,19567.0,5719.0,Yes
+1701.0,0.0,2019.0,3.0,11.0,$42.65,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+1701.0,0.0,2019.0,3.0,11.0,$5.17,Swipe Transaction,Josiahs Hatfield Wholesale,Hatfield,PA,19440.0,5300.0,Yes
+1701.0,2.0,2011.0,11.0,23.0,$110.85,Online Transaction,Home Improvement Store 1,ONLINE,CA,51694.67689524219,5211.0,Yes
+1701.0,2.0,2011.0,11.0,23.0,$12.44,Online Transaction,Hotel and Resort Company 3,ONLINE,CA,51694.67689524219,3722.0,Yes
+1701.0,2.0,2011.0,11.0,24.0,$22.19,Online Transaction,Fast Food Chain 16,ONLINE,CA,51694.67689524219,5814.0,Yes
+1704.0,1.0,2008.0,10.0,30.0,$138.97,Swipe Transaction,Airline Company 10,Istanbul,Turkey,51694.67689524219,3007.0,Yes
+1704.0,1.0,2008.0,11.0,3.0,$76.54,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+1704.0,1.0,2008.0,11.0,4.0,$0.49,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+1724.0,0.0,2014.0,7.0,7.0,$135.61,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+1725.0,0.0,2012.0,4.0,28.0,$0.54,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1728.0,1.0,2011.0,12.0,15.0,$49.29,Online Transaction,Department Store 12,ONLINE,CA,51694.67689524219,5311.0,Yes
+1728.0,1.0,2011.0,12.0,15.0,$120.60,Online Transaction,Fast Food Chain 14,ONLINE,CA,51694.67689524219,5814.0,Yes
+1728.0,1.0,2011.0,12.0,15.0,$15.50,Online Transaction,Cruise Line 3,ONLINE,CA,51694.67689524219,4411.0,Yes
+1728.0,1.0,2011.0,12.0,15.0,$72.92,Online Transaction,Digital Content Company 2,ONLINE,CA,51694.67689524219,5815.0,Yes
+1728.0,1.0,2011.0,12.0,15.0,$33.99,Online Transaction,Department Store 4,ONLINE,CA,51694.67689524219,5311.0,Yes
+1732.0,0.0,2017.0,2.0,28.0,$134.51,Online Transaction,Digital Games Company 1,ONLINE,CA,51694.67689524219,5816.0,Yes
+1732.0,4.0,2017.0,1.0,6.0,$50.18,Chip Transaction,Sporting Goods Company 1,Tulare,CA,93274.0,5941.0,Yes
+1732.0,4.0,2017.0,1.0,10.0,$15.55,Swipe Transaction,Delivery Company 3,Simi Valley,CA,93065.0,9402.0,Yes
+1732.0,4.0,2017.0,1.0,11.0,$123.42,Chip Transaction,Phone Service Provider 1,Simi Valley,CA,93065.0,4814.0,Yes
+1734.0,3.0,2009.0,7.0,13.0,$8.90,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1734.0,3.0,2009.0,7.0,16.0,$0.63,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1734.0,3.0,2009.0,7.0,16.0,$24.23,Swipe Transaction,Department Store 10,Istanbul,Turkey,51694.67689524219,5311.0,Yes
+1734.0,3.0,2009.0,7.0,16.0,$23.33,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+1735.0,2.0,2007.0,9.0,12.0,$70.89,Swipe Transaction,Morales Theater,Macon,GA,31201.0,7922.0,Yes
+1736.0,0.0,2012.0,3.0,30.0,$50.39,Swipe Transaction,Helenas Taxi,Amman,Jordan,51694.67689524219,4121.0,Yes
+1739.0,3.0,2007.0,7.0,9.0,$102.81,Swipe Transaction,Car Rental Company 7,Macon,GA,31210.0,3390.0,Yes
+1742.0,0.0,2013.0,11.0,8.0,$111.46,Online Transaction,Car Rental Company 1,ONLINE,CA,51694.67689524219,3359.0,Yes
+1742.0,0.0,2013.0,11.0,10.0,$134.06,Online Transaction,High End Goods Store 2,ONLINE,CA,51694.67689524219,5719.0,Yes
+1749.0,3.0,2011.0,10.0,6.0,$9.63,Swipe Transaction,Turner Gourmet Supplies,Amman,Jordan,51694.67689524219,5411.0,Yes
+1751.0,0.0,2012.0,6.0,23.0,$131.60,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1751.0,0.0,2012.0,6.0,26.0,$9.58,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1753.0,1.0,2015.0,12.0,20.0,$84.36,Swipe Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1753.0,1.0,2015.0,12.0,20.0,$120.88,Swipe Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1753.0,1.0,2015.0,12.0,20.0,$232.58,Swipe Transaction,Young Sofia Motel,Sofia,Bulgaria,51694.67689524219,7011.0,Yes
+1753.0,1.0,2015.0,12.0,20.0,$89.99,Swipe Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1754.0,2.0,2008.0,12.0,6.0,$64.61,Swipe Transaction,Bennett Gently Used Clothes,Istanbul,Turkey,51694.67689524219,5651.0,Yes
+1754.0,2.0,2008.0,12.0,6.0,$112.38,Swipe Transaction,Chen Rx,Istanbul,Turkey,51694.67689524219,5912.0,Yes
+1757.0,2.0,2014.0,5.0,25.0,$23.02,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+1757.0,2.0,2014.0,5.0,26.0,$112.33,Swipe Transaction,Department Store 5,Mexico City,Mexico,51694.67689524219,5311.0,Yes
+1757.0,2.0,2014.0,5.0,26.0,$76.58,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+1757.0,2.0,2014.0,5.0,26.0,$38.89,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,Yes
+1757.0,2.0,2014.0,5.0,26.0,$34.27,Swipe Transaction,Gomez Wholesale,Mexico City,Mexico,51694.67689524219,5310.0,Yes
+1767.0,1.0,2008.0,10.0,30.0,$61.37,Swipe Transaction,Restaurant Chain 5,Istanbul,Turkey,51694.67689524219,5812.0,Yes
+1767.0,1.0,2008.0,10.0,30.0,$4.49,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+1770.0,3.0,2011.0,10.0,5.0,$466.16,Swipe Transaction,Franklins Jewelry,Tegucigalpa,Honduras,51694.67689524219,5094.0,Yes
+1770.0,3.0,2016.0,1.0,30.0,$38.76,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1770.0,3.0,2016.0,2.0,9.0,$42.85,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1770.0,3.0,2016.0,2.0,9.0,$66.61,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1777.0,2.0,2007.0,6.0,29.0,$45.49,Swipe Transaction,Dominics Restaurant,Macon,GA,31201.0,5812.0,Yes
+1777.0,2.0,2007.0,6.0,29.0,$316.95,Swipe Transaction,Aubrielles Jewelry,Macon,GA,31201.0,5094.0,Yes
+1777.0,2.0,2007.0,7.0,1.0,$291.43,Swipe Transaction,Allstar Gently Used Clothes,Macon,GA,31201.0,5651.0,Yes
+1778.0,2.0,2009.0,10.0,22.0,$16.30,Swipe Transaction,Cruz Fine Foods,Istanbul,Turkey,51694.67689524219,5411.0,Yes
+1778.0,2.0,2009.0,10.0,22.0,$96.28,Swipe Transaction,Gas Station Company 1,Istanbul,Turkey,51694.67689524219,5541.0,Yes
+1795.0,3.0,2016.0,5.0,14.0,$42.62,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1795.0,3.0,2016.0,5.0,17.0,$10.50,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1795.0,3.0,2016.0,5.0,17.0,$82.26,Chip Transaction,Garcia Sofia Chic Boutique,Sofia,Bulgaria,51694.67689524219,5621.0,Yes
+1803.0,0.0,2012.0,9.0,13.0,$62.10,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+1803.0,0.0,2012.0,9.0,13.0,$16.39,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1806.0,0.0,2016.0,4.0,28.0,$271.86,Chip Transaction,Millies Fine Jewelry,Sofia,Bulgaria,51694.67689524219,5094.0,Yes
+1806.0,0.0,2016.0,4.0,30.0,$48.68,Chip Transaction,Arjuns Sofia Drugs,Sofia,Bulgaria,51694.67689524219,5912.0,Yes
+1817.0,0.0,2009.0,9.0,24.0,$36.29,Swipe Transaction,Car Rental Company 2,Istanbul,Turkey,51694.67689524219,3389.0,Yes
+1817.0,0.0,2009.0,9.0,24.0,$16.60,Swipe Transaction,Amaris Istanbul Wholesale,Istanbul,Turkey,51694.67689524219,5310.0,Yes
+1819.0,1.0,2012.0,4.0,28.0,$184.53,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1819.0,1.0,2012.0,5.0,5.0,$69.44,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1829.0,0.0,2016.0,12.0,13.0,$7.06,Chip Transaction,Discount Store 4,Simi Valley,CA,93065.0,5310.0,Yes
+1829.0,1.0,2016.0,12.0,18.0,$44.43,Chip Transaction,Vending Machine Product 2,Kiev,Ukraine,51694.67689524219,5499.0,Yes
+1832.0,5.0,2014.0,9.0,1.0,$201.55,Online Transaction,Discount Store 6,ONLINE,CA,51694.67689524219,5310.0,Yes
+1832.0,5.0,2014.0,9.0,4.0,$33.62,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+1832.0,5.0,2019.0,4.0,5.0,$33.91,Chip Transaction,Hall Family Clothing,Georgetown,Guyana,51694.67689524219,5651.0,Yes
+1833.0,5.0,2012.0,6.0,7.0,$15.46,Swipe Transaction,Aylas Lodge,Amman,Jordan,51694.67689524219,7011.0,Yes
+1833.0,5.0,2012.0,6.0,7.0,$110.54,Swipe Transaction,Burns Amman Gently Used Clothes,Amman,Jordan,51694.67689524219,5651.0,Yes
+1833.0,5.0,2012.0,6.0,7.0,$503.37,Swipe Transaction,Aylas Lodge,Amman,Jordan,51694.67689524219,7011.0,Yes
+1833.0,5.0,2012.0,6.0,8.0,$86.71,Swipe Transaction,Renees Jewelry,Amman,Jordan,51694.67689524219,5094.0,Yes
+1836.0,0.0,2014.0,3.0,24.0,$6.66,Online Transaction,Bookstore Company 1,ONLINE,CA,51694.67689524219,5942.0,Yes
+1837.0,1.0,2007.0,9.0,27.0,$193.58,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1837.0,1.0,2007.0,9.0,28.0,$0.15,Swipe Transaction,Amalgamated Limousine,Macon,GA,31201.0,4121.0,Yes
+1837.0,1.0,2007.0,10.0,4.0,$28.34,Swipe Transaction,Garcia Macon Ale House,Macon,GA,31204.0,5813.0,Yes
+1840.0,0.0,2009.0,7.0,20.0,$160.88,Swipe Transaction,Hopes Istanbul Shoes,Istanbul,Turkey,51694.67689524219,5661.0,Yes
+1840.0,0.0,2013.0,2.0,8.0,$48.81,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1851.0,4.0,2011.0,10.0,19.0,$0.02,Online Transaction,Bus Company 2,ONLINE,CA,51694.67689524219,4131.0,Yes
+1851.0,4.0,2011.0,10.0,19.0,$62.85,Online Transaction,Pharmacy Company 2,ONLINE,CA,51694.67689524219,5912.0,Yes
+1851.0,4.0,2011.0,10.0,20.0,$277.89,Online Transaction,Cruise Line 3,ONLINE,CA,51694.67689524219,4411.0,Yes
+1851.0,4.0,2011.0,10.0,20.0,$108.34,Swipe Transaction,Masvidal Taxi,Moscow,Russia,51694.67689524219,4121.0,Yes
+1853.0,2.0,2016.0,10.0,16.0,$133.37,Online Transaction,Fast Food Chain 16,ONLINE,CA,51694.67689524219,5814.0,Yes
+1853.0,2.0,2016.0,10.0,16.0,$3.97,Online Transaction,Wholesale Club 1,ONLINE,CA,51694.67689524219,5300.0,Yes
+1853.0,2.0,2016.0,10.0,16.0,$290.00,Chip Transaction,Drews Package Store,Caracas,Venezuela,51694.67689524219,5921.0,Yes
+1886.0,1.0,2014.0,1.0,10.0,$56.48,Swipe Transaction,Ingrids Gently Used Clothes,Delhi,India,51694.67689524219,5651.0,Yes
+1886.0,1.0,2014.0,1.0,10.0,$63.32,Swipe Transaction,Leilas Home Supplies,Delhi,India,51694.67689524219,5211.0,Yes
+1886.0,1.0,2014.0,1.0,10.0,$0.30,Online Transaction,Hardware Store 1,ONLINE,CA,51694.67689524219,5251.0,Yes
+1886.0,1.0,2014.0,1.0,11.0,$9.69,Swipe Transaction,Konnors Delhi Package Store,Delhi,India,51694.67689524219,5921.0,Yes
+1886.0,1.0,2014.0,1.0,11.0,$24.63,Online Transaction,Jewelry Company 1,ONLINE,CA,51694.67689524219,5094.0,Yes
+1891.0,5.0,2016.0,6.0,21.0,$8.00,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1891.0,5.0,2016.0,6.0,23.0,$213.01,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1891.0,5.0,2016.0,6.0,23.0,$6.63,Chip Transaction,Amalgamated Limousine,Sofia,Bulgaria,51694.67689524219,4121.0,Yes
+1910.0,1.0,2008.0,7.0,13.0,$22.93,Swipe Transaction,Convenience Store Chain 3,Istanbul,Turkey,51694.67689524219,5499.0,Yes
+1922.0,5.0,2012.0,1.0,24.0,$54.76,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1922.0,5.0,2012.0,1.0,25.0,$12.16,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1922.0,5.0,2012.0,1.0,25.0,$183.81,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1922.0,5.0,2012.0,1.0,25.0,$102.84,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1927.0,0.0,2012.0,2.0,14.0,$11.45,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1927.0,0.0,2012.0,2.0,14.0,$116.91,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1927.0,0.0,2012.0,2.0,14.0,$83.85,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1927.0,0.0,2012.0,2.0,14.0,$96.17,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1927.0,0.0,2012.0,3.0,3.0,$10.91,Swipe Transaction,Richardson Pharmacy,Tegucigalpa,Honduras,51694.67689524219,5912.0,Yes
+1927.0,0.0,2012.0,3.0,3.0,$213.14,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1934.0,3.0,2002.0,6.0,14.0,$21.71,Online Transaction,Travel Booking Company 1,ONLINE,CA,51694.67689524219,4722.0,Yes
+1936.0,1.0,2012.0,3.0,13.0,$43.64,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1937.0,2.0,2011.0,12.0,28.0,$86.81,Swipe Transaction,Alizas Drugs,Amman,Jordan,51694.67689524219,5912.0,Yes
+1937.0,3.0,2002.0,1.0,25.0,$74.11,Online Transaction,High End Goods Store 1,ONLINE,CA,51694.67689524219,5719.0,Yes
+1937.0,3.0,2002.0,1.0,25.0,$99.65,Online Transaction,Discount Store 5,ONLINE,CA,51694.67689524219,5310.0,Yes
+1937.0,3.0,2002.0,1.0,25.0,$4.01,Swipe Transaction,Gao Fine Foods,Johannesberg,South Africa,51694.67689524219,5411.0,Yes
+1937.0,3.0,2002.0,1.0,25.0,$30.39,Swipe Transaction,Lucass Johannesberg Rx,Johannesberg,South Africa,51694.67689524219,5912.0,Yes
+1937.0,3.0,2002.0,1.0,25.0,$7.78,Swipe Transaction,Department Store 3,Johannesberg,South Africa,51694.67689524219,5311.0,Yes
+1938.0,1.0,2011.0,7.0,20.0,$29.35,Online Transaction,High End Goods Store 1,ONLINE,CA,51694.67689524219,5719.0,Yes
+1938.0,1.0,2011.0,7.0,20.0,$269.85,Online Transaction,Home Improvement Store 1,ONLINE,CA,51694.67689524219,5211.0,Yes
+1938.0,1.0,2011.0,7.0,20.0,$8.53,Swipe Transaction,Reyes Wholesale,Moscow,Russia,51694.67689524219,5310.0,Yes
+1938.0,1.0,2011.0,7.0,20.0,$48.79,Online Transaction,Discount Store 3,ONLINE,CA,51694.67689524219,5310.0,Yes
+1938.0,1.0,2011.0,7.0,21.0,$30.79,Online Transaction,Electronics Merchandiser 3,ONLINE,CA,51694.67689524219,5732.0,Yes
+1938.0,1.0,2011.0,7.0,22.0,$13.01,Online Transaction,Digital Content Company 3,ONLINE,CA,51694.67689524219,5815.0,Yes
+1939.0,2.0,2013.0,1.0,4.0,$49.07,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1942.0,5.0,2013.0,12.0,26.0,$63.19,Online Transaction,Software-Hardware Company 3,ONLINE,CA,51694.67689524219,5045.0,Yes
+1942.0,5.0,2013.0,12.0,26.0,$2.48,Online Transaction,Pharmacy Company 2,ONLINE,CA,51694.67689524219,5912.0,Yes
+1953.0,1.0,2002.0,10.0,22.0,$61.05,Swipe Transaction,King Grocery,Bogota,Colombia,51694.67689524219,5411.0,Yes
+1953.0,1.0,2002.0,10.0,22.0,$128.13,Online Transaction,Electronics Merchandiser 1,ONLINE,CA,51694.67689524219,5732.0,Yes
+1954.0,1.0,2015.0,11.0,1.0,$13.03,Chip Transaction,Amalgamated Limousine,Sofia,Bulgaria,51694.67689524219,4121.0,Yes
+1954.0,1.0,2015.0,11.0,2.0,$3.46,Chip Transaction,Fox Wholesale,Sofia,Bulgaria,51694.67689524219,5310.0,Yes
+1958.0,0.0,2020.0,1.0,15.0,$1.22,Chip Transaction,Eddies Wholesale,Georgetown,Guyana,51694.67689524219,5310.0,Yes
+1965.0,4.0,2011.0,11.0,28.0,$72.00,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+1965.0,4.0,2011.0,11.0,29.0,$144.18,Swipe Transaction,Kelly Discounters,Tegucigalpa,Honduras,51694.67689524219,5310.0,Yes
+1984.0,3.0,2016.0,9.0,11.0,$87.45,Swipe Transaction,Abe Pharmacy,Simi Valley,CA,93065.0,5912.0,Yes
+1984.0,3.0,2016.0,9.0,14.0,$54.78,Chip Transaction,Aarons Simi Valley Limo,Simi Valley,CA,93065.0,4121.0,Yes
+1984.0,3.0,2016.0,9.0,14.0,$110.14,Chip Transaction,Hotel and Resort Company 5,Santa Barbara,CA,93105.0,3640.0,Yes
+1990.0,0.0,2012.0,7.0,4.0,$31.60,Swipe Transaction,Belens Bar,Amman,Jordan,51694.67689524219,5813.0,Yes
+1990.0,0.0,2012.0,7.0,5.0,$99.56,Swipe Transaction,Peres Amman Wholesale,Amman,Jordan,51694.67689524219,5310.0,Yes
+1995.0,1.0,2014.0,2.0,6.0,$182.54,Online Transaction,Department Store 9,ONLINE,CA,51694.67689524219,5311.0,Yes
+1995.0,1.0,2014.0,2.0,6.0,$6.55,Online Transaction,Department Store 11,ONLINE,CA,51694.67689524219,5311.0,Yes
+1995.0,1.0,2014.0,2.0,6.0,$84.89,Online Transaction,Department Store 2,ONLINE,CA,51694.67689524219,5311.0,Yes
+1995.0,1.0,2014.0,2.0,9.0,$0.93,Online Transaction,Department Store 10,ONLINE,CA,51694.67689524219,5311.0,Yes
+1995.0,1.0,2014.0,2.0,9.0,$45.45,Online Transaction,Fast Food Chain 16,ONLINE,CA,51694.67689524219,5814.0,Yes
+1995.0,1.0,2014.0,2.0,10.0,$196.72,Online Transaction,Pharmacy Company 1,ONLINE,CA,51694.67689524219,5912.0,Yes
+1997.0,0.0,2020.0,1.0,29.0,$0.11,Online Transaction,Crafts Store 1,ONLINE,CA,51694.67689524219,5970.0,Yes
+1997.0,0.0,2020.0,1.0,29.0,$14.20,Online Transaction,Delivery Company 2,ONLINE,CA,51694.67689524219,4214.0,Yes
+1997.0,0.0,2020.0,1.0,29.0,$61.63,Swipe Transaction,Ansons Saint Louis Florists,Saint Louis,MO,63146.0,5193.0,Yes
+1997.0,0.0,2020.0,1.0,29.0,$433.37,Chip Transaction,Morris Carnival,Saint Louis,MO,63146.0,7996.0,Yes
+1998.0,2.0,2013.0,1.0,26.0,$193.24,Swipe Transaction,Neufelder Tegucigalpa Wine and Liquor,Tegucigalpa,Honduras,51694.67689524219,5921.0,Yes
+1999.0,3.0,2020.0,1.0,26.0,$221.96,Swipe Transaction,Abrils Wholesale,Saint Louis,MO,63146.0,5300.0,Yes
+1999.0,3.0,2020.0,1.0,26.0,$26.69,Swipe Transaction,Abrils Wholesale,Saint Louis,MO,63146.0,5300.0,Yes
+1999.0,3.0,2020.0,1.0,26.0,$103.95,Chip Transaction,Cox Saint Louis Restaurant,Saint Louis,MO,63146.0,5812.0,Yes
+1999.0,3.0,2020.0,1.0,26.0,$0.24,Online Transaction,Digital Content Company 2,ONLINE,CA,51694.67689524219,5815.0,Yes
